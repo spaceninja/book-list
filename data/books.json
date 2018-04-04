@@ -1,0 +1,28 @@
+[
+    {
+        "title": "The Name of the Wind",
+        "author": "Rothfuss, Patrick",
+        "rating": 4.6,
+        "length": 676,
+        "series": "1/3"
+    },
+    {
+        "title": "All the Birds in the Sky",
+        "author": "Anders, Charlie Jane",
+        "rating": 3.9,
+        "length": 317
+    },
+    {
+        "title": "Sleeping Giants",
+        "author": "Neuvel, Sylvain",
+        "rating": 3.9,
+        "length": 322,
+        "series": "1/3"
+    },
+    {
+        "title": "Wait But Why",
+        "author": "Urban, Tim",
+        "rating": 4.8,
+        "length": 851
+    }
+]

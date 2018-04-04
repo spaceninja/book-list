@@ -1,0 +1,26 @@
+{
+  "name": "spaceninja-book-list",
+  "version": "1.0.0",
+  "description": "Sortable List of Books to Read",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceninja/book-list.git"
+  },
+  "author": "Scott Vandehey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaceninja/book-list/issues"
+  },
+  "homepage": "https://github.com/spaceninja/book-list#readme",
+  "devDependencies": {
+    "babel-preset-airbnb": "^2.4.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "stylelint": "^9.2.0",
+    "stylelint-config-saymedia": "github:saymedia/stylelint-config-saymedia"
+  }
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Book List</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/main.css">
+<script defer src="js/listbooks-min.js"></script>
+</head>
+<body>
+<h1>Book List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th><button type="button" class="btn-sort-by" data-sort-by="title" id="btn-sort-title">Title</button></th>
+            <th><button type="button" class="btn-sort-by" data-sort-by="author" id="btn-sort-author">Author</button></th>
+            <th><button type="button" class="btn-sort-by" data-sort-by="rating" id="btn-sort-rating">Rating</button></th>
+            <th><button type="button" class="btn-sort-by" data-sort-by="length" id="btn-sort-date">Pages</button></th>
+            <th>Series?</th>
+        </tr>
+    </thead>
+    <tbody id="booklist-content">
+        <tr>
+            <td colspan="5">
+                <p id="booklist-error">loading</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
