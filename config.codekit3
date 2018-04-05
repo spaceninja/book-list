@@ -66,8 +66,8 @@
 		"oA": 1,
 		"oAP": "\/data\/books-min.json",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oO": 1,
+		"oS": 0
 		},
 	"\/index.html": {
 		"cB": 0,
@@ -96,6 +96,16 @@
 		"sC": 3,
 		"tS": 1
 		},
+	"\/js\/thenBy.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/js\/thenBy.min-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 1
+		},
 	"\/node_modules": {
 		"ft": 65536,
 		"oA": 2,
@@ -107,16 +117,16 @@
 		"oA": 1,
 		"oAP": "\/package-lock-min.json",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oO": 1,
+		"oS": 0
 		},
 	"\/package.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/package-min.json",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oO": 1,
+		"oS": 0
 		},
 	"\/README.md": {
 		"cB": 0,
@@ -1995,8 +2005,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"orderOutput": 0,
-		"outputStyle": 1
+		"orderOutput": 1,
+		"outputStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,

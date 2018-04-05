@@ -1,3 +1,4 @@
+/* global firstBy */
 /* eslint-env browser */
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
@@ -8,50 +9,20 @@ const xhr = new XMLHttpRequest();
 let books;
 
 //
-// Remove articles from strings for sorting
+// Sort an array by keys
 //
-// https://stackoverflow.com/a/34347138
-//
-function removeArticles(str) {
-  const words = str.split(' ');
-  if (words.length <= 1) return str;
-  if (words[0] === 'a' || words[0] === 'the' || words[0] === 'an') {
-    return words.splice(1).join(' ');
+const sortByKey = function sortByKey(array, key1, key2, sortOrder) {
+  let s = '';
+
+  if (sortOrder === 'descending') {
+    s = firstBy(key1, { ignoreCase: true, direction: -1 })
+      .thenBy(key2, { ignoreCase: true, direction: -1 });
+  } else {
+    s = firstBy(key1, { ignoreCase: true })
+      .thenBy(key2, { ignoreCase: true });
   }
-  return str;
-}
 
-//
-// Sort an array by key
-//
-// https://stackoverflow.com/a/14463464
-//
-const sortByKey = function sortByKey(array, key) {
-  return array.sort((a, b) => {
-    let x = a[key];
-    let y = b[key];
-
-    if (typeof x === 'string') {
-      x = removeArticles(x.toLowerCase());
-    }
-    if (typeof y === 'string') {
-      y = removeArticles(y.toLowerCase());
-    }
-    if (x < y) {
-      return -1;
-    } else if (x > y) {
-      return 1;
-    }
-    return 0;
-  });
-};
-
-//
-// Parse the book array and add new keys for sorting
-//
-const parseBooks = function parseBooks(input) {
-  const bookArray = input;
-  return bookArray;
+  return array.sort(s);
 };
 
 //
@@ -67,7 +38,7 @@ const buildHTML = function buildHTML(bookArray) {
       `<td>${bookArray[i].author}</td>` +
       `<td class="num">${bookArray[i].rating}</td>` +
       `<td class="num">${bookArray[i].length}</td>` +
-      `<td>${bookArray[i].series}</td></tr>`;
+      `<td>${bookArray[i].series || ''}</td></tr>\n`;
   }
 
   return content;
@@ -77,22 +48,27 @@ const buildHTML = function buildHTML(bookArray) {
 // Sort the book array and rebuild the HTML using the new sort
 //
 const sortBy = function sortBy() {
-  sortByKey(books, this.dataset.sortBy);
+  sortByKey(
+    books,
+    this.dataset.sortBy,
+    this.dataset.sortSecondary,
+    this.dataset.sortOrder,
+  );
   if (this.dataset.sortActive === 'true') {
-    if (this.dataset.sortOrder === 'ascending') {
-      booklistContent.innerHTML = buildHTML(books.reverse());
-      this.dataset.sortOrder = 'descending';
-    } else {
+    if (this.dataset.sortReverse === 'true') {
       booklistContent.innerHTML = buildHTML(books);
-      this.dataset.sortOrder = 'ascending';
+      this.dataset.sortReverse = false;
+    } else {
+      booklistContent.innerHTML = buildHTML(books.reverse());
+      this.dataset.sortReverse = true;
     }
   } else {
+    booklistContent.innerHTML = buildHTML(books);
     sortButtonsArray.forEach((e) => {
       e.dataset.sortActive = 'false';
+      e.dataset.sortReverse = 'false';
     });
-    booklistContent.innerHTML = buildHTML(books);
     this.dataset.sortActive = 'true';
-    this.dataset.sortOrder = 'ascending';
   }
 };
 
@@ -110,10 +86,14 @@ xhr.open('GET', 'data/books.json', true);
 
 xhr.onload = function ajaxOnLoad() {
   if (xhr.status >= 200 && xhr.status < 400) {
-    books = parseBooks(JSON.parse(xhr.responseText));
-    sortByKey(books, initialSortButton.dataset.sortBy);
-    booklistContent.innerHTML = buildHTML(books.reverse());
-    initialSortButton.dataset.sortOrder = 'descending';
+    books = JSON.parse(xhr.responseText);
+    sortByKey(
+      books,
+      initialSortButton.dataset.sortBy,
+      initialSortButton.dataset.sortSecondary,
+      initialSortButton.dataset.sortOrder,
+    );
+    booklistContent.innerHTML = buildHTML(books);
     initialSortButton.dataset.sortActive = 'true';
   } else {
     const error = 'Whoops! Something went wrong. Please try again.';

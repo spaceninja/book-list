@@ -6,7 +6,8 @@
 <title>Book List</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/main.css">
-<script defer src="js/listbooks-min.js"></script>
+<script defer src="js/thenBy.min.js"></script>
+<script defer src="js/listbooks.js"></script>
 </head>
 <body>
 <h1>Book List</h1>
@@ -14,10 +15,50 @@
 <table>
     <thead>
         <tr>
-            <th><button type="button" class="btn-sort-by" data-sort-by="title" id="btn-sort-title">Title</button></th>
-            <th><button type="button" class="btn-sort-by" data-sort-by="author" id="btn-sort-author">Author</button></th>
-            <th><button type="button" class="btn-sort-by" data-sort-by="rating" id="btn-sort-rating">Rating</button></th>
-            <th><button type="button" class="btn-sort-by" data-sort-by="length" id="btn-sort-date">Pages</button></th>
+            <th>
+                <button
+                    type="button"
+                    class="btn-sort-by"
+                    data-sort-by="title"
+                    data-sort-secondary="author"
+                    data-sort-order="ascending"
+                    id="btn-sort-title">
+                    Title
+                </button>
+            </th>
+            <th>
+                <button
+                    type="button"
+                    class="btn-sort-by"
+                    data-sort-by="author"
+                    data-sort-secondary="title"
+                    data-sort-order="ascending"
+                    id="btn-sort-author">
+                    Author
+                </button>
+            </th>
+            <th>
+                <button
+                    type="button"
+                    class="btn-sort-by"
+                    data-sort-by="rating"
+                    data-sort-secondary="length"
+                    data-sort-order="descending"
+                    id="btn-sort-rating">
+                    Rating
+                </button>
+            </th>
+            <th>
+                <button
+                    type="button"
+                    class="btn-sort-by"
+                    data-sort-by="length"
+                    data-sort-secondary="rating"
+                    data-sort-order="descending"
+                    id="btn-sort-date">
+                    Pages
+                </button>
+            </th>
             <th>Series?</th>
         </tr>
     </thead>
