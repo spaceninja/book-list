@@ -3,6 +3,7 @@
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
 const booklistSort = document.getElementById('booklist-sort');
+const bookTemplate = document.getElementById('book-template');
 const xhr = new XMLHttpRequest();
 let books = [];
 
@@ -27,18 +28,27 @@ const sortByKeys = function sortByKeys(array, key1, key2, sortOrder) {
 // Convert book array into HTML
 //
 const buildHTML = function buildHTML(bookArray) {
-  let content = '';
+  if ('content' in document.createElement('template')) {
+    booklistContent.innerHTML = '';
 
-  for (let i = 0; i < bookArray.length; i += 1) {
-    content +=
-      `<tr><td>${bookArray[i].title}</td>` +
-      `<td>${bookArray[i].author}</td>` +
-      `<td class="num">${bookArray[i].rating}</td>` +
-      `<td class="num">${bookArray[i].length}</td>` +
-      `<td>${bookArray[i].series || ''}</td></tr>\n`;
+    for (let i = 0; i < bookArray.length; i += 1) {
+      const t = document.importNode(bookTemplate.content, true);
+
+      t.querySelector('.book--title').innerHTML = bookArray[i].title;
+      t.querySelector('.book--author').innerHTML = bookArray[i].author;
+      t.querySelector('.book--rating').innerHTML = bookArray[i].rating;
+      t.querySelector('.book--length').innerHTML = bookArray[i].length;
+      if (bookArray[i].series) {
+        t.querySelector('.book--series').innerHTML =
+          `${bookArray[i].series.number}/${bookArray[i].series.length}`;
+      }
+
+      booklistContent.appendChild(t);
+    }
+  } else {
+    const error = 'Oh no! Your browser doesn\'t support template!';
+    booklistError.innerHTML = error;
   }
-
-  return content;
 };
 
 //
@@ -54,7 +64,7 @@ const sortBy = function sortBy() {
     sortOption.dataset.sortOrder,
   );
 
-  booklistContent.innerHTML = buildHTML(books);
+  buildHTML(books);
 };
 
 //
