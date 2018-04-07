@@ -15,27 +15,38 @@
 <select id="booklist-sort">
     <option
         value="title"
+        data-sort-order="ascending"
         data-sort-secondary="author"
-        data-sort-order="ascending">
+        data-sort-secondary-order="ascending">
         Title
     </option>
     <option
-        value="author"
+        value="series"
+        data-sort-order="ascending"
         data-sort-secondary="title"
-        data-sort-order="ascending">
+        data-sort-secondary-order="ascending">
+        Series
+    </option>
+    <option
+        value="author"
+        data-sort-order="ascending"
+        data-sort-secondary="title"
+        data-sort-secondary-order="ascending">
         Author
     </option>
     <option
         selected
         value="rating"
+        data-sort-order="descending"
         data-sort-secondary="length"
-        data-sort-order="descending">
+        data-sort-secondary-order="ascending">
         Rating
     </option>
     <option
         value="length"
+        data-sort-order="ascending"
         data-sort-secondary="rating"
-        data-sort-order="ascending">
+        data-sort-secondary-order="descending">
         Pages
     </option>
 </select>
@@ -44,10 +55,10 @@
     <thead>
         <tr>
             <th>Title</th>
+            <th>Series</th>
             <th>Author</th>
             <th>Rating</th>
             <th>Pages</th>
-            <th>Series?</th>
         </tr>
     </thead>
     <tbody id="booklist-content">
@@ -62,10 +73,10 @@
 <template id="book-template">
     <tr class="book">
         <td class="book--title"></td>
+        <td class="book--series"></td>
         <td class="book--author"></td>
         <td class="book--rating num"></td>
         <td class="book--length num"></td>
-        <td class="book--series"></td>
     </tr>
 </template>
 
