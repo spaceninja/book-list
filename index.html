@@ -12,53 +12,41 @@
 <body>
 <h1>Book List</h1>
 
+<select id="booklist-sort">
+    <option
+        value="title"
+        data-sort-secondary="author"
+        data-sort-order="ascending">
+        Title
+    </option>
+    <option
+        value="author"
+        data-sort-secondary="title"
+        data-sort-order="ascending">
+        Author
+    </option>
+    <option
+        selected
+        value="rating"
+        data-sort-secondary="length"
+        data-sort-order="descending">
+        Rating
+    </option>
+    <option
+        value="length"
+        data-sort-secondary="rating"
+        data-sort-order="descending">
+        Pages
+    </option>
+</select>
+
 <table>
     <thead>
         <tr>
-            <th>
-                <button
-                    type="button"
-                    class="btn-sort-by"
-                    data-sort-by="title"
-                    data-sort-secondary="author"
-                    data-sort-order="ascending"
-                    id="btn-sort-title">
-                    Title
-                </button>
-            </th>
-            <th>
-                <button
-                    type="button"
-                    class="btn-sort-by"
-                    data-sort-by="author"
-                    data-sort-secondary="title"
-                    data-sort-order="ascending"
-                    id="btn-sort-author">
-                    Author
-                </button>
-            </th>
-            <th>
-                <button
-                    type="button"
-                    class="btn-sort-by"
-                    data-sort-by="rating"
-                    data-sort-secondary="length"
-                    data-sort-order="descending"
-                    id="btn-sort-rating">
-                    Rating
-                </button>
-            </th>
-            <th>
-                <button
-                    type="button"
-                    class="btn-sort-by"
-                    data-sort-by="length"
-                    data-sort-secondary="rating"
-                    data-sort-order="descending"
-                    id="btn-sort-date">
-                    Pages
-                </button>
-            </th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Rating</th>
+            <th>Pages</th>
             <th>Series?</th>
         </tr>
     </thead>

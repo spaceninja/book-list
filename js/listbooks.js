@@ -2,16 +2,14 @@
 /* eslint-env browser */
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
-const initialSortButton = document.getElementById('btn-sort-rating');
-const sortButtons = document.querySelectorAll('[data-sort-by]');
-const sortButtonsArray = Array.from(sortButtons);
+const booklistSort = document.getElementById('booklist-sort');
 const xhr = new XMLHttpRequest();
-let books;
+let books = [];
 
 //
 // Sort an array by keys
 //
-const sortByKey = function sortByKey(array, key1, key2, sortOrder) {
+const sortByKeys = function sortByKeys(array, key1, key2, sortOrder) {
   let s = '';
 
   if (sortOrder === 'descending') {
@@ -31,7 +29,6 @@ const sortByKey = function sortByKey(array, key1, key2, sortOrder) {
 const buildHTML = function buildHTML(bookArray) {
   let content = '';
 
-  // add a table row for each item in the book array
   for (let i = 0; i < bookArray.length; i += 1) {
     content +=
       `<tr><td>${bookArray[i].title}</td>` +
@@ -45,39 +42,25 @@ const buildHTML = function buildHTML(bookArray) {
 };
 
 //
-// Sort the book array and rebuild the HTML using the new sort
+// Sort array by selected option
 //
 const sortBy = function sortBy() {
-  sortByKey(
+  const sortOption = this.options[this.selectedIndex];
+
+  sortByKeys(
     books,
-    this.dataset.sortBy,
-    this.dataset.sortSecondary,
-    this.dataset.sortOrder,
+    sortOption.value,
+    sortOption.dataset.sortSecondary,
+    sortOption.dataset.sortOrder,
   );
-  if (this.dataset.sortActive === 'true') {
-    if (this.dataset.sortReverse === 'true') {
-      booklistContent.innerHTML = buildHTML(books);
-      this.dataset.sortReverse = false;
-    } else {
-      booklistContent.innerHTML = buildHTML(books.reverse());
-      this.dataset.sortReverse = true;
-    }
-  } else {
-    booklistContent.innerHTML = buildHTML(books);
-    sortButtonsArray.forEach((e) => {
-      e.dataset.sortActive = 'false';
-      e.dataset.sortReverse = 'false';
-    });
-    this.dataset.sortActive = 'true';
-  }
+
+  booklistContent.innerHTML = buildHTML(books);
 };
 
 //
-// Add event listeners to sort buttons
+// Add event listener to select menu
 //
-sortButtonsArray.forEach((e) => {
-  e.addEventListener('click', sortBy);
-});
+booklistSort.addEventListener('change', sortBy);
 
 //
 // Prepare and send the Ajax request, and deal with the response
@@ -87,14 +70,7 @@ xhr.open('GET', 'data/books.json', true);
 xhr.onload = function ajaxOnLoad() {
   if (xhr.status >= 200 && xhr.status < 400) {
     books = JSON.parse(xhr.responseText);
-    sortByKey(
-      books,
-      initialSortButton.dataset.sortBy,
-      initialSortButton.dataset.sortSecondary,
-      initialSortButton.dataset.sortOrder,
-    );
-    booklistContent.innerHTML = buildHTML(books);
-    initialSortButton.dataset.sortActive = 'true';
+    booklistSort.dispatchEvent(new Event('change'));
   } else {
     const error = 'Whoops! Something went wrong. Please try again.';
     booklistError.innerHTML = error;
