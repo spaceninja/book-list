@@ -2,8 +2,9 @@
     {
         "title": "The Name of the Wind",
         "author": "Rothfuss, Patrick",
-        "rating": 4.6,
+        "rating": 4.55,
         "length": 676,
+        "note": "Re-reading",
         "series": {
             "name": "The Kingkiller Chronicle",
             "number": 1,
@@ -13,24 +14,606 @@
     {
         "title": "All the Birds in the Sky",
         "author": "Anders, Charlie Jane",
-        "rating": 3.9,
+        "note": "Nebula winner for best novel",
+        "source": "io9",
+        "rating": 3.57,
         "length": 317
     },
     {
         "title": "Sleeping Giants",
         "author": "Neuvel, Sylvain",
-        "rating": 3.9,
+        "note": "the mystery of the bizarre artifact remains unsolved",
+        "source": "Tor newsletter",
+        "rating": 3.84,
         "length": 322,
         "series": {
-            "name": "The Themis Files",
+            "name": "Themis Files",
             "number": 1,
             "length": 3
         }
     },
     {
-        "title": "Wait But Why",
+        "title": "Wait But Why Year One",
         "author": "Urban, Tim",
-        "rating": 4.8,
-        "length": 851
+        "note": "ebook collection of blog essays",
+        "rating": 4.63,
+        "length": 1129
+    },
+    {
+        "title": "Seed to Harvest Bundle",
+        "author": "Butler, Octavia E.",
+        "note": "everyone recommends Octavia Butler",
+        "rating": 4.32,
+        "length": 788,
+        "series": {
+            "name": "Patternmaster",
+            "number": "1-4",
+            "length": 4
+        }
+    },
+    {
+        "title": "The Wrong Stars",
+        "author": "Pratt, Tim",
+        "rating": 3.89,
+        "length": 396,
+        "source": "io9",
+        "note":
+            "It starts with a deep-space salvage crew discovering a seemingly long-abandoned ship that turns out to have one occupant—who, once revived, warns them of an alien race that mixes advanced technology with pure evil."
+    },
+    {
+        "title": "Fragile Things",
+        "author": "Gaiman, Neil",
+        "rating": 4.01,
+        "length": 400,
+        "note": "Contains Sherlock Holmes/Cthulu story"
+    },
+    {
+        "title": "Europe in Autumn",
+        "author": "Hutchinson, Dave",
+        "rating": 3.73,
+        "length": 432,
+        "note": "By the author of Acadie",
+        "series": {
+            "name": "The Fractured Europe Sequence",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "Killing Gravity",
+        "author": "White, Corey J.",
+        "rating": 3.67,
+        "length": 176,
+        "source": "Warren Ellis",
+        "note":
+            "a nicely diverse cast, a cute space ferret of death and a female protagonist most often referred to as a void-damned space witch. I feel like you don't need to know much else.",
+        "series": {
+            "name": "Voidwitch Saga",
+            "number": 1,
+            "length": 2
+        }
+
+    },
+    {
+        "title": "Provenance",
+        "author": "Leckie, Ann",
+        "rating": 3.86,
+        "length": 448,
+        "note": "From the author of Ancillary Mercy"
+    },
+    {
+        "title": "Gods, Monsters, and the Lucky Peach",
+        "author": "Robson, Kelly",
+        "rating": 3.86,
+        "length": 176
+    },
+    {
+        "title": "Binti: The Night Masquerade",
+        "author": "Okorafor, Nnedi",
+        "rating": 4.22,
+        "length": 205,
+        "series": {
+            "name": "Binti",
+            "number": 3,
+            "length": 3
+        }
+    },
+    {
+        "title": "Trigger Warnings",
+        "author": "Gaiman, Neil",
+        "rating": 3.92,
+        "length": 371,
+        "source": "Jen Myers"
+    },
+    {
+        "title": "Wool Omnibus",
+        "author": "Howey, Hugh",
+        "rating": 4.24,
+        "length": 509,
+        "source": "Gabe",
+        "series": {
+            "name": "Silo",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "Too Like the Lightning",
+        "author": "Palmer, Ada",
+        "rating": 3.87,
+        "length": 432,
+        "source": "io9",
+        "series": {
+            "name": "Terra Ignota",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "Mechanical Failure",
+        "author": "Zieja, Joe",
+        "rating": 3.72,
+        "length": 345,
+        "note":
+            "'Remarkable & Sarcastic: When Rogers returns after only a year away, something has changed. These are soldiers—actual soldiers doing actual soldier things like preparing for a war that Rogers is sure doesn’t exist. Rogers vows to put a stop to all this nonsense—even if it means doing actual work.'",
+        "series": {
+            "name": "Epic Failure",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "Skeen's Leap",
+        "author": "Clayton, Jo",
+        "rating": 3.74,
+        "length": 320,
+        "series": {
+            "name": "Skeen",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Boy on the Bridge",
+        "author": "Carey, M.R.",
+        "rating": 4.02,
+        "length": 400,
+        "note": "by the author of The Girl with All the Gifts",
+        "series": {
+            "name": "The Girl With All the Gifts",
+            "number": 2,
+            "length": 2
+        }
+    },
+    {
+        "title": "Revenger",
+        "author": "Reynolds, Alastair",
+        "rating": 3.81,
+        "length": 411,
+        "source": "io9"
+    },
+    {
+        "title": "Shadow & Claw",
+        "author": "Wolfe, Gene",
+        "rating": 4.04,
+        "length": 417,
+        "note":
+            "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
+        "series": {
+            "name": "The Book of the New Sun",
+            "number": "1-2",
+            "length": 5
+        }
+    },
+    {
+        "title": "Good Omens",
+        "author": "Gaiman, Neil & Pratchett, Terry",
+        "rating": 4.25,
+        "length": 433,
+        "note": "Re-reading"
+    },
+    {
+        "title": "Lilith's Brood Bundle",
+        "author": "Butler, Octavia E.",
+        "rating": 4.31,
+        "length": 754,
+        "note":
+            "Recommended to Kara and by many people on Twitter in the wake of the white boy writing about slavery debacle",
+        "series": {
+            "name": "Xenogenesis",
+            "number": "1-3",
+            "length": 3
+        }
+    },
+    {
+        "title": "The Black Tides of Heaven",
+        "author": "Yang, J.Y.",
+        "rating": 3.96,
+        "length": 240,
+        "series": {
+            "name": "Tensorate",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Blade Itself",
+        "author": "Abercrombie, Joe",
+        "rating": 4.14,
+        "length": 544,
+        "source": "Everyone",
+        "series": {
+            "name": "The First Law",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Gunslinger",
+        "author": "King, Stephen",
+        "rating": 3.97,
+        "length": 340,
+        "series": {
+            "name": "The Dark Tower",
+            "number": 1,
+            "length": 8
+        }
+    },
+    {
+        "title": "The Emperor's Blades",
+        "author": "Stavely, Brian",
+        "rating": 4.14,
+        "length": 593,
+        "source": "Verge",
+        "note":
+            "In 2014, Brian Staveley burst onto the scene with The Emperor’​s Blades, an excellent start to a fantasy epic. io9: modern epic fantasy mixed in with a nice dose of Lovecraftian weirdness https://goo.gl​/3NbQD3",
+        "series": {
+            "name": "Chronicle of the Unhewn Throne",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Sheep Look Up",
+        "author": "Brunner John",
+        "rating": 3.98,
+        "length": 398,
+        "source": "Warren Ellis"
+    },
+    {
+        "title": "Singularity Sky",
+        "author": "Stross, Charles",
+        "rating": 3.82,
+        "length": 356,
+        "note":
+            "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
+        "series": {
+            "name": "Eschaton",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "The Magician King",
+        "author": "Grossman, Lev",
+        "rating": 3.91,
+        "length": 418,
+        "series": {
+            "name": "The Magicians",
+            "number": 2,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Rift",
+        "author": "Allan, Nina",
+        "rating": 3.40,
+        "length": 400,
+        "source": "io9",
+        "note":
+            "A woman goes missing as a teen and returns 20 years later, claiming she’s spent the intervening time on another planet. Her sister is thrilled but is unsure about whether or not she should believe those tales of intergalactic travel."
+    },
+    {
+        "title": "Pandemic",
+        "author": "Riddle, A.G.",
+        "rating": 4.08,
+        "length": 696,
+        "note": "Author of Atlantis Gene",
+        "series": {
+            "name": "The Extinction Files",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "Fluency",
+        "author": "Wells, Jennifer Foehner",
+        "rating": 3.80,
+        "length": 377,
+        "note":
+            "found while browsing: 'NASA discovered the alien ship lurking in the asteroid belt in the 1960s. They kept the Target under intense surveillance for decades, letting the public believe they were exploring the solar system, while they worked feverishly to refine the technology needed to reach it.'",
+        "series": {
+            "name": "Confluence",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "Three Parts Dead",
+        "author": "Gladstone, Max",
+        "rating": 3.98,
+        "length": 334,
+        "source": "Verge",
+        "note":
+            "Craft Sequence is an amazing series of urban fantasy novels, set in a richly imagined world where magic is treated more like law or coding than something mystical.​",
+        "series": {
+            "name": "Craft Sequence",
+            "number": 1,
+            "length": 6
+        }
+    },
+    {
+        "title": "Coyote",
+        "author": "Steele, Allen M.",
+        "rating": 3.83,
+        "length": 412,
+        "note":
+            "US becomes an oppressive regime, group of dissidents steal a starship to colonize a moon. …looks as the challenges of settling a colony on an alien world with alien biology, as well as the politics involved in recreating a society away from Earth.",
+        "series": {
+            "name": "Coyote",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "The Amazing Adventures of Kavalier & Clay",
+        "author": "Chabon, Michael",
+        "rating": 4.17,
+        "length": 658,
+        "source": "Mrs Stockman"
+    },
+    {
+        "title": "Waste of Space",
+        "author": "Damico, Gina",
+        "rating": 3.54,
+        "length": 512,
+        "source": "io9",
+        "note":
+            "Imagine The Real World—in space. …the kids are actually on an elaborate soundstage. The deception makes for a ratings hit, but things get weird when the cast is tricked into believing they’ve suddenly lost all communications with Earth."
+    },
+    {
+        "title": "American Gods",
+        "author": "Gaiman, Neil",
+        "rating": 4.11,
+        "length": 635,
+        "note": "Re-reading"
+    },
+    {
+        "title": "The Gone-Away World",
+        "author": "Harkaway, Nick",
+        "rating": 4.13,
+        "length": 594,
+        "source": "Recommended to Kara, and by Professor Elemental"
+    },
+    {
+        "title": "Rewinder",
+        "author": "Battles, Brett",
+        "rating": 3.88,
+        "length": 300,
+        "source": "Gabe",
+        "series": {
+            "name": "Rewinder",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "Armada",
+        "author": "Cline, Ernest",
+        "rating": 3.50,
+        "length": 368,
+        "note": "by the author of Ready Player One"
+    },
+    {
+        "title": "Gnomon",
+        "author": "Harkaway, Nick",
+        "rating": 3.95,
+        "length": 560,
+        "source": "Warren Ellis",
+        "note":
+            "'You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.' — Warren Ellis, also by http://aworkinglibrary.com/reading/gnomon/"
+    },
+    {
+        "title": "Retrograde",
+        "author": "Cawdron, Peter",
+        "rating": 3.78,
+        "length": 256,
+        "note":
+            "The international team at the Mars Endeavour colony is prepared for every eventuality except one—what happens when disaster strikes Earth?"
+    },
+    {
+        "title": "Central Station",
+        "author": "Tidhar, Lavie",
+        "rating": 3.51,
+        "length": 290,
+        "source": "Warren Ellis"
+    },
+    {
+        "title": "Parable of the Sower",
+        "author": "Butler, Octavia E.",
+        "rating": 4.14,
+        "length": 356,
+        "series": {
+            "name": "Earthseed",
+            "number": 1,
+            "length": 2
+        }
+    },
+    {
+        "title": "Parable of the Talents",
+        "author": "Butler, Octavia E.",
+        "rating": 4.22,
+        "length": 434,
+        "series": {
+            "name": "Earthseed",
+            "number": 2,
+            "length": 2
+        }
+    },
+    {
+        "title": "Children of Time",
+        "author": "Tchaikovsky, Adrian",
+        "rating": 4.29,
+        "length": 609,
+        "source": "Gabe"
+    },
+    {
+        "title": "The Rise and Fall of D.O.D.O.",
+        "author": "Stephenson, Neal and Galland, Nicole",
+        "rating": 3.91,
+        "length": 768
+    },
+    {
+        "title": "The Drawing of the Three",
+        "author": "King, Stephen",
+        "rating": 4.23,
+        "length": 438,
+        "series": {
+            "name": "The Dark Tower",
+            "number": 2,
+            "length": 8
+        }
+    },
+    {
+        "title": "A Wizard of Earthsea",
+        "author": "Le Guin, Ursula K.",
+        "rating": 3.99,
+        "length": 210,
+        "note": "Recommended by someone… 'favorite by proxy'?",
+        "series": {
+            "name": "Earthsea Cycle",
+            "number": 1,
+            "length": 6
+        }
+    },
+    {
+        "title": "The Lathe of Heaven",
+        "author": "Le Guin, Ursula K.",
+        "rating": 4.10,
+        "length": 194
+    },
+    {
+        "title": "All Systems Red",
+        "author": "Wells, Martha",
+        "rating": 4.18,
+        "length": 156,
+        "note":
+            "On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied ‘droid — a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.",
+        "series": {
+            "name": "The Murderbot Diaries",
+            "number": 1,
+            "length": 4
+        }
+    },
+    {
+        "title": "Constitution",
+        "author": "Webb, Nick",
+        "rating": 3.89,
+        "length": 362,
+        "note": "Recommended by author: Galactica-like",
+        "series": {
+            "name": "Legacy Fleet",
+            "number": 1,
+            "length": 4
+        }
+    },
+    {
+        "title": "The Dig",
+        "author": "Siemsen, Michael",
+        "rating": 3.62,
+        "length": 377,
+        "source": "Gabe",
+        "series": {
+            "name": "Matt Turner",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "Anansi Boys",
+        "author": "Gaiman, Neil",
+        "rating": 4.01,
+        "length": 384,
+        "note": "Re-reading"
+    },
+    {
+        "title": "Unexpected Stories",
+        "author": "Butler, Octavia E.",
+        "rating": 4.15,
+        "length": 82
+    },
+    {
+        "title": "The Bloodline Feud",
+        "author": "Stross, Charles",
+        "rating": 3.88,
+        "length": 576,
+        "note": "parallel-universe techno-thriller by Charles Stross",
+        "series": {
+            "name": "The Merchant Princes",
+            "number": "1-2",
+            "length": 6
+        }
+    },
+    {
+        "title": "Behind the Throne",
+        "author": "Wagners, K.B.",
+        "rating": 3.84,
+        "length": 432,
+        "source": "io9",
+        "note":
+            "Orbit Books is responsible for some of the most exciting space adventures out there:, including James S.A. Corey’s Expanse series, Kim Stanley Robinson’s Aurora, and Ann Leckie’s Ancillary trilogy.",
+        "series": {
+            "name": "The Indranan War",
+            "number": 1,
+            "length": 3
+        }
+    },
+    {
+        "title": "Dauntless",
+        "author": "Campbell, Jack",
+        "rating": 3.94,
+        "length": 308,
+        "source": "XO kickstarter",
+        "series": {
+            "name": "The Lost Fleet",
+            "number": 1,
+            "length": 6
+        }
+    },
+    {
+        "title": "Left Hand of Darkness",
+        "author": "Le Guin, Ursula K.",
+        "rating": 4.06,
+        "length": 320,
+        "note":
+            "'A lone human ambassador is sent to Winter, an alien world without sexual prejudice, where the inhabitants can change their gender whenever they choose.'"
+    },
+    {
+        "title": "Artemis",
+        "author": "Weir, Andy",
+        "rating": 3.68,
+        "length": 322,
+        "note": "From the author of the Martian"
+    },
+    {
+        "title": "Little Brother",
+        "author": "Doctorow, Cory",
+        "rating": 3.93,
+        "length": 387,
+        "series": {
+            "name": "Little Brother",
+            "number": 1,
+            "length": 2
+        }
     }
 ]
