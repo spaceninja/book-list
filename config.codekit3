@@ -7,7 +7,7 @@
 		"uuidString": "FA80A401-2B82-4593-B7B6-30CAE43C2DF8"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.babelrc": {
 		"cB": 0,
@@ -42,6 +42,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/.stylelintrc",
+		"oF": 0
+		},
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/CNAME",
 		"oF": 0
 		},
 	"\/css\/main.css": {
@@ -181,7 +188,8 @@
 	"creationDate": 544548240,
 	"displayValue": "book-list",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_green"
+	"iconImageName": "brackets_green",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1984,6 +1992,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

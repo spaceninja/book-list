@@ -2,6 +2,7 @@
     {
         "title": "All the Birds in the Sky",
         "author": "Anders, Charlie Jane",
+        "isbn": "0765379945",
         "note": "Nebula winner for best novel",
         "source": "io9",
         "rating": 3.57,
@@ -10,6 +11,7 @@
     {
         "title": "Sleeping Giants",
         "author": "Neuvel, Sylvain",
+        "isbn": "1101886692",
         "note": "the mystery of the bizarre artifact remains unsolved",
         "source": "Tor newsletter",
         "rating": 3.84,
@@ -19,6 +21,7 @@
     {
         "title": "Seed to Harvest Bundle",
         "author": "Butler, Octavia E.",
+        "isbn": "0446698903",
         "note": "everyone recommends Octavia Butler",
         "rating": 4.32,
         "length": 788,
@@ -27,6 +30,7 @@
     {
         "title": "The Wrong Stars",
         "author": "Pratt, Tim",
+        "isbn": "0857667092",
         "rating": 3.89,
         "length": 396,
         "source": "io9",
@@ -36,6 +40,7 @@
     {
         "title": "Fragile Things",
         "author": "Gaiman, Neil",
+        "isbn": "0060515228",
         "rating": 4.01,
         "length": 400,
         "note": "Contains Sherlock Holmes/Cthulu story"
@@ -43,6 +48,7 @@
     {
         "title": "Europe in Autumn",
         "author": "Hutchinson, Dave",
+        "isbn": "1781081948",
         "rating": 3.73,
         "length": 432,
         "note": "By the author of Acadie",
@@ -51,6 +57,7 @@
     {
         "title": "Killing Gravity",
         "author": "White, Corey J.",
+        "isbn": "0765396319",
         "rating": 3.67,
         "length": 176,
         "source": "Warren Ellis",
@@ -61,6 +68,7 @@
     {
         "title": "Provenance",
         "author": "Leckie, Ann",
+        "isbn": "0356506967",
         "rating": 3.86,
         "length": 448,
         "note": "From the author of Ancillary Mercy"
@@ -68,12 +76,14 @@
     {
         "title": "Gods, Monsters, and the Lucky Peach",
         "author": "Robson, Kelly",
+        "isbn": "1250163846",
         "rating": 3.86,
         "length": 176
     },
     {
         "title": "Binti: The Night Masquerade",
         "author": "Okorafor, Nnedi",
+        "isbn": "0765393131",
         "rating": 4.22,
         "length": 205,
         "series": "Binti #3"
@@ -81,6 +91,7 @@
     {
         "title": "Trigger Warnings",
         "author": "Gaiman, Neil",
+        "isbn": "0062330268",
         "rating": 3.92,
         "length": 371,
         "source": "Jen Myers"
@@ -88,6 +99,7 @@
     {
         "title": "Wool Omnibus",
         "author": "Howey, Hugh",
+        "isbn": "1476733953",
         "rating": 4.24,
         "length": 509,
         "source": "Gabe",
@@ -96,6 +108,7 @@
     {
         "title": "Too Like the Lightning",
         "author": "Palmer, Ada",
+        "isbn": "0765378000",
         "rating": 3.87,
         "length": 432,
         "source": "io9",
@@ -104,6 +117,7 @@
     {
         "title": "Mechanical Failure",
         "author": "Zieja, Joe",
+        "isbn": "1481459260",
         "rating": 3.72,
         "length": 345,
         "note":
@@ -113,6 +127,7 @@
     {
         "title": "Skeen's Leap",
         "author": "Clayton, Jo",
+        "isbn": "1504038452",
         "rating": 3.74,
         "length": 320,
         "series": "Skeen #1"
@@ -120,6 +135,7 @@
     {
         "title": "The Boy on the Bridge",
         "author": "Carey, M.R.",
+        "isbn": "0316300330",
         "rating": 4.02,
         "length": 400,
         "note": "by the author of The Girl with All the Gifts",
@@ -128,6 +144,7 @@
     {
         "title": "Revenger",
         "author": "Reynolds, Alastair",
+        "isbn": "0575090537",
         "rating": 3.81,
         "length": 411,
         "source": "io9"
@@ -135,6 +152,7 @@
     {
         "title": "Shadow & Claw",
         "author": "Wolfe, Gene",
+        "isbn": "0312890176",
         "rating": 4.04,
         "length": 417,
         "note":
@@ -144,6 +162,7 @@
     {
         "title": "Lilith's Brood Bundle",
         "author": "Butler, Octavia E.",
+        "isbn": "0446676101",
         "rating": 4.31,
         "length": 754,
         "note":
@@ -153,6 +172,7 @@
     {
         "title": "The Black Tides of Heaven",
         "author": "Yang, J.Y.",
+        "isbn": "076539541X",
         "rating": 3.96,
         "length": 240,
         "series": "Tensorate #1"
@@ -160,6 +180,7 @@
     {
         "title": "The Blade Itself",
         "author": "Abercrombie, Joe",
+        "isbn": "159102594X",
         "rating": 4.14,
         "length": 544,
         "source": "Everyone",
@@ -168,6 +189,7 @@
     {
         "title": "The Gunslinger",
         "author": "King, Stephen",
+        "isbn": "0451210840",
         "rating": 3.97,
         "length": 340,
         "series": "The Dark Tower #1"
@@ -175,6 +197,7 @@
     {
         "title": "The Emperor's Blades",
         "author": "Stavely, Brian",
+        "isbn": "0765336405",
         "rating": 4.14,
         "length": 593,
         "source": "Verge",
@@ -185,6 +208,7 @@
     {
         "title": "The Sheep Look Up",
         "author": "Brunner John",
+        "isbn": "1932100016",
         "rating": 3.98,
         "length": 398,
         "source": "Warren Ellis"
@@ -192,6 +216,7 @@
     {
         "title": "Singularity Sky",
         "author": "Stross, Charles",
+        "isbn": "1841493341",
         "rating": 3.82,
         "length": 356,
         "note":
@@ -199,8 +224,19 @@
         "series": "Eschaton #1"
     },
     {
+        "title": "Iron Sunrise",
+        "author": "Stross, Charles",
+        "isbn": "1841493368",
+        "rating": 3.97,
+        "length": 448,
+        "note":
+            "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
+        "series": "Eschaton #2"
+    },
+    {
         "title": "The Magician King",
         "author": "Grossman, Lev",
+        "isbn": "043402080X",
         "rating": 3.91,
         "length": 418,
         "series": "The Magicians #2"
@@ -208,6 +244,7 @@
     {
         "title": "The Rift",
         "author": "Allan, Nina",
+        "isbn": "1785650378",
         "rating": 3.40,
         "length": 400,
         "source": "io9",
@@ -217,6 +254,7 @@
     {
         "title": "Pandemic",
         "author": "Riddle, A.G.",
+        "isbn": "1940026091",
         "rating": 4.08,
         "length": 696,
         "note": "Author of Atlantis Gene",
@@ -225,6 +263,7 @@
     {
         "title": "Fluency",
         "author": "Wells, Jennifer Foehner",
+        "isbn": "099047982X",
         "rating": 3.80,
         "length": 377,
         "note":
@@ -234,6 +273,7 @@
     {
         "title": "Three Parts Dead",
         "author": "Gladstone, Max",
+        "isbn": "0765333104",
         "rating": 3.98,
         "length": 334,
         "source": "Verge",
@@ -244,6 +284,7 @@
     {
         "title": "Coyote",
         "author": "Steele, Allen M.",
+        "isbn": "0441011160",
         "rating": 3.83,
         "length": 412,
         "note":
@@ -253,6 +294,7 @@
     {
         "title": "The Amazing Adventures of Kavalier & Clay",
         "author": "Chabon, Michael",
+        "isbn": "0812983580",
         "rating": 4.17,
         "length": 658,
         "source": "Mrs Stockman"
@@ -260,6 +302,7 @@
     {
         "title": "Waste of Space",
         "author": "Damico, Gina",
+        "isbn": "0544633164",
         "rating": 3.54,
         "length": 512,
         "source": "io9",
@@ -269,6 +312,7 @@
     {
         "title": "The Gone-Away World",
         "author": "Harkaway, Nick",
+        "isbn": "0307389073",
         "rating": 4.13,
         "length": 594,
         "source": "Recommended to Kara, and by Professor Elemental"
@@ -276,6 +320,7 @@
     {
         "title": "Rewinder",
         "author": "Battles, Brett",
+        "isbn": "1477830839",
         "rating": 3.88,
         "length": 300,
         "source": "Gabe",
@@ -284,6 +329,7 @@
     {
         "title": "Armada",
         "author": "Cline, Ernest",
+        "isbn": "0804137250",
         "rating": 3.50,
         "length": 368,
         "note": "by the author of Ready Player One"
@@ -291,6 +337,7 @@
     {
         "title": "Gnomon",
         "author": "Harkaway, Nick",
+        "isbn": "1524732087",
         "rating": 3.95,
         "length": 560,
         "source": "Warren Ellis",
@@ -300,6 +347,7 @@
     {
         "title": "Retrograde",
         "author": "Cawdron, Peter",
+        "isbn": "1328834557",
         "rating": 3.78,
         "length": 256,
         "note":
@@ -308,6 +356,7 @@
     {
         "title": "Central Station",
         "author": "Tidhar, Lavie",
+        "isbn": "1616962143",
         "rating": 3.51,
         "length": 290,
         "source": "Warren Ellis"
@@ -315,6 +364,7 @@
     {
         "title": "Parable of the Sower",
         "author": "Butler, Octavia E.",
+        "isbn": "0446675504",
         "rating": 4.14,
         "length": 356,
         "series": "Earthseed #1"
@@ -322,6 +372,7 @@
     {
         "title": "Parable of the Talents",
         "author": "Butler, Octavia E.",
+        "isbn": "0446675784",
         "rating": 4.22,
         "length": 434,
         "series": "Earthseed #2"
@@ -329,6 +380,7 @@
     {
         "title": "Children of Time",
         "author": "Tchaikovsky, Adrian",
+        "isbn": "1447273281",
         "rating": 4.29,
         "length": 609,
         "source": "Gabe"
@@ -336,12 +388,14 @@
     {
         "title": "The Rise and Fall of D.O.D.O.",
         "author": "Stephenson, Neal and Galland, Nicole",
+        "isbn": "0062409166",
         "rating": 3.91,
         "length": 768
     },
     {
         "title": "The Drawing of the Three",
         "author": "King, Stephen",
+        "isbn": "0451210859",
         "rating": 4.23,
         "length": 438,
         "series": "The Dark Tower #2"
@@ -349,6 +403,7 @@
     {
         "title": "A Wizard of Earthsea",
         "author": "Le Guin, Ursula K.",
+        "isbn": "0547722028",
         "rating": 3.99,
         "length": 210,
         "note": "Recommended by someone… 'favorite by proxy'?",
@@ -357,21 +412,22 @@
     {
         "title": "The Lathe of Heaven",
         "author": "Le Guin, Ursula K.",
+        "isbn": "0060512741",
         "rating": 4.10,
         "length": 194
     },
     {
-        "title": "All Systems Red",
+        "title": "Artificial Condition",
         "author": "Wells, Martha",
-        "rating": 4.18,
-        "length": 156,
-        "note":
-            "On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied ‘droid — a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.",
-        "series": "The Murderbot Diaries #1"
+        "isbn": "0765397552",
+        "rating": 4.44,
+        "length": 159,
+        "series": "The Murderbot Diaries #2"
     },
     {
         "title": "Constitution",
         "author": "Webb, Nick",
+        "isbn": "151476993X",
         "rating": 3.89,
         "length": 362,
         "note": "Recommended by author: Galactica-like",
@@ -380,20 +436,16 @@
     {
         "title": "The Dig",
         "author": "Siemsen, Michael",
+        "isbn": "1940757088",
         "rating": 3.62,
         "length": 377,
         "source": "Gabe",
         "series": "Matt Turner #1"
     },
     {
-        "title": "Unexpected Stories",
-        "author": "Butler, Octavia E.",
-        "rating": 4.15,
-        "length": 82
-    },
-    {
         "title": "The Bloodline Feud",
         "author": "Stross, Charles",
+        "isbn": "1447237617",
         "rating": 3.88,
         "length": 576,
         "note": "parallel-universe techno-thriller by Charles Stross",
@@ -402,6 +454,7 @@
     {
         "title": "Behind the Throne",
         "author": "Wagners, K.B.",
+        "isbn": "0316308609",
         "rating": 3.84,
         "length": 432,
         "source": "io9",
@@ -412,6 +465,7 @@
     {
         "title": "Dauntless",
         "author": "Campbell, Jack",
+        "isbn": "0441014186",
         "rating": 3.94,
         "length": 308,
         "source": "XO kickstarter",
@@ -420,6 +474,7 @@
     {
         "title": "Left Hand of Darkness",
         "author": "Le Guin, Ursula K.",
+        "isbn": "0441478123",
         "rating": 4.06,
         "length": 320,
         "note":
@@ -428,6 +483,7 @@
     {
         "title": "Artemis",
         "author": "Weir, Andy",
+        "isbn": "0553448129",
         "rating": 3.68,
         "length": 322,
         "note": "From the author of the Martian"
@@ -435,6 +491,7 @@
     {
         "title": "Little Brother",
         "author": "Doctorow, Cory",
+        "isbn": "0765319853",
         "rating": 3.93,
         "length": 387,
         "series": "Little Brother #1"
