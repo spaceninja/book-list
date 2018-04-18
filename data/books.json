@@ -52,7 +52,7 @@
         "rating": 3.73,
         "length": 432,
         "note": "By the author of Acadie",
-        "series": "The Fractured Europe Sequence #1"
+        "series": "Fractured Europe #1"
     },
     {
         "title": "Killing Gravity",
@@ -139,7 +139,7 @@
         "rating": 4.02,
         "length": 400,
         "note": "by the author of The Girl with All the Gifts",
-        "series": "The Girl With All the Gifts #2"
+        "series": "Girl With All the Gifts #2"
     },
     {
         "title": "Revenger",
@@ -157,7 +157,7 @@
         "length": 417,
         "note":
             "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
-        "series": "The Book of the New Sun #1-2"
+        "series": "Book of the New Sun #1-2"
     },
     {
         "title": "Lilith's Brood Bundle",
@@ -184,7 +184,7 @@
         "rating": 4.14,
         "length": 544,
         "source": "Everyone",
-        "series": "The First Law #1"
+        "series": "First Law #1"
     },
     {
         "title": "The Gunslinger",
@@ -192,7 +192,7 @@
         "isbn": "0451210840",
         "rating": 3.97,
         "length": 340,
-        "series": "The Dark Tower #1"
+        "series": "Dark Tower #1"
     },
     {
         "title": "The Emperor's Blades",
@@ -239,7 +239,7 @@
         "isbn": "043402080X",
         "rating": 3.91,
         "length": 418,
-        "series": "The Magicians #2"
+        "series": "Magicians #2"
     },
     {
         "title": "The Rift",
@@ -258,7 +258,7 @@
         "rating": 4.08,
         "length": 696,
         "note": "Author of Atlantis Gene",
-        "series": "The Extinction Files #1"
+        "series": "Extinction Files #1"
     },
     {
         "title": "Fluency",
@@ -398,7 +398,7 @@
         "isbn": "0451210859",
         "rating": 4.23,
         "length": 438,
-        "series": "The Dark Tower #2"
+        "series": "Dark Tower #2"
     },
     {
         "title": "A Wizard of Earthsea",
@@ -422,7 +422,7 @@
         "isbn": "0765397552",
         "rating": 4.44,
         "length": 159,
-        "series": "The Murderbot Diaries #2"
+        "series": "Murderbot Diaries #2"
     },
     {
         "title": "Constitution",
@@ -449,7 +449,7 @@
         "rating": 3.88,
         "length": 576,
         "note": "parallel-universe techno-thriller by Charles Stross",
-        "series": "The Merchant Princes #1-2"
+        "series": "Merchant Princes #1-2"
     },
     {
         "title": "Behind the Throne",
@@ -460,7 +460,7 @@
         "source": "io9",
         "note":
             "Orbit Books is responsible for some of the most exciting space adventures out there:, including James S.A. Corey’s Expanse series, Kim Stanley Robinson’s Aurora, and Ann Leckie’s Ancillary trilogy.",
-        "series": "The Indranan War #1"
+        "series": "Indranan War #1"
     },
     {
         "title": "Dauntless",
@@ -469,7 +469,7 @@
         "rating": 3.94,
         "length": 308,
         "source": "XO kickstarter",
-        "series": "The Lost Fleet #1"
+        "series": "Lost Fleet #1"
     },
     {
         "title": "Left Hand of Darkness",
@@ -495,5 +495,749 @@
         "rating": 3.93,
         "length": 387,
         "series": "Little Brother #1"
+    },
+    {
+        "title": "New York 2140",
+        "author": "Robinson, Kim Stanley",
+        "isbn": "031626234X",
+        "rating": 3.60,
+        "length": 624,
+        "source": "Susana Polo",
+        "note": "NY2140 is a fascinating extrapolation of NYC after sea levels rise by 50ft. 'I was there, I was there when the levies broke and half the city drowned in 2 hours'"
+    },
+    {
+        "title": "From Unseen Fire",
+        "author": "Morris, Cass",
+        "isbn": "0756412242",
+        "rating": 4.33,
+        "length": 400,
+        "source": "io9",
+        "note": "This historical fantasy debut is set in an alternate version of ancient Rome, as a talented young mage strives to protect her people in a society filled with dangerous secrets and sinister sorcery"
+    },
+    {
+        "title": "Blackfish City",
+        "author": "Miller, Sam J.",
+        "isbn": "0062684841",
+        "rating": 3.62,
+        "length": 336,
+        "source": "io9",
+        "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale."
+    },
+    {
+        "title": "One Way",
+        "author": "Morden, S.J.",
+        "isbn": "1473222567",
+        "rating": 3.67,
+        "length": 358,
+        "source": "io9",
+        "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?"
+    },
+    {
+        "title": "Nightwise",
+        "author": "Belcher, R.S.",
+        "isbn": "0765374609",
+        "rating": 3.66,
+        "length": 320,
+        "source": "io9"
+    },
+    {
+        "title": "My Real Children",
+        "author": "Walton, Jo",
+        "isbn": "0000000000",
+        "rating": 3.76,
+        "length": 555,
+        "source": "Steve Cook",
+        "note": "a dying woman's memories alternate between two timelines"
+    },
+    {
+        "title": "Void Black Shadow",
+        "author": "White, Corey J.",
+        "isbn": "0765396939",
+        "rating": 3.99,
+        "length": 144,
+        "source": "Warren Ellis",
+        "note": "VOID BLACK SHADOW by Corey J White is the sequel to KILLING GRAVITY, being the continuing science fiction tale of Mars Xi, an actual no-shit SPACE WITCH, complete with a cat-like gengineered-weirdo familiar.",
+        "series": "Voidwitch Saga #2"
+    },
+    {
+        "title": "Imposter Syndrome",
+        "author": "Baker, Mishell",
+        "isbn": "1481451944",
+        "rating": 4.12,
+        "length": 480,
+        "series": "Arcadia Project #3"
+    },
+    {
+        "title": "The Book of Joan",
+        "author": "Yuknavitch, Lidia",
+        "isbn": "0062383272",
+        "rating": 3.15,
+        "length": 288,
+        "source": "Warren Ellis",
+        "note": "Women who love, who hate, who kill, who destroy. It's about what happens after the end of the world, where (another) other-humanly elite has gone to orbit to live out sexless, loveless lives of bizarre art and ritual"
+    },
+    {
+        "title": "The Smoke",
+        "author": "Ings, Simon",
+        "isbn": "057512010X",
+        "rating": 3.85,
+        "length": 300,
+        "source": "Warren Ellis",
+        "note": "A world in which World War 2 didn't happen, Gurwitsch's theories are carried by the Jewish Bund to a Russian homeland and developed to the point where the people of the Bund speciate."
+    },
+    {
+        "title": "After Atlas",
+        "author": "Newman, Emma",
+        "isbn": "0425282406",
+        "rating": 4.17,
+        "length": 369,
+        "source": "io9",
+        "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
+        "series": "Planetfall #2"
+    },
+    {
+        "title": "Planetfall",
+        "author": "Newman, Emma",
+        "isbn": "0425282392",
+        "rating": 3.69,
+        "length": 336,
+        "source": "io9",
+        "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
+        "series": "Planetfall #1"
+    },
+    {
+        "title": "Before Mars",
+        "author": "Newman, Emma",
+        "isbn": "147322389X",
+        "rating": 3.96,
+        "length": 320,
+        "source": "io9",
+        "note": "A woman undergoes a long, grueling journey to her new job on Mars, only to have an eerie sense of déjà vu once she arrives. https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
+        "series": "Planetfall #3"
+    },
+    {
+        "title": "Authority",
+        "author": "VanderMeer, Jeff",
+        "isbn": "0374104107",
+        "rating": 3.53,
+        "length": 341,
+        "series": "Southern Reach #2"
+    },
+    {
+        "title": "Acceptance",
+        "author": "VanderMeer, Jeff",
+        "isbn": "0374104115",
+        "rating": 3.57,
+        "length": 341,
+        "series": "Southern Reach #3"
+    },
+    {
+        "title": "Embers of War",
+        "author": "Powell, Gareth L.",
+        "isbn": "1785655183",
+        "rating": 4.16,
+        "length": 411,
+        "source": "io9",
+        "note": "a sentient warship that tries to atone for participating in a genocide by becoming a rescue vessel",
+        "series": "Embers of War #1"
+    },
+    {
+        "title": "Gunpowder Moon",
+        "author": "Pedreira, David",
+        "isbn": "0062676083",
+        "rating": 3.77,
+        "length": 289,
+        "source": "io9",
+        "note": "Life on the Moon, circa 2072, is already complicated even before the first lunar murder is committed."
+    },
+    {
+        "title": "Accelerando",
+        "author": "Stross, Charles",
+        "isbn": "0441014151",
+        "rating": 3.88,
+        "length": 415,
+        "source": "Warren Ellis",
+        "note": "http://www.warrenellis.com/?p=13972"
+    },
+    {
+        "title": "City of Golden Shadow",
+        "author": "Williams, Tad",
+        "isbn": "0886777631",
+        "rating": 3.90,
+        "length": 780,
+        "source": "Susana Polo",
+        "note": "a married couple who commission a highly immersive simulation of what modern South America would be like if Europe had never discovered it, basically South American Wakanda",
+        "series": "Otherland #1"
+    },
+    {
+        "title": "The Armored Saint",
+        "author": "Cole, Myke",
+        "isbn": "0765395959",
+        "rating": 3.78,
+        "length": 206,
+        "source": "io9",
+        "note": "A Girl Dares to Question Wizard-Hating Zealots https://io9.gizmodo.com/a-girl-dares-to-question-wizard-hating-zealots-in-the-f-1821964133"
+    },
+    {
+        "title": "My Father, the Pornographer: A Memoir",
+        "author": "Offutt, Chris",
+        "isbn": "1501112465",
+        "rating": 3.59,
+        "length": 272
+    },
+    {
+        "title": "The City of Brass",
+        "author": "Chakraborty, S.A.",
+        "isbn": "0062678108",
+        "rating": 4.23,
+        "length": 533,
+        "source": "io9",
+        "note": "In this debut novel set in and around 18th century Cairo, a faux fortune teller realizes she has actual magic powers, awakened by the arrival of a mysterious djinn warrior who opens up her world for better and worse.",
+        "series": "Daevabad #1"
+    },
+    {
+        "title": "Ironclads",
+        "author": "Tchaikovsky, Adrian",
+        "isbn": "1781085684",
+        "rating": 3.83,
+        "length": 200,
+        "source": "io9"
+    },
+    {
+        "title": "Feed",
+        "author": "Grant, Mira",
+        "isbn": "0316081051",
+        "rating": 3.86,
+        "length": 599,
+        "source": "Many",
+        "note": "My all-time favorite zombie apocalypse series!!! Spoiled 4 any other!!! About MUCH more than zombies.",
+        "series": "Newsflesh #1"
+    },
+    {
+        "title": "The Daedalus Incident",
+        "author": "Martinez, Michael",
+        "isbn": "159780472X",
+        "rating": 3.64,
+        "length": 400,
+        "source": "humble bundle",
+        "series": "Daedalus #1"
+    },
+    {
+        "title": "Who Fears Death",
+        "author": "Okarafor, Nnedi",
+        "isbn": "075640617X",
+        "rating": 3.95,
+        "length": 386,
+        "note": "Going to be an HBO series",
+        "series": "Who Fears Death #1"
+    },
+    {
+        "title": "Ka: Dar Oakley in the Ruin of Ymr",
+        "author": "Crowley, John",
+        "isbn": "1481495593",
+        "rating": 4.13,
+        "length": 464,
+        "source": "io9"
+    },
+    {
+        "title": "The Tiger's Daughter",
+        "author": "Arsenault Rivera, K",
+        "isbn": "0765392534",
+        "rating": 3.77,
+        "length": 526,
+        "source": "io9",
+        "series": "Their Bright Ascendency #1"
+    },
+    {
+        "title": "Barbary Station",
+        "author": "Stearns, R.E.",
+        "isbn": "1481476874",
+        "rating": 3.29,
+        "length": 384,
+        "source": "Verge",
+        "note": "Space pirates! Adda and Iridian are a pair of engineers who hijack a colony ship to join a pirate crew, only to discover that Barbary Station is controlled by an insane AI. This looks like it could be a really exciting space opera adventure.",
+        "series": "Shieldrunner Pirates #1"
+    },
+    {
+        "title": "Ironfoot",
+        "author": "Duncan, Dave",
+        "isbn": "1597809179",
+        "rating": 4.17,
+        "length": 344,
+        "source": "io9",
+        "series": "Enchanter General #1"
+    },
+    {
+        "title": "Akata Warrior",
+        "author": "Okorafor, Nnedi",
+        "isbn": "067078561X",
+        "rating": 4.29,
+        "length": 496,
+        "source": "io9",
+        "series": "Akata Witch #2"
+    },
+    {
+        "title": "Akata Witch",
+        "author": "Okorafor, Nnedi",
+        "isbn": "0670011967",
+        "rating": 4.09,
+        "length": 349,
+        "source": "io9",
+        "series": "Akata Witch #1"
+    },
+    {
+        "title": "An Unkindness of Magicians",
+        "author": "Howard, Kat",
+        "isbn": "1481451219",
+        "rating": 3.81,
+        "length": 352,
+        "source": "Tor"
+    },
+    {
+        "title": "Autonomous",
+        "author": "Newitz, Annalee",
+        "isbn": "0765392070",
+        "rating": 3.62,
+        "length": 303,
+        "note": "Autonomous is to biotech and AI what Neuromancer was to the Internet. - Neal Stephenson"
+    },
+    {
+        "title": "We Are Legion (We Are Bob)",
+        "author": "Taylor, Dennis",
+        "isbn": "1680680587",
+        "rating": 4.29,
+        "length": 304,
+        "source": "Jarrod",
+        "series": "Bobiverse #1"
+    },
+    {
+        "title": "A Man of Shadows",
+        "author": "Noon, Jeff",
+        "isbn": "085766669X",
+        "rating": 3.46,
+        "length": 352,
+        "source": "Warren Ellis",
+        "series": "John Nyquis #1"
+    },
+    {
+        "title": "The Peripheral",
+        "author": "Gibson, William",
+        "isbn": "0399158448",
+        "rating": 3.94,
+        "length": 485,
+        "source": "Mandy Brown",
+        "note": "a curious kind of time travel in which information—but not atoms—flows between a near future and one further away http://aworkinglibrary.com/reading/peripheral/"
+    },
+    {
+        "title": "Orbital Cloud",
+        "author": "Fujiii, Taiyo",
+        "isbn": "1421592134",
+        "rating": 3.69,
+        "length": 528,
+        "source": "Verge"
+    },
+    {
+        "title": "The Legend of Eli Monpress",
+        "author": "Aaron, Rachel",
+        "isbn": "0316193577",
+        "rating": 4.16,
+        "length": 1040,
+        "source": "Chuck",
+        "note": "fun antihero with high charisma, literally convinces the rock wall of his prison cell to set him free",
+        "series": "Legend of Eli Monpress #1-3"
+    },
+    {
+        "title": "Tomorrow's Kin",
+        "author": "Kress, Nancy",
+        "isbn": "0765390299",
+        "rating": 3.64,
+        "length": 352,
+        "source": "io9",
+        "note": "imagines that mysterious aliens have taken up residence in New York City—ahead of a looming disaster that Earth’s scientists must scramble to prevent.",
+        "series": "Yesterday's Kin #1"
+    },
+    {
+        "title": "Dichronauts",
+        "author": "Egan, Greg",
+        "isbn": "1597806056",
+        "rating": 3.53,
+        "length": 312,
+        "source": "io9",
+        "note": "Constantly-shifting habitable zone means cities must be constantly re-mapped, a surveyor (whose best friend is the leech-like creature that lives in his brain and helps him navigate) makes an alarming discovery at the edge of civilization."
+    },
+    {
+        "title": "Master of the Five Magics",
+        "author": "Hardy, Lyndon",
+        "isbn": "0345276353",
+        "rating": 3.81,
+        "length": 541,
+        "source": "Pat Rothfuss",
+        "note": "Recommended by Pat Rothfuss as similar to his magic system",
+        "series": "Magic by the Numbers #1"
+    },
+    {
+        "title": "The Magician's Land",
+        "author": "Grossman, Lev",
+        "isbn": "0670015679",
+        "rating": 4.16,
+        "length": 402,
+        "series": "Magicians #3"
+    },
+    {
+        "title": "The Wanderers",
+        "author": "Howrey, Meg",
+        "isbn": "0399574638",
+        "rating": 3.55,
+        "length": 370,
+        "source": "Verge",
+        "note": "A private space company is getting ready to put astronauts on Mars for the first time. The trio are tasked with a 17mo mission to test their training and ensure that they’re ready to travel to the Red Planet."
+    },
+    {
+        "title": "Hull Zero Three",
+        "author": "Bear, Greg",
+        "isbn": "0316072818",
+        "rating": 3.37,
+        "length": 307,
+        "note": "Recommended in Let's Play of Stasis"
+    },
+    {
+        "title": "Ararat",
+        "author": "Golden, Christopher",
+        "isbn": "1250117054",
+        "rating": 3.39,
+        "length": 320,
+        "source": "io9"
+    },
+    {
+        "title": "The Bridge",
+        "author": "Banks, Iain",
+        "isbn": "0316858544",
+        "rating": 3.84,
+        "length": 288,
+        "note": "secret culture novel https://www.theguardian.com/books/2014/sep/23/iain-banks-the-bridge-link-mainstream-literature-science-fiction"
+    },
+    {
+        "title": "The Word for World is Forest",
+        "author": "Le Guin, Ursula K.",
+        "isbn": "0765324644",
+        "rating": 3.92,
+        "length": 160,
+        "source": "Verge",
+        "note": "Can be read in any order",
+        "series": "Hainish Cycle #2"
+    },
+    {
+        "title": "Portal of a Thousand Worlds",
+        "author": "Duncan, Dave",
+        "isbn": "1504038754",
+        "rating": 3.84,
+        "length": 482,
+        "source": "io9"
+    },
+    {
+        "title": "All Our Wrong Todays",
+        "author": "Mastai, Elan",
+        "isbn": "1101985135",
+        "rating": 3.80,
+        "length": 384,
+        "source": "io9"
+    },
+    {
+        "title": "The Stars Are Legion",
+        "author": "Hurley, Kameron",
+        "isbn": "0857666614",
+        "rating": 3.70,
+        "length": 400,
+        "source": "io9",
+        "note": "standalone space opera about a woman who awakes with no memory amid war between world-ships traveling the darkest regions of the universe. In this desperate setting she realizes she may hold the key to salvation—but at what cost?"
+    },
+    {
+        "title": "Norse Mythology",
+        "author": "Gaiman, Neil",
+        "isbn": "039360909X",
+        "rating": 4.09,
+        "length": 299
+    },
+    {
+        "title": "The Fortress at the End of Time",
+        "author": "McDermott, Joe M.",
+        "isbn": "076539281X",
+        "rating": 3.08,
+        "length": 305,
+        "source": "Verge",
+        "note": "One such clone is assigned to man a distant outpost, and has to come to terms with a terrible incident in his past. This has the looks of a thoughtful and interesting read."
+    },
+    {
+        "title": "The Grace of Kings",
+        "author": "Liu, Ken",
+        "isbn": "1481424270",
+        "rating": 3.74,
+        "length": 623,
+        "source": "Verge & io9",
+        "note": "an ambitious, astonishing, and sublime work, one that both exemplifies and diverges from what one might think of when it comes to epic fantasy. It should rank amongst the genre's best works. https://goo.gl/7xgcr8",
+        "series": "Dandelion Dynasty #1"
+    },
+    {
+        "title": "Dark Run",
+        "author": "Brooks, Mike",
+        "isbn": "0091956641",
+        "rating": 3.61,
+        "length": 432,
+        "source": "Verge",
+        "note": "Take a starship, crew it with people who have questionable paths, introduce a sponsor with a major vendetta, then send them out on what’s most likely a suicide mission to Earth",
+        "series": "Keiko #1"
+    },
+    {
+        "title": "Aurora",
+        "author": "Robinson, Kim Stanley",
+        "isbn": "0316098108",
+        "rating": 3.73,
+        "length": 466,
+        "source": "Warren Ellis & aworkinglibrary",
+        "note": "mainly a realistic take on how humanity can travel to other planets, Robinson takes a hard look at what settling on a new world might look like when such a ship would arrive: incredibly difficult."
+    },
+    {
+        "title": "Spindrift",
+        "author": "Steele Allen",
+        "isbn": "0441014712",
+        "rating": 3.83,
+        "length": 368,
+        "note": "set in Steele's Coyote universe, but is not a part of the core trilogy. It runs paralell to it.",
+        "series": "Coyote #4"
+    },
+    {
+        "title": "Arkwright",
+        "author": "Steele, Allen",
+        "isbn": "0765382156",
+        "rating": 3.66,
+        "length": 336,
+        "note": "Another great book from him is Arkwright, which portrays how humans could set up an interstellar ship and colonize a distant planet."
+    },
+    {
+        "title": "Roadside Picnic",
+        "author": "Strugatsky, Arkady",
+        "isbn": "0575070536",
+        "rating": 4.21,
+        "length": 145,
+        "note": "S.T.A.L.K.E.R. is based on the novella Roadside Picnic, by the Strugatsky brothers, and its film adaptation, Andrei Tarkovsky’s Stalker."
+    },
+    {
+        "title": "The Scar",
+        "author": "Miéville, China",
+        "isbn": "0345460014",
+        "rating": 4.16,
+        "length": 578,
+        "note": "China Mieville’s Bas Lag is one of my favorite fictional worlds. Unlike traditional nations, Armada is a nation made up of boats tied together. Its nine boroughs are ruled by different factions, all quietly vying for control over Armada itself.",
+        "series": "Bas-Lag #2"
+    },
+    {
+        "title": "Chasm City",
+        "author": "Reynolds, Alastair",
+        "isbn": "0441010644",
+        "rating": 4.13,
+        "length": 694,
+        "note": "If you’re a fan of the Mass Effect universe, you’re a fan of the Revelation Space world, you just don’t know it yet. Everything Mass Effect did, Revelation Space did better, and I say this as a huge fan of both series."
+    },
+    {
+        "title": "The Passage",
+        "author": "Cronin, Justin",
+        "isbn": "0345504968",
+        "rating": 4.04,
+        "length": 766,
+        "source": "Mrs. Stockman",
+        "series": "Passage #1"
+    },
+    {
+        "title": "Echopraxia",
+        "author": "Watts, Peter",
+        "isbn": "076532802X",
+        "rating": 3.89,
+        "length": 384,
+        "series": "Firefall #2"
+    },
+    {
+        "title": "Transition",
+        "author": "Banks, Iain M.",
+        "isbn": "0316071986",
+        "rating": 3.85,
+        "length": 404,
+        "source": "io9",
+        "note": "an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power. https://io9.gizmodo.com/5366356/with-transition-iain-m-banks-reinvents-the-multiverse-novel"
+    },
+    {
+        "title": "Charmed Life",
+        "author": "Jones, Diana Wynne",
+        "isbn": "000710653X",
+        "rating": 3.95,
+        "length": 252,
+        "series": "Chrestomanci #1"
+    },
+    {
+        "title": "The Quantum Thief",
+        "author": "Rajaneimi, Hannu",
+        "isbn": "0575088877",
+        "rating": 3.84,
+        "length": 336,
+        "source": "Warren Ellis",
+        "series": "Jean le Flambeur #1"
+    },
+    {
+        "title": "Babylon's Ashes",
+        "author": "Corey, James S.A.",
+        "isbn": "0356504263",
+        "rating": 4.19,
+        "length": 538,
+        "series": "Expanse #6"
+    },
+    {
+        "title": "The Vital Abyss",
+        "author": "Corey, James S.A.",
+        "isbn": "0316217565",
+        "rating": 3.85,
+        "length": 75,
+        "series": "Expanse #5.5"
+    },
+    {
+        "title": "Nemesis Games",
+        "author": "Corey, James S.A.",
+        "isbn": "0356504220",
+        "rating": 4.37,
+        "length": 536,
+        "series": "Expanse #5"
+    },
+    {
+        "title": "Cibola Burn",
+        "author": "Corey, James S.A.",
+        "isbn": "031621762X",
+        "rating": 4.13,
+        "length": 581,
+        "series": "Expanse #4"
+    },
+    {
+        "title": "Strange Dogs",
+        "author": "Corey, James S.A.",
+        "isbn": "0316217573",
+        "rating": 3.90,
+        "length": 112,
+        "series": "Expanse #6.5"
+    },
+    {
+        "title": "Persepolis Rising",
+        "author": "Corey, James S.A.",
+        "isbn": "0316332828",
+        "rating": 4.35,
+        "length": 608,
+        "series": "Expanse #7"
+    },
+    {
+        "title": "The Inheritance Trilogy",
+        "author": "Jemisin, N.K.",
+        "isbn": "0316334006",
+        "rating": 4.15,
+        "length": 1442,
+        "source": "twitter",
+        "note": "WOC author & characters, seduces a god",
+        "series": "Inheritance #1-3.5"
+    },
+    {
+        "title": "Station Eleven",
+        "author": "Mandel, Emily St. John",
+        "isbn": "0385353308",
+        "rating": 4.02,
+        "length": 336,
+        "source": "adactio"
+    },
+    {
+        "title": "The Three-Body Problem",
+        "author": "Liu, Cixin",
+        "isbn": "0765377063",
+        "rating": 4.03,
+        "length": 400,
+        "source": "Sara Chipps",
+        "series": "Remembrance of Earth's Past #1"
+    },
+    {
+        "title": "The Goblin Emperor",
+        "author": "Addison, Katherine",
+        "isbn": "076532699X",
+        "rating": 4.04,
+        "length": 446,
+        "source": "Kara",
+        "note": "Female author"
+    },
+    {
+        "title": "Stand on Zanzibar",
+        "author": "Brunner, John",
+        "isbn": "1857988361",
+        "rating": 3.97,
+        "length": 672,
+        "source": "Warren Ellis"
+    },
+    {
+        "title": "The Water Knife",
+        "author": "Bacigalupi, Paolo",
+        "isbn": "0385352875",
+        "rating": 3.83,
+        "length": 371,
+        "source": "Warren Ellis"
+    },
+    {
+        "title": "Nexus",
+        "author": "Naam, Ramez",
+        "isbn": "0857662937",
+        "rating": 4.05,
+        "length": 460,
+        "source": "Gabe",
+        "series": "Nexus #1"
+    },
+    {
+        "title": "The Windup Girl",
+        "author": "Bacigalupi, Paolo",
+        "isbn": "1597801577",
+        "rating": 3.74,
+        "length": 359,
+        "source": "Lev Grossman",
+        "note": "Recommended by Lev Grossman in Time, and Nigel"
+    },
+    {
+        "title": "Red Planet Blues",
+        "author": "Sawyer, Robert J.",
+        "isbn": "0425256820",
+        "rating": 3.50,
+        "length": 368,
+        "source": "Gabe"
+    },
+    {
+        "title": "Pastwatch: The Redemption of Christopher Columbus",
+        "author": "Card, Orson Scott",
+        "isbn": "0812508645",
+        "rating": 3.96,
+        "length": 402
+    },
+    {
+        "title": "Seed",
+        "author": "Ziegler, Rob",
+        "isbn": "1597803235",
+        "rating": 3.21,
+        "length": 341,
+        "source": "io9"
+    },
+    {
+        "title": "The Final Empire",
+        "author": "Sanderson, Brandon",
+        "isbn": "076531178X",
+        "rating": 4.43,
+        "length": 541,
+        "source": "Pat Rothfuss",
+        "note": "Sanderson has now been added to a very short list. Specifically, the list authors I wish to kill so that I might eat their livers and thereby gain their power.",
+        "series": "Mistborn #1"
+    },
+    {
+        "title": "The Red Threads of Fortune",
+        "author": "Yang, JY",
+        "isbn": "0765395398",
+        "rating": 4.06,
+        "length": 213,
+        "series": "Tensorate #2"
     }
 ]
