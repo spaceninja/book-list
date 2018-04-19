@@ -1,5 +1,8 @@
 /* global firstBy */
 /* eslint-env browser */
+const apiKey = 'AIzaSyDyHFhssmD7wLArMDhaUzZoEX1PwQQwakA';
+const apiURL = 'https://www.googleapis.com/books/v1/volumes';
+const apiFields = 'items(id,volumeInfo(description,pageCount,averageRating,imageLinks),searchInfo)';
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
 const booklistSort = document.getElementById('booklist-sort');
@@ -15,8 +18,16 @@ const parseBooks = function parseBooks(input) {
 
   for (let i = 0; i < bookArray.length; i += 1) {
     bookArray[i].rating = bookArray[i].rating.toFixed(1);
+    fetch(`${apiURL}?q=isbn:${bookArray[i].isbn}&key=${apiKey}&fields=${apiFields}`, {
+      method: 'get',
+    })
+      .then(response => response.json())
+      .then((data) => {
+        // eslint-disable-next-line
+        console.log(data);
+      })
+      .catch((error) => { booklistError.innerHTML = error; });
   }
-
   return bookArray;
 };
 
