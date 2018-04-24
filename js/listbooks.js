@@ -1,8 +1,5 @@
 /* global firstBy */
 /* eslint-env browser */
-const apiKey = 'AIzaSyDyHFhssmD7wLArMDhaUzZoEX1PwQQwakA';
-const apiURL = 'https://www.googleapis.com/books/v1/volumes';
-const apiFields = 'items(id,volumeInfo(description,pageCount,averageRating,imageLinks),searchInfo)';
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
 const booklistSort = document.getElementById('booklist-sort');
@@ -18,16 +15,8 @@ const parseBooks = function parseBooks(input) {
 
   for (let i = 0; i < bookArray.length; i += 1) {
     bookArray[i].rating = bookArray[i].rating.toFixed(1);
-    fetch(`${apiURL}?q=isbn:${bookArray[i].isbn}&key=${apiKey}&fields=${apiFields}`, {
-      method: 'get',
-    })
-      .then(response => response.json())
-      .then((data) => {
-        // eslint-disable-next-line
-        console.log(data);
-      })
-      .catch((error) => { booklistError.innerHTML = error; });
   }
+
   return bookArray;
 };
 
@@ -58,12 +47,22 @@ const buildHTML = function buildHTML(bookArray) {
     for (let i = 0; i < bookArray.length; i += 1) {
       const t = document.importNode(bookTemplate.content, true);
 
+      t.querySelector('.book').id = bookArray[i].isbn;
       t.querySelector('.book--title').innerHTML = bookArray[i].title;
       t.querySelector('.book--author').innerHTML = bookArray[i].author;
       t.querySelector('.book--rating').innerHTML = bookArray[i].rating;
       t.querySelector('.book--length').innerHTML = bookArray[i].length;
       if (bookArray[i].series) {
         t.querySelector('.book--series').innerHTML = bookArray[i].series;
+      }
+      if (bookArray[i].source) {
+        t.querySelector('.book--source').innerHTML = bookArray[i].source;
+      }
+      if (bookArray[i].note) {
+        t.querySelector('.book--note').innerHTML = bookArray[i].note;
+      }
+      if (bookArray[i].textSnippet) {
+        t.querySelector('.book--snippet').innerHTML = bookArray[i].textSnippet;
       }
 
       booklistContent.appendChild(t);

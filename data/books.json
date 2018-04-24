@@ -6,7 +6,8 @@
         "note": "Nebula winner for best novel",
         "source": "io9",
         "rating": 3.57,
-        "length": 317
+        "length": 317,
+        "textSnippet": "Childhood friends Patricia Delfine, a witch, and Laurence Armstead, a mad scientist, parted ways under mysterious circumstances during middle school."
     },
     {
         "title": "Sleeping Giants",
@@ -16,7 +17,8 @@
         "source": "Tor newsletter",
         "rating": 3.84,
         "length": 322,
-        "series": "Themis Files #1"
+        "series": "Themis Files #1",
+        "textSnippet": "A swift and spellbinding tale told almost exclusively through transcriptions of interviews conducted by a mysterious and unnamed character, this is a unique debut that describes a hunt for truth, power, and giant body parts."
     },
     {
         "title": "Seed to Harvest Bundle",
@@ -25,7 +27,8 @@
         "note": "everyone recommends Octavia Butler",
         "rating": 4.32,
         "length": 788,
-        "series": "Patternmaster #1-4"
+        "series": "Patternmaster #1-4",
+        "textSnippet": "In these four novels, award-winning author Octavia E. Butler tells the classic story that began her legendary career: a mythic tale of the transformation of civilization."
     },
     {
         "title": "The Wrong Stars",
@@ -34,8 +37,8 @@
         "rating": 3.89,
         "length": 396,
         "source": "io9",
-        "note":
-            "It starts with a deep-space salvage crew discovering a seemingly long-abandoned ship that turns out to have one occupant—who, once revived, warns them of an alien race that mixes advanced technology with pure evil."
+        "note": "It starts with a deep-space salvage crew discovering a seemingly long-abandoned ship that turns out to have one occupant—who, once revived, warns them of an alien race that mixes advanced technology with pure evil.",
+        "textSnippet": "The crew of the freight and salvage ship White Raven encounter a space explorer that claims to have powerful extraterrestrial knowledge, passed down to her by a different alien race than humanity is currently allied with."
     },
     {
         "title": "Fragile Things",
@@ -43,7 +46,8 @@
         "isbn": "0060515228",
         "rating": 4.01,
         "length": 400,
-        "note": "Contains Sherlock Holmes/Cthulu story"
+        "note": "Contains Sherlock Holmes/Cthulu story",
+        "textSnippet": "Such marvelous creations and more—including a short story set in the world of The Matrix, and others set in the worlds of gothic fiction and children&#39;s fiction—can be found in this extraordinary collection, which showcases Gaiman&#39;s ..."
     },
     {
         "title": "Europe in Autumn",
@@ -52,18 +56,8 @@
         "rating": 3.73,
         "length": 432,
         "note": "By the author of Acadie",
-        "series": "Fractured Europe #1"
-    },
-    {
-        "title": "Killing Gravity",
-        "author": "White, Corey J.",
-        "isbn": "0765396319",
-        "rating": 3.67,
-        "length": 176,
-        "source": "Warren Ellis",
-        "note":
-            "a nicely diverse cast, a cute space ferret of death and a female protagonist most often referred to as a void-damned space witch. I feel like you don't need to know much else.",
-        "series": "Voidwitch Saga #1"
+        "series": "Fractured Europe #1",
+        "textSnippet": "Europe in Autumn is a thriller of espionage and the future which reads like the love child of John le Carré and Franz Kafka."
     },
     {
         "title": "Provenance",
@@ -71,14 +65,16 @@
         "isbn": "0356506967",
         "rating": 3.86,
         "length": 448,
-        "note": "From the author of Ancillary Mercy"
+        "note": "From the author of Ancillary Mercy",
+        "textSnippet": "Following her record-breaking debut trilogy, Ann Leckie, winner of the Hugo, Nebula, Arthur C. Clarke and Locus Awards, returns with an enthralling new novel of power, theft, privilege and birthright."
     },
     {
         "title": "Gods, Monsters, and the Lucky Peach",
         "author": "Robson, Kelly",
         "isbn": "1250163846",
         "rating": 3.86,
-        "length": 176
+        "length": 176,
+        "textSnippet": "From Kelly Robson, Aurora Award winner, Campbell, Nebula, and Theodore Sturgeon finalist, and author of Waters of Versailles Discover a shifting history of adventure as humanity clashes over whether to repair their ruined planet or ..."
     },
     {
         "title": "Binti: The Night Masquerade",
@@ -86,7 +82,8 @@
         "isbn": "0765393131",
         "rating": 4.22,
         "length": 205,
-        "series": "Binti #3"
+        "series": "Binti #3",
+        "textSnippet": "Don&#39;t miss this essential concluding volume in the Binti trilogy. The Binti Series Book 1: Binti Book 2: Binti: Home Book 3: Binti: The Night Masquerade"
     },
     {
         "title": "Trigger Warnings",
@@ -94,7 +91,8 @@
         "isbn": "0062330268",
         "rating": 3.92,
         "length": 371,
-        "source": "Jen Myers"
+        "source": "Jen Myers",
+        "textSnippet": "Multiple award winning, #1 New York Times bestselling author Neil Gaiman returns to dazzle, captivate, haunt, and entertain with this third collection of short fiction following Smoke and Mirrors and Fragile Things—which includes a never ..."
     },
     {
         "title": "Wool Omnibus",
@@ -103,7 +101,8 @@
         "rating": 4.24,
         "length": 509,
         "source": "Gabe",
-        "series": "Silo #1"
+        "series": "Silo #1",
+        "textSnippet": "In a future toxic landscape, a community that lives in an underground silo is rocked by the desire of Sheriff Holston, who has upheld the group&#39;s rules for years, to go outside, setting in motion events that kindle the fire of revolution."
     },
     {
         "title": "Too Like the Lightning",
@@ -112,17 +111,18 @@
         "rating": 3.87,
         "length": 432,
         "source": "io9",
-        "series": "Terra Ignota #1"
+        "series": "Terra Ignota #1",
+        "textSnippet": "In a future where convicts like Mycroft Canner must wander the world being useful to all he meets, he encounters Carlyle Foster, a spiritual counselor in a world that has outlawed religion, and a young boy named Bridger with the ability to ..."
     },
     {
         "title": "Mechanical Failure",
         "author": "Zieja, Joe",
-        "isbn": "1481459260",
+        "isbn": "1481459287",
         "rating": 3.72,
         "length": 345,
-        "note":
-            "'Remarkable & Sarcastic: When Rogers returns after only a year away, something has changed. These are soldiers—actual soldiers doing actual soldier things like preparing for a war that Rogers is sure doesn’t exist. Rogers vows to put a stop to all this nonsense—even if it means doing actual work.'",
-        "series": "Epic Failure #1"
+        "note": "Remarkable & Sarcastic: When Rogers returns after only a year away, something has changed. These are soldiers—actual soldiers doing actual soldier things like preparing for a war that Rogers is sure doesn’t exist. Rogers vows to put a stop to all this nonsense—even if it means doing actual work.",
+        "series": "Epic Failure #1",
+        "textSnippet": "These are soldiers—actual soldiers doing actual soldier things like preparing for a war that Rogers is sure doesn’t exist. Rogers vows to put a stop to all this nonsense—even if it means doing actual work."
     },
     {
         "title": "Skeen's Leap",
@@ -130,7 +130,8 @@
         "isbn": "1504038452",
         "rating": 3.74,
         "length": 320,
-        "series": "Skeen #1"
+        "series": "Skeen #1",
+        "textSnippet": "The first book in a thrilling trilogy featuring the inimitable Skeen, Skeen’s Leap cements Clayton’s well-deserved reputation as one of the premier purveyors of science fantasy, alongside Andre Norton, C. J. Cherryh, and Marion Zimmer ..."
     },
     {
         "title": "The Boy on the Bridge",
@@ -138,8 +139,8 @@
         "isbn": "0316300330",
         "rating": 4.02,
         "length": 400,
-        "note": "by the author of The Girl with All the Gifts",
-        "series": "Girl With All the Gifts #2"
+        "series": "Girl With All the Gifts #2",
+        "textSnippet": "From the author of USA Today bestseller The Girl With All the Gifts, a terrifying new novel set in the same post-apocalyptic world."
     },
     {
         "title": "Revenger",
@@ -147,7 +148,8 @@
         "isbn": "0575090537",
         "rating": 3.81,
         "length": 411,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "Revenger is a science fiction adventure story set in the rubble of our solar system in the dark, distant future - a tale of space pirates, buried treasure and phantom weapons, of unspeakable hazards and single-minded heroism . . . and of ..."
     },
     {
         "title": "Shadow & Claw",
@@ -155,9 +157,9 @@
         "isbn": "0312890176",
         "rating": 4.04,
         "length": 417,
-        "note":
-            "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
-        "series": "Book of the New Sun #1-2"
+        "note": "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
+        "series": "Book of the New Sun #1-2",
+        "textSnippet": "The shadow of the torturer: In a thoroughly decadent world of the future, Severian the torturer is cast out from the torturer&#39;s guild when he falls in love with one of his victims and allows her to die."
     },
     {
         "title": "Lilith's Brood Bundle",
@@ -165,9 +167,9 @@
         "isbn": "0446676101",
         "rating": 4.31,
         "length": 754,
-        "note":
-            "Recommended to Kara and by many people on Twitter in the wake of the white boy writing about slavery debacle",
-        "series": "Xenogenesis #1-3"
+        "note": "Recommended to Kara and by many people on Twitter in the wake of the white boy writing about slavery debacle",
+        "series": "Xenogenesis #1-3",
+        "textSnippet": "But Lilith and all humanity must now share the world with uncanny, unimaginably alien creatures: their own children. This is their story."
     },
     {
         "title": "The Black Tides of Heaven",
@@ -175,7 +177,8 @@
         "isbn": "076539541X",
         "rating": 3.96,
         "length": 240,
-        "series": "Tensorate #1"
+        "series": "Tensorate #1",
+        "textSnippet": "Can Akeha find peace without shattering the bond they share with their twin?"
     },
     {
         "title": "The Blade Itself",
@@ -184,7 +187,8 @@
         "rating": 4.14,
         "length": 544,
         "source": "Everyone",
-        "series": "First Law #1"
+        "series": "First Law #1",
+        "textSnippet": "Infamous Logen Ninefingers has finally run out of luck."
     },
     {
         "title": "The Gunslinger",
@@ -192,7 +196,8 @@
         "isbn": "0451210840",
         "rating": 3.97,
         "length": 340,
-        "series": "Dark Tower #1"
+        "series": "Dark Tower #1",
+        "textSnippet": "Roland, the world&#39;s last gunslinger, tracks an enigmatic Man in Black toward a forbidding dark tower, fighting forces both mortal and other-worldly on his quest"
     },
     {
         "title": "The Emperor's Blades",
@@ -201,9 +206,9 @@
         "rating": 4.14,
         "length": 593,
         "source": "Verge",
-        "note":
-            "In 2014, Brian Staveley burst onto the scene with The Emperor’​s Blades, an excellent start to a fantasy epic. io9: modern epic fantasy mixed in with a nice dose of Lovecraftian weirdness https://goo.gl​/3NbQD3",
-        "series": "Chronicle of the Unhewn Throne #1"
+        "note": "In 2014, Brian Staveley burst onto the scene with The Emperor’​s Blades, an excellent start to a fantasy epic. io9: modern epic fantasy mixed in with a nice dose of Lovecraftian weirdness https://goo.gl​/3NbQD3",
+        "series": "Chronicle of the Unhewn Throne #1",
+        "textSnippet": "The children of an assassinated emperor try to stay alive and avenge their father&#39;s death while continuing down their individual life-paths, one in a monastery, another training with elite soldiers, and one appointed a minister determined ..."
     },
     {
         "title": "The Sheep Look Up",
@@ -211,7 +216,8 @@
         "isbn": "1932100016",
         "rating": 3.98,
         "length": 398,
-        "source": "Warren Ellis"
+        "source": "Warren Ellis",
+        "textSnippet": "An enduring classic, this book offers a dramatic and prophetic look at the potential consequences of the escalating destruction of Earth."
     },
     {
         "title": "Singularity Sky",
@@ -219,9 +225,9 @@
         "isbn": "1841493341",
         "rating": 3.82,
         "length": 356,
-        "note":
-            "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
-        "series": "Eschaton #1"
+        "note": "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
+        "series": "Eschaton #1",
+        "textSnippet": "In the twenty-first century man created the Eschaton, a sentient artificial intelligence."
     },
     {
         "title": "Iron Sunrise",
@@ -229,9 +235,9 @@
         "isbn": "1841493368",
         "rating": 3.97,
         "length": 448,
-        "note":
-            "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
-        "series": "Eschaton #2"
+        "note": "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
+        "series": "Eschaton #2",
+        "textSnippet": "In the twenty-first century man created the Eschaton, a sentient artificial intelligence."
     },
     {
         "title": "The Magician King",
@@ -239,7 +245,8 @@
         "isbn": "043402080X",
         "rating": 3.91,
         "length": 418,
-        "series": "Magicians #2"
+        "series": "Magicians #2",
+        "textSnippet": "The Magician Kingis a grand voyage into the dark, glittering heart of magic, an extraordinary journey that allows the imagination to run riot and proves Grossman is the modern heir to C.S. Lewis."
     },
     {
         "title": "The Rift",
@@ -248,8 +255,8 @@
         "rating": 3.40,
         "length": 400,
         "source": "io9",
-        "note":
-            "A woman goes missing as a teen and returns 20 years later, claiming she’s spent the intervening time on another planet. Her sister is thrilled but is unsure about whether or not she should believe those tales of intergalactic travel."
+        "note": "A woman goes missing as a teen and returns 20 years later, claiming she’s spent the intervening time on another planet. Her sister is thrilled but is unsure about whether or not she should believe those tales of intergalactic travel.",
+        "textSnippet": "Selena and Julie are sisters. As children they were closest companions, but as they grow towards maturity, a rift develops between them. There are greater rifts, however. Julie goes missing at the age of seventeen."
     },
     {
         "title": "Pandemic",
@@ -258,17 +265,18 @@
         "rating": 4.08,
         "length": 696,
         "note": "Author of Atlantis Gene",
-        "series": "Extinction Files #1"
+        "series": "Extinction Files #1",
+        "textSnippet": "In Africa, a mysterious outbreak spreads quickly."
     },
     {
         "title": "Fluency",
         "author": "Wells, Jennifer Foehner",
-        "isbn": "099047982X",
+        "isbn": "0990479811",
         "rating": 3.80,
         "length": 377,
-        "note":
-            "found while browsing: 'NASA discovered the alien ship lurking in the asteroid belt in the 1960s. They kept the Target under intense surveillance for decades, letting the public believe they were exploring the solar system, while they worked feverishly to refine the technology needed to reach it.'",
-        "series": "Confluence #1"
+        "note": "found while browsing: 'NASA discovered the alien ship lurking in the asteroid belt in the 1960s. They kept the Target under intense surveillance for decades, letting the public believe they were exploring the solar system, while they worked feverishly to refine the technology needed to reach it.'",
+        "series": "Confluence #1",
+        "textSnippet": "As the derelict ship devolves into chaos and the crew gets cut off from their escape route, Jane must decide if she can trust the alien’s help to survive. *This is the bestselling novel in its original form."
     },
     {
         "title": "Three Parts Dead",
@@ -277,19 +285,19 @@
         "rating": 3.98,
         "length": 334,
         "source": "Verge",
-        "note":
-            "Craft Sequence is an amazing series of urban fantasy novels, set in a richly imagined world where magic is treated more like law or coding than something mystical.​",
-        "series": "Craft Sequence #1"
+        "note": "Craft Sequence is an amazing series of urban fantasy novels, set in a richly imagined world where magic is treated more like law or coding than something mystical.​",
+        "series": "Craft Sequence #1",
+        "textSnippet": "Hired to resurrect a deceased fire god to protect his rioting city, Tara, a first-year associate in an international necromantic firm, teams up with a chain-smoking, faith-questioning priest to build a case in the city&#39;s courts and ..."
     },
     {
         "title": "Coyote",
         "author": "Steele, Allen M.",
-        "isbn": "0441011160",
+        "isbn": "0441009743",
         "rating": 3.83,
         "length": 412,
-        "note":
-            "US becomes an oppressive regime, group of dissidents steal a starship to colonize a moon. …looks as the challenges of settling a colony on an alien world with alien biology, as well as the politics involved in recreating a society away from Earth.",
-        "series": "Coyote #1"
+        "note": "US becomes an oppressive regime, group of dissidents steal a starship to colonize a moon. …looks as the challenges of settling a colony on an alien world with alien biology, as well as the politics involved in recreating a society away from Earth.",
+        "series": "Coyote #1",
+        "textSnippet": "In 2070, a group of political dissidents and their families escape the repressive world of twenty-first-century Earth to seek new lives as interstellar colonists, placing themselves in cold sleep for a more than two-hundred-year odyssey to ..."
     },
     {
         "title": "The Amazing Adventures of Kavalier & Clay",
@@ -297,7 +305,8 @@
         "isbn": "0812983580",
         "rating": 4.17,
         "length": 658,
-        "source": "Mrs Stockman"
+        "source": "Mrs Stockman",
+        "textSnippet": "In 1939 New York City, Joe Kavalier, a refugee from Hitler&#39;s Prague, joins forces with his Brooklyn-born cousin, Sammy Clay, to create comic-book superheroes inspired by their own fantasies, fears, and dreams."
     },
     {
         "title": "Waste of Space",
@@ -306,8 +315,8 @@
         "rating": 3.54,
         "length": 512,
         "source": "io9",
-        "note":
-            "Imagine The Real World—in space. …the kids are actually on an elaborate soundstage. The deception makes for a ratings hit, but things get weird when the cast is tricked into believing they’ve suddenly lost all communications with Earth."
+        "note": "Imagine The Real World—in space. …the kids are actually on an elaborate soundstage. The deception makes for a ratings hit, but things get weird when the cast is tricked into believing they’ve suddenly lost all communications with Earth.",
+        "textSnippet": "From the author of Croak comes this raucous account of ten teenagers picked to live on a rocket ship, get shot into space, and have their adventures broadcast live to the entire world."
     },
     {
         "title": "The Gone-Away World",
@@ -315,16 +324,18 @@
         "isbn": "0307389073",
         "rating": 4.13,
         "length": 594,
-        "source": "Recommended to Kara, and by Professor Elemental"
+        "source": "Recommended to Kara, and by Professor Elemental",
+        "textSnippet": "With a fire burning along the Jorgmund Pipe, Gonzo Lubitsch and his colleagues at the Haulage and HazMat Emergency Civil Freebooting Company are hired to put it out--and to save humankind in the process."
     },
     {
         "title": "Rewinder",
         "author": "Battles, Brett",
-        "isbn": "1477830839",
+        "isbn": "1500766941",
         "rating": 3.88,
         "length": 300,
         "source": "Gabe",
-        "series": "Rewinder #1"
+        "series": "Rewinder #1",
+        "textSnippet": "The job at first sounds like it involves researching old books and records, but Denny soon learns it&#39;s far from it. A Rewinder&#39;s job is to observe history. In person.--from back cover."
     },
     {
         "title": "Armada",
@@ -332,17 +343,18 @@
         "isbn": "0804137250",
         "rating": 3.50,
         "length": 368,
-        "note": "by the author of Ready Player One"
+        "note": "by the author of Ready Player One",
+        "textSnippet": "The New Novel From The Bestselling Author Of Ready Player One It&#39;s just another day of high school for Zack Lightman."
     },
     {
         "title": "Gnomon",
         "author": "Harkaway, Nick",
-        "isbn": "1524732087",
+        "isbn": "1785151274",
         "rating": 3.95,
         "length": 560,
         "source": "Warren Ellis",
-        "note":
-            "'You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.' — Warren Ellis, also by http://aworkinglibrary.com/reading/gnomon/"
+        "note": "'You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.' — Warren Ellis, also by http://aworkinglibrary.com/reading/gnomon/",
+        "textSnippet": "It is a magnificent achievement ... He&#39;s never written a bad book, but this is the one that&#39;ll see him mentioned in the same breath as William Gibson and David Mitchell ... This book seriously just destroyed me with joy."
     },
     {
         "title": "Retrograde",
@@ -350,8 +362,7 @@
         "isbn": "1328834557",
         "rating": 3.78,
         "length": 256,
-        "note":
-            "The international team at the Mars Endeavour colony is prepared for every eventuality except one—what happens when disaster strikes Earth?"
+        "textSnippet": "The international team at the Mars Endeavour colony is prepared for every eventuality except one—what happens when disaster strikes Earth?"
     },
     {
         "title": "Central Station",
@@ -359,7 +370,8 @@
         "isbn": "1616962143",
         "rating": 3.51,
         "length": 290,
-        "source": "Warren Ellis"
+        "source": "Warren Ellis",
+        "textSnippet": "Rising above them is Central Station, the interplanetary hub between all things: the constantly shifting Tel Aviv; a powerful virtual arena; and the space colonies where humanity has gone to escape the ravages of poverty and war"
     },
     {
         "title": "Parable of the Sower",
@@ -367,15 +379,17 @@
         "isbn": "0446675504",
         "rating": 4.14,
         "length": 356,
-        "series": "Earthseed #1"
+        "series": "Earthseed #1",
+        "textSnippet": "Parable of the Sower is a dystopian classic of terror and hope-the story of an African American teenage girl trying to survive in an all-too-real future-from the &quot;grand dame&quot; of science fiction, Octavia E. Butler."
     },
     {
         "title": "Parable of the Talents",
         "author": "Butler, Octavia E.",
-        "isbn": "0446675784",
+        "isbn": "1888363819",
         "rating": 4.22,
         "length": 434,
-        "series": "Earthseed #2"
+        "series": "Earthseed #2",
+        "textSnippet": "Lauren Olamina&#39;s daughter, Larkin, describes the broken and alienated world of 2032, as war racks the North American continent and an ultra-conservative religious crusader becomes president"
     },
     {
         "title": "Children of Time",
@@ -383,14 +397,16 @@
         "isbn": "1447273281",
         "rating": 4.29,
         "length": 609,
-        "source": "Gabe"
+        "source": "Gabe",
+        "textSnippet": "But all is not right in this new Eden. In the long years since the planet was abandoned, the work of its architects has born disastrous fruit. The planet is not waiting for them, pristine and unoccupied."
     },
     {
         "title": "The Rise and Fall of D.O.D.O.",
         "author": "Stephenson, Neal and Galland, Nicole",
         "isbn": "0062409166",
         "rating": 3.91,
-        "length": 768
+        "length": 768,
+        "textSnippet": "Written with the genius, complexity, and innovation that characterize all of Neal Stephenson’s work and steeped with the down-to-earth warmth and humor of Nicole Galland’s storytelling style, this exciting and vividly realized work of ..."
     },
     {
         "title": "The Drawing of the Three",
@@ -398,23 +414,26 @@
         "isbn": "0451210859",
         "rating": 4.23,
         "length": 438,
-        "series": "Dark Tower #2"
+        "series": "Dark Tower #2",
+        "textSnippet": "Roland is drawn through a gateway of time and space into the drug-and-crime-ridden world of the twentieth-century to battle a dark power determined to prevent his search for the Dark Tower."
     },
     {
         "title": "A Wizard of Earthsea",
         "author": "Le Guin, Ursula K.",
-        "isbn": "0547722028",
+        "isbn": "0553383043",
         "rating": 3.99,
         "length": 210,
         "note": "Recommended by someone… 'favorite by proxy'?",
-        "series": "Earthsea Cycle #1"
+        "series": "Earthsea Cycle #1",
+        "textSnippet": "A boy grows to manhood while attempting to subdue the evil he unleashed on the world as an apprentice to the Master Wizard."
     },
     {
         "title": "The Lathe of Heaven",
         "author": "Le Guin, Ursula K.",
         "isbn": "0060512741",
         "rating": 4.10,
-        "length": 194
+        "length": 194,
+        "textSnippet": "Through his dreams, George Orr can make alternate realities real"
     },
     {
         "title": "Artificial Condition",
@@ -422,7 +441,8 @@
         "isbn": "0765397552",
         "rating": 4.44,
         "length": 159,
-        "series": "Murderbot Diaries #2"
+        "series": "Murderbot Diaries #2",
+        "textSnippet": "The follow-up to the hugely popular All Systems Red It has a dark past – one in which a number of humans were killed."
     },
     {
         "title": "Constitution",
@@ -431,7 +451,8 @@
         "rating": 3.89,
         "length": 362,
         "note": "Recommended by author: Galactica-like",
-        "series": "Legacy Fleet #1"
+        "series": "Legacy Fleet #1",
+        "textSnippet": "Our new ships burn like straw. All our careful preparations are wasted. Only one man, one crew, and the oldest starship in the fleet stand between the Earth and certain destruction: ISS Constitution."
     },
     {
         "title": "The Dig",
@@ -440,7 +461,8 @@
         "rating": 3.62,
         "length": 377,
         "source": "Gabe",
-        "series": "Matt Turner #1"
+        "series": "Matt Turner #1",
+        "textSnippet": "A mysterious woven metal artifact is found at a paleontological dig in Africa."
     },
     {
         "title": "The Bloodline Feud",
@@ -449,7 +471,8 @@
         "rating": 3.88,
         "length": 576,
         "note": "parallel-universe techno-thriller by Charles Stross",
-        "series": "Merchant Princes #1-2"
+        "series": "Merchant Princes #1-2",
+        "textSnippet": "Believing she has found a career-making story when she stumbles upon a money-laundering scheme, reporter Miriam Beckstein is shocked when she is fired and threatened with death, a situation that turns increasingly bizarre when she learns ..."
     },
     {
         "title": "Behind the Throne",
@@ -458,9 +481,9 @@
         "rating": 3.84,
         "length": 432,
         "source": "io9",
-        "note":
-            "Orbit Books is responsible for some of the most exciting space adventures out there:, including James S.A. Corey’s Expanse series, Kim Stanley Robinson’s Aurora, and Ann Leckie’s Ancillary trilogy.",
-        "series": "Indranan War #1"
+        "note": "Orbit Books is responsible for some of the most exciting space adventures out there:, including James S.A. Corey’s Expanse series, Kim Stanley Robinson’s Aurora, and Ann Leckie’s Ancillary trilogy.",
+        "series": "Indranan War #1",
+        "textSnippet": "Dive into this action-packed, Star Wars-style science fiction adventure from debut author K.B. Wagers."
     },
     {
         "title": "Dauntless",
@@ -469,7 +492,8 @@
         "rating": 3.94,
         "length": 308,
         "source": "XO kickstarter",
-        "series": "Lost Fleet #1"
+        "series": "Lost Fleet #1",
+        "textSnippet": "Returning from survival hibernation and assuming the command of the Alliance fleet, legendary hero Captain John &quot;Black Jack&quot; Geary must retrieve the stolen Syndic hypernet key to save the Alliance from destruction at the hands of the ..."
     },
     {
         "title": "Left Hand of Darkness",
@@ -477,8 +501,8 @@
         "isbn": "0441478123",
         "rating": 4.06,
         "length": 320,
-        "note":
-            "'A lone human ambassador is sent to Winter, an alien world without sexual prejudice, where the inhabitants can change their gender whenever they choose.'"
+        "note": "A lone human ambassador is sent to Winter, an alien world without sexual prejudice, where the inhabitants can change their gender whenever they choose.",
+        "textSnippet": "On behalf of his government, an earthling travels to an alien, backward world whose inhabitants are all ambisexual"
     },
     {
         "title": "Artemis",
@@ -486,7 +510,8 @@
         "isbn": "0553448129",
         "rating": 3.68,
         "length": 322,
-        "note": "From the author of the Martian"
+        "note": "From the author of the Martian",
+        "textSnippet": "Augmenting her limited income by smuggling contraband to survive on the Moon&#39;s wealthy city of Artemis, Jazz agrees to commit what seems to be a perfect, lucrative crime, only to find herself embroiled in a conspiracy for control of the ..."
     },
     {
         "title": "Little Brother",
@@ -494,7 +519,8 @@
         "isbn": "0765319853",
         "rating": 3.93,
         "length": 387,
-        "series": "Little Brother #1"
+        "series": "Little Brother #1",
+        "textSnippet": "After being interrogated for days by the Department of Homeland Security in the aftermath of a major terrorist attack on San Francisco, California, seventeen-year-old Marcus, released into what is now a police state, decides to use his ..."
     },
     {
         "title": "New York 2140",
@@ -503,7 +529,8 @@
         "rating": 3.60,
         "length": 624,
         "source": "Susana Polo",
-        "note": "NY2140 is a fascinating extrapolation of NYC after sea levels rise by 50ft. 'I was there, I was there when the levies broke and half the city drowned in 2 hours'"
+        "note": "NY2140 is a fascinating extrapolation of NYC after sea levels rise by 50ft. 'I was there, I was there when the levies broke and half the city drowned in 2 hours'",
+        "textSnippet": "Through the eyes of the varied inhabitants of one building, Kim Stanley Robinson shows us how one of our great cities will change with the rising tides."
     },
     {
         "title": "From Unseen Fire",
@@ -512,7 +539,8 @@
         "rating": 4.33,
         "length": 400,
         "source": "io9",
-        "note": "This historical fantasy debut is set in an alternate version of ancient Rome, as a talented young mage strives to protect her people in a society filled with dangerous secrets and sinister sorcery"
+        "note": "This historical fantasy debut is set in an alternate version of ancient Rome, as a talented young mage strives to protect her people in a society filled with dangerous secrets and sinister sorcery",
+        "textSnippet": "From Unseen Fire is the first novel in the Aven Cycle, a historical fantasy set in an alternate Rome, by debut author Cass Morris The Dictator is dead; long live the Republic."
     },
     {
         "title": "Blackfish City",
@@ -521,7 +549,8 @@
         "rating": 3.62,
         "length": 336,
         "source": "io9",
-        "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale."
+        "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale.",
+        "textSnippet": "Blackfish City is a remarkably urgent—and ultimately very hopeful—novel about political corruption, organized crime, technology run amok, the consequences of climate change, gender identity, and the unifying power of human connection."
     },
     {
         "title": "One Way",
@@ -530,7 +559,8 @@
         "rating": 3.67,
         "length": 358,
         "source": "io9",
-        "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?"
+        "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?",
+        "textSnippet": "A murder mystery set on the frozen red wastes of Mars."
     },
     {
         "title": "Nightwise",
@@ -538,34 +568,27 @@
         "isbn": "0765374609",
         "rating": 3.66,
         "length": 320,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "R.S. Belcher, the acclaimed author of The Six-Gun Tarot and The Shotgun Arcana launches a gritty new urban fantasy series set in today&#39;s seedy occult underworld in Nightwise."
     },
     {
         "title": "My Real Children",
         "author": "Walton, Jo",
-        "isbn": "0000000000",
+        "isbn": "0765332655",
         "rating": 3.76,
         "length": 555,
         "source": "Steve Cook",
-        "note": "a dying woman's memories alternate between two timelines"
-    },
-    {
-        "title": "Void Black Shadow",
-        "author": "White, Corey J.",
-        "isbn": "0765396939",
-        "rating": 3.99,
-        "length": 144,
-        "source": "Warren Ellis",
-        "note": "VOID BLACK SHADOW by Corey J White is the sequel to KILLING GRAVITY, being the continuing science fiction tale of Mars Xi, an actual no-shit SPACE WITCH, complete with a cat-like gengineered-weirdo familiar.",
-        "series": "Voidwitch Saga #2"
+        "note": "a dying woman's memories alternate between two timelines",
+        "textSnippet": "Remembering two different pasts that reflect contrasting historical events and relationships with different people, an elderly Patricia Cowan wonders about her identity while gazing at a moon that might house benign or malicious ..."
     },
     {
         "title": "Imposter Syndrome",
         "author": "Baker, Mishell",
-        "isbn": "1481451944",
+        "isbn": "1481451952",
         "rating": 4.12,
         "length": 480,
-        "series": "Arcadia Project #3"
+        "series": "Arcadia Project #3",
+        "textSnippet": "In the third book of the Nebula Award–nominated Arcadia Project series, which New York Times bestselling author Seanan McGuire called “exciting, inventive, and brilliantly plotted,” Millie Roper has to pull off two impossible ..."
     },
     {
         "title": "The Book of Joan",
@@ -574,7 +597,8 @@
         "rating": 3.15,
         "length": 288,
         "source": "Warren Ellis",
-        "note": "Women who love, who hate, who kill, who destroy. It's about what happens after the end of the world, where (another) other-humanly elite has gone to orbit to live out sexless, loveless lives of bizarre art and ritual"
+        "note": "Women who love, who hate, who kill, who destroy. It's about what happens after the end of the world, where (another) other-humanly elite has gone to orbit to live out sexless, loveless lives of bizarre art and ritual",
+        "textSnippet": "The Book of Joan is an explosive work of fiction that considers what it means to be human, the fluidity of sex and gender, and the urgency of art as a means for survival."
     },
     {
         "title": "The Smoke",
@@ -583,7 +607,8 @@
         "rating": 3.85,
         "length": 300,
         "source": "Warren Ellis",
-        "note": "A world in which World War 2 didn't happen, Gurwitsch's theories are carried by the Jewish Bund to a Russian homeland and developed to the point where the people of the Bund speciate."
+        "note": "A world in which World War 2 didn't happen, Gurwitsch's theories are carried by the Jewish Bund to a Russian homeland and developed to the point where the people of the Bund speciate.",
+        "textSnippet": "Simon Ings&#39; The Smoke is about love, loss and loneliness in an incomprehensible world."
     },
     {
         "title": "After Atlas",
@@ -593,7 +618,8 @@
         "length": 369,
         "source": "io9",
         "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
-        "series": "Planetfall #2"
+        "series": "Planetfall #2",
+        "textSnippet": "Clarke Award Shortlist Acclaimed author Emma Newman returns to the captivating universe she created in Planetfall with a stunning science fiction mystery where one man&#39;s murder is much more than it seems."
     },
     {
         "title": "Planetfall",
@@ -603,7 +629,8 @@
         "length": 336,
         "source": "io9",
         "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
-        "series": "Planetfall #1"
+        "series": "Planetfall #1",
+        "textSnippet": "From the Hugo Award-winning author of Between Two Thorns comes the first novel in a captivating science fiction series where a secret withheld to protect humanity&#39;s future may lead to its undoing."
     },
     {
         "title": "Before Mars",
@@ -613,7 +640,8 @@
         "length": 320,
         "source": "io9",
         "note": "A woman undergoes a long, grueling journey to her new job on Mars, only to have an eerie sense of déjà vu once she arrives. https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
-        "series": "Planetfall #3"
+        "series": "Planetfall #3",
+        "textSnippet": "After months of travel, Anna Kubrin finally arrives on Mars for her new job as a geologist and de facto artist-in-residence."
     },
     {
         "title": "Authority",
@@ -621,7 +649,8 @@
         "isbn": "0374104107",
         "rating": 3.53,
         "length": 341,
-        "series": "Southern Reach #2"
+        "series": "Southern Reach #2",
+        "textSnippet": "John Rodriguez, the new head of a secret agency tasked to monitor Area X—a lush and remote terrain mysteriously sequestered from civilization—is faced with disturbing truths about himself and the agency he has sworn to serve when the ..."
     },
     {
         "title": "Acceptance",
@@ -629,7 +658,8 @@
         "isbn": "0374104115",
         "rating": 3.57,
         "length": 341,
-        "series": "Southern Reach #3"
+        "series": "Southern Reach #3",
+        "textSnippet": "In the cold winter of Area X, a new team embarks across the border on a mission to find a member of a previous expedition; and as they press deeper into the unknown the threat to the outside world becomes even more daunting."
     },
     {
         "title": "Embers of War",
@@ -639,7 +669,8 @@
         "length": 411,
         "source": "io9",
         "note": "a sentient warship that tries to atone for participating in a genocide by becoming a rescue vessel",
-        "series": "Embers of War #1"
+        "series": "Embers of War #1",
+        "textSnippet": "From BSFA Award winning author Gareth L. Powell comes the first in a new epic sci-fi trilogy exploring the legacies of war The sentient warship Trouble Dog was built for violence, yet following a brutal war, she is disgusted by her role in ..."
     },
     {
         "title": "Gunpowder Moon",
@@ -648,16 +679,18 @@
         "rating": 3.77,
         "length": 289,
         "source": "io9",
-        "note": "Life on the Moon, circa 2072, is already complicated even before the first lunar murder is committed."
+        "note": "Life on the Moon, circa 2072, is already complicated even before the first lunar murder is committed.",
+        "textSnippet": "“Interesting quirks and divided loyalties flesh out this first novel in which sf and mystery intersect in a well-crafted plot."
     },
     {
         "title": "Accelerando",
         "author": "Stross, Charles",
-        "isbn": "0441014151",
+        "isbn": "1841493899",
         "rating": 3.88,
         "length": 415,
         "source": "Warren Ellis",
-        "note": "http://www.warrenellis.com/?p=13972"
+        "note": "http://www.warrenellis.com/?p=13972",
+        "textSnippet": "His most ambitious novel to date, ACCELERANDO is a multi-generational saga following a brilliant clan of 21st-century posthumans."
     },
     {
         "title": "City of Golden Shadow",
@@ -667,7 +700,8 @@
         "length": 780,
         "source": "Susana Polo",
         "note": "a married couple who commission a highly immersive simulation of what modern South America would be like if Europe had never discovered it, basically South American Wakanda",
-        "series": "Otherland #1"
+        "series": "Otherland #1",
+        "textSnippet": "In the near future, a global conspiracy threatens to sacrifice the future of humanity for the promise of a utopia based on virtual reality, in a critically praised novel by the best-selling author of Tailchaser&#39;s Song."
     },
     {
         "title": "The Armored Saint",
@@ -676,24 +710,27 @@
         "rating": 3.78,
         "length": 206,
         "source": "io9",
-        "note": "A Girl Dares to Question Wizard-Hating Zealots https://io9.gizmodo.com/a-girl-dares-to-question-wizard-hating-zealots-in-the-f-1821964133"
+        "note": "A Girl Dares to Question Wizard-Hating Zealots https://io9.gizmodo.com/a-girl-dares-to-question-wizard-hating-zealots-in-the-f-1821964133",
+        "textSnippet": "Myke Cole, author of the beloved military fantasy Shadow Ops series, debuts a new epic fantasy trilogy with The Armored Saint, a tale of religious tyrants, arcane war-machines, and underground resistance that will enthrall epic fantasy ..."
     },
     {
         "title": "My Father, the Pornographer: A Memoir",
         "author": "Offutt, Chris",
         "isbn": "1501112465",
         "rating": 3.59,
-        "length": 272
+        "length": 272,
+        "textSnippet": "&quot;After inheriting 400 novels of pornography written by his father in the 1970s and &#39;80s, critically acclaimed author Chris Offutt sets out to make sense of a complicated father-son relationship in this carefully observed, beautifully ..."
     },
     {
         "title": "The City of Brass",
         "author": "Chakraborty, S.A.",
-        "isbn": "0062678108",
+        "isbn": "0008239398",
         "rating": 4.23,
         "length": 533,
         "source": "io9",
         "note": "In this debut novel set in and around 18th century Cairo, a faux fortune teller realizes she has actual magic powers, awakened by the arrival of a mysterious djinn warrior who opens up her world for better and worse.",
-        "series": "Daevabad #1"
+        "series": "Daevabad #1",
+        "textSnippet": "But alongside this new world the old stories linger. Tales of djinn and spirits. Of cities hidden among the swirling sands of the desert, full of enchantment, desire and riches."
     },
     {
         "title": "Ironclads",
@@ -701,7 +738,8 @@
         "isbn": "1781085684",
         "rating": 3.83,
         "length": 200,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "Scions have no limits Scions do not die And Scions do not disappear Sergeant Ted Regan has a problem."
     },
     {
         "title": "Feed",
@@ -711,16 +749,18 @@
         "length": 599,
         "source": "Many",
         "note": "My all-time favorite zombie apocalypse series!!! Spoiled 4 any other!!! About MUCH more than zombies.",
-        "series": "Newsflesh #1"
+        "series": "Newsflesh #1",
+        "textSnippet": "Now, twenty years after the Rising, Georgia and Shaun Mason are on the trail of the biggest story of their lives-the dark conspiracy behind the infected. The truth will out, even if it kills them."
     },
     {
         "title": "The Daedalus Incident",
         "author": "Martinez, Michael",
-        "isbn": "159780472X",
+        "isbn": "159780858X",
         "rating": 3.64,
         "length": 400,
         "source": "humble bundle",
-        "series": "Daedalus #1"
+        "series": "Daedalus #1",
+        "textSnippet": "Set sail among the stars with this uncanny tale, where adventure awaits, and dimensions collide!"
     },
     {
         "title": "Who Fears Death",
@@ -729,7 +769,8 @@
         "rating": 3.95,
         "length": 386,
         "note": "Going to be an HBO series",
-        "series": "Who Fears Death #1"
+        "series": "Who Fears Death #1",
+        "textSnippet": "Born into post-apocalyptic Africa to a mother who was raped after the slaughter of her entire tribe, Onyesonwu is tutored by a shaman and discovers that her magical destiny is to end the genocide of her people."
     },
     {
         "title": "Ka: Dar Oakley in the Ruin of Ymr",
@@ -737,7 +778,8 @@
         "isbn": "1481495593",
         "rating": 4.13,
         "length": 464,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "He tells the story of his impossible lives and deaths to a man who has learned his language in this exquisite novel which unravels like a fireside fable, by award-winning author John Crowley."
     },
     {
         "title": "The Tiger's Daughter",
@@ -746,7 +788,8 @@
         "rating": 3.77,
         "length": 526,
         "source": "io9",
-        "series": "Their Bright Ascendency #1"
+        "series": "Their Bright Ascendency #1",
+        "textSnippet": "When a dark force begins to overtake the crumbling border walls of the Hokkaran Empire, an infamous Qorin warrior and a spoiled divine warrior princess set out to save their people and fufill the prophecy made at their birth."
     },
     {
         "title": "Barbary Station",
@@ -756,7 +799,8 @@
         "length": 384,
         "source": "Verge",
         "note": "Space pirates! Adda and Iridian are a pair of engineers who hijack a colony ship to join a pirate crew, only to discover that Barbary Station is controlled by an insane AI. This looks like it could be a really exciting space opera adventure.",
-        "series": "Shieldrunner Pirates #1"
+        "series": "Shieldrunner Pirates #1",
+        "textSnippet": "Desperate for employment, they hijack a colony ship and plan to join a famed pirate crew living in luxury at Barbary Station, an abandoned shipbreaking station in deep space. But when they arrive there, nothing is as expected."
     },
     {
         "title": "Ironfoot",
@@ -765,7 +809,8 @@
         "rating": 4.17,
         "length": 344,
         "source": "io9",
-        "series": "Enchanter General #1"
+        "series": "Enchanter General #1",
+        "textSnippet": "A lowly enchanter finds himself entangled in a plot to assassinate the king in a new historical fantasy series set in twelfth century England."
     },
     {
         "title": "Akata Warrior",
@@ -774,7 +819,8 @@
         "rating": 4.29,
         "length": 496,
         "source": "io9",
-        "series": "Akata Witch #2"
+        "series": "Akata Witch #2",
+        "textSnippet": "Now stronger, feistier, and a bit older, Sunny Nwazue, along with her friends from the the Leopard Society, travel through worlds, both visible and invisible, to the mysterious town of Osisi, where they fight in a climactic battle to save ..."
     },
     {
         "title": "Akata Witch",
@@ -783,7 +829,8 @@
         "rating": 4.09,
         "length": 349,
         "source": "io9",
-        "series": "Akata Witch #1"
+        "series": "Akata Witch #1",
+        "textSnippet": "Twelve-year-old Sunny Nwazue, an American-born albino child of Nigerian parents, moves with her family back to Nigeria, where she learns that she has latent magical powers which she and three similarly gifted friends use to catch a serial ..."
     },
     {
         "title": "An Unkindness of Magicians",
@@ -791,7 +838,8 @@
         "isbn": "1481451219",
         "rating": 3.81,
         "length": 352,
-        "source": "Tor"
+        "source": "Tor",
+        "textSnippet": "“A remarkable writer.” —Neil Gaiman, bestselling author of American Gods An Alex Award Winner There is a dark secret that is hiding at the heart of New York City and diminishing the city’s magicians’ power in this fantasy thriller ..."
     },
     {
         "title": "Autonomous",
@@ -799,7 +847,8 @@
         "isbn": "0765392070",
         "rating": 3.62,
         "length": 303,
-        "note": "Autonomous is to biotech and AI what Neuromancer was to the Internet. - Neal Stephenson"
+        "note": "Autonomous is to biotech and AI what Neuromancer was to the Internet. - Neal Stephenson",
+        "textSnippet": "Judith &quot;Jack&quot; Chen, a scientist-turned-drug pirate, travels the world in a submarine to bring cheap medicine to the poor, but when her latest drug hack results in a trail of lethal overdoses, she is pursued by a jaded military agent and his ..."
     },
     {
         "title": "We Are Legion (We Are Bob)",
@@ -808,7 +857,8 @@
         "rating": 4.29,
         "length": 304,
         "source": "Jarrod",
-        "series": "Bobiverse #1"
+        "series": "Bobiverse #1",
+        "textSnippet": "&quot;Bob Johansson has just sold his software company and is looking forward to a life of leisure."
     },
     {
         "title": "A Man of Shadows",
@@ -817,7 +867,8 @@
         "rating": 3.46,
         "length": 352,
         "source": "Warren Ellis",
-        "series": "John Nyquis #1"
+        "series": "John Nyquis #1",
+        "textSnippet": "Below the neon skies of Dayzone - a city where the lights never go out, and night has been banished - lowly private eye John Nyquist takes on a teenage runaway case."
     },
     {
         "title": "The Peripheral",
@@ -826,7 +877,8 @@
         "rating": 3.94,
         "length": 485,
         "source": "Mandy Brown",
-        "note": "a curious kind of time travel in which information—but not atoms—flows between a near future and one further away http://aworkinglibrary.com/reading/peripheral/"
+        "note": "a curious kind of time travel in which information—but not atoms—flows between a near future and one further away http://aworkinglibrary.com/reading/peripheral/",
+        "textSnippet": "Depending on her veteran brother&#39;s benefits in a city where jobs outside the drug trade are rare, Flynne assists her brother&#39;s latest beta-test tech assignment only to uncover an elaborate murder scheme."
     },
     {
         "title": "Orbital Cloud",
@@ -834,7 +886,8 @@
         "isbn": "1421592134",
         "rating": 3.69,
         "length": 528,
-        "source": "Verge"
+        "source": "Verge",
+        "textSnippet": "This book will thrill and delight readers with its tight plotting and brilliant scientific speculation, and it describes the space enthusiast community with a level of authenticity and passion seldom seen in fiction."
     },
     {
         "title": "The Legend of Eli Monpress",
@@ -844,17 +897,19 @@
         "length": 1040,
         "source": "Chuck",
         "note": "fun antihero with high charisma, literally convinces the rock wall of his prison cell to set him free",
-        "series": "Legend of Eli Monpress #1-3"
+        "series": "Legend of Eli Monpress #1-3",
+        "textSnippet": "But he&#39;ll start small for now. He&#39;ll just steal something that no one will miss - at least for a while. Like a king. The Legend of Eli Monpress includes the novels: The Spirit Thief, The Sprit Rebellion, and The Spirit Eater."
     },
     {
         "title": "Tomorrow's Kin",
         "author": "Kress, Nancy",
-        "isbn": "0765390299",
+        "isbn": "0765390310",
         "rating": 3.64,
         "length": 352,
         "source": "io9",
         "note": "imagines that mysterious aliens have taken up residence in New York City—ahead of a looming disaster that Earth’s scientists must scramble to prevent.",
-        "series": "Yesterday's Kin #1"
+        "series": "Yesterday's Kin #1",
+        "textSnippet": "Tomorrow&#39;s Kin is the first volume in and all new hard science fiction trilogy by Nancy Kress based on the Nebula Award-winning Yesterday&#39;s Kin."
     },
     {
         "title": "Dichronauts",
@@ -863,17 +918,19 @@
         "rating": 3.53,
         "length": 312,
         "source": "io9",
-        "note": "Constantly-shifting habitable zone means cities must be constantly re-mapped, a surveyor (whose best friend is the leech-like creature that lives in his brain and helps him navigate) makes an alarming discovery at the edge of civilization."
+        "note": "Constantly-shifting habitable zone means cities must be constantly re-mapped, a surveyor (whose best friend is the leech-like creature that lives in his brain and helps him navigate) makes an alarming discovery at the edge of civilization.",
+        "textSnippet": "Seth is a surveyor, along with his friend Theo, a leech-like creature running through his skull who tells Seth what lies to his left and right."
     },
     {
         "title": "Master of the Five Magics",
         "author": "Hardy, Lyndon",
-        "isbn": "0345276353",
+        "isbn": "0345319079",
         "rating": 3.81,
         "length": 541,
         "source": "Pat Rothfuss",
         "note": "Recommended by Pat Rothfuss as similar to his magic system",
-        "series": "Magic by the Numbers #1"
+        "series": "Magic by the Numbers #1",
+        "textSnippet": "Alodar was a mere apprentice thaumaturge, learning the least of the five arts of magic."
     },
     {
         "title": "The Magician's Land",
@@ -881,7 +938,8 @@
         "isbn": "0670015679",
         "rating": 4.16,
         "length": 402,
-        "series": "Magicians #3"
+        "series": "Magicians #3",
+        "textSnippet": "Visiting his magical college after being cast out of the secret land of Fillory, Quentin Coldwater, accompanied by brilliant undergraduate Plum, encounters desperate practitioners of gray magic before discovering a sorcery masterwork that ..."
     },
     {
         "title": "The Wanderers",
@@ -890,7 +948,8 @@
         "rating": 3.55,
         "length": 370,
         "source": "Verge",
-        "note": "A private space company is getting ready to put astronauts on Mars for the first time. The trio are tasked with a 17mo mission to test their training and ensure that they’re ready to travel to the Red Planet."
+        "note": "A private space company is getting ready to put astronauts on Mars for the first time. The trio are tasked with a 17mo mission to test their training and ensure that they’re ready to travel to the Red Planet.",
+        "textSnippet": "Astonishingly imaginative, tenderly comedic, and unerringly wise, The Wanderers explores the differences between those who go and those who stay, telling a story about the desire behind all exploration: the longing for discovery and the ..."
     },
     {
         "title": "Hull Zero Three",
@@ -898,7 +957,8 @@
         "isbn": "0316072818",
         "rating": 3.37,
         "length": 307,
-        "note": "Recommended in Let's Play of Stasis"
+        "note": "Recommended in Let's Play of Stasis",
+        "textSnippet": "Where are they going? What happened to the dream of a new life? What happened to Hull 03? All will be answered, if he can survive the ship. HULL ZERO THREE is an edge-of-your-seat thrill ride through the darkest reaches of space."
     },
     {
         "title": "Ararat",
@@ -906,25 +966,28 @@
         "isbn": "1250117054",
         "rating": 3.39,
         "length": 320,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "As &quot;a newly engaged couple climbs Mount Ararat in Turkey, an [earthquake reveals a secret cave]."
     },
     {
         "title": "The Bridge",
         "author": "Banks, Iain",
-        "isbn": "0316858544",
+        "isbn": "0349102155",
         "rating": 3.84,
         "length": 288,
-        "note": "secret culture novel https://www.theguardian.com/books/2014/sep/23/iain-banks-the-bridge-link-mainstream-literature-science-fiction"
+        "note": "secret culture novel https://www.theguardian.com/books/2014/sep/23/iain-banks-the-bridge-link-mainstream-literature-science-fiction",
+        "textSnippet": "The man who wakes up in the extraordinary world of a bridge has amnesia, and his doctor doesn&#39;t seem to want to cure him. Does it matter? Exploring the bridge occupies most of his days. But at night there are his dreams."
     },
     {
         "title": "The Word for World is Forest",
         "author": "Le Guin, Ursula K.",
-        "isbn": "0765324644",
+        "isbn": "1473205786",
         "rating": 3.92,
         "length": 160,
         "source": "Verge",
         "note": "Can be read in any order",
-        "series": "Hainish Cycle #2"
+        "series": "Hainish Cycle #2",
+        "textSnippet": "When the inhabitants of a peaceful world are conquered by the bloodthirsty yumens, their existence is irrevocably altered."
     },
     {
         "title": "Portal of a Thousand Worlds",
@@ -932,7 +995,8 @@
         "isbn": "1504038754",
         "rating": 3.84,
         "length": 482,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "&quot;Ten centuries have passed since the last time the Portal of a Thousand Worlds opened, bringing chaos, upheaval, and radical change to the then-ruling dynasty, and now the mystical gateway is rumored to be on the verge of opening once more."
     },
     {
         "title": "All Our Wrong Todays",
@@ -940,7 +1004,8 @@
         "isbn": "1101985135",
         "rating": 3.80,
         "length": 384,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "&quot;--USA Today Elan Mastai&#39;s acclaimed debut novel is a story of friendship and family, of unexpected journeys and alternate paths, and of love in its multitude of forms."
     },
     {
         "title": "The Stars Are Legion",
@@ -949,14 +1014,16 @@
         "rating": 3.70,
         "length": 400,
         "source": "io9",
-        "note": "standalone space opera about a woman who awakes with no memory amid war between world-ships traveling the darkest regions of the universe. In this desperate setting she realizes she may hold the key to salvation—but at what cost?"
+        "note": "standalone space opera about a woman who awakes with no memory amid war between world-ships traveling the darkest regions of the universe. In this desperate setting she realizes she may hold the key to salvation—but at what cost?",
+        "textSnippet": "Somewhere on the outer rim of the universe, a mass of decaying worldships known as the Legion is traveling in the seams between the stars."
     },
     {
         "title": "Norse Mythology",
         "author": "Gaiman, Neil",
         "isbn": "039360909X",
         "rating": 4.09,
-        "length": 299
+        "length": 299,
+        "textSnippet": "Introducing an instant classic--master storyteller Neil Gaiman presents a dazzling version of the great Norse myths."
     },
     {
         "title": "The Fortress at the End of Time",
@@ -965,7 +1032,8 @@
         "rating": 3.08,
         "length": 305,
         "source": "Verge",
-        "note": "One such clone is assigned to man a distant outpost, and has to come to terms with a terrible incident in his past. This has the looks of a thoughtful and interesting read."
+        "note": "One such clone is assigned to man a distant outpost, and has to come to terms with a terrible incident in his past. This has the looks of a thoughtful and interesting read.",
+        "textSnippet": "Aldo&#39;s only hope of transcending his station, and cloning a piece of his soul somewhere new is both his triumph and his terrible crime. The Fortress at the End of Time is a new science fiction novel from Joe M. McDermott."
     },
     {
         "title": "The Grace of Kings",
@@ -975,7 +1043,8 @@
         "length": 623,
         "source": "Verge & io9",
         "note": "an ambitious, astonishing, and sublime work, one that both exemplifies and diverges from what one might think of when it comes to epic fantasy. It should rank amongst the genre's best works. https://goo.gl/7xgcr8",
-        "series": "Dandelion Dynasty #1"
+        "series": "Dandelion Dynasty #1",
+        "textSnippet": "Becoming the best of friends after a series of adventures fighting against vast conscripted armies, a bandit and a duke&#39;s son become the rival leaders of separate factions with very different ideas about justice and politics."
     },
     {
         "title": "Dark Run",
@@ -985,7 +1054,8 @@
         "length": 432,
         "source": "Verge",
         "note": "Take a starship, crew it with people who have questionable paths, introduce a sponsor with a major vendetta, then send them out on what’s most likely a suicide mission to Earth",
-        "series": "Keiko #1"
+        "series": "Keiko #1",
+        "textSnippet": "The Keiko is a ship of smugglers, soldiers of fortune and adventurers, travelling Earthâe(tm)s colony planets searching for the next job."
     },
     {
         "title": "Aurora",
@@ -994,16 +1064,18 @@
         "rating": 3.73,
         "length": 466,
         "source": "Warren Ellis & aworkinglibrary",
-        "note": "mainly a realistic take on how humanity can travel to other planets, Robinson takes a hard look at what settling on a new world might look like when such a ship would arrive: incredibly difficult."
+        "note": "mainly a realistic take on how humanity can travel to other planets, Robinson takes a hard look at what settling on a new world might look like when such a ship would arrive: incredibly difficult.",
+        "textSnippet": "Brilliantly imagined and beautifully told, it is the work of a writer at the height of his powers. Our voyage from Earth began generations ago. Now, we approach our new home. AURORA."
     },
     {
         "title": "Spindrift",
         "author": "Steele Allen",
-        "isbn": "0441014712",
+        "isbn": "0441015824",
         "rating": 3.83,
         "length": 368,
         "note": "set in Steele's Coyote universe, but is not a part of the core trilogy. It runs paralell to it.",
-        "series": "Coyote #4"
+        "series": "Coyote #4",
+        "textSnippet": "More than fifty years after a European starship goes missing while investigating an unidentified space object, the expedition&#39;s three surviving members return to Earth without having aged and possessing claims about an extraterrestrial race ..."
     },
     {
         "title": "Arkwright",
@@ -1011,7 +1083,8 @@
         "isbn": "0765382156",
         "rating": 3.66,
         "length": 336,
-        "note": "Another great book from him is Arkwright, which portrays how humans could set up an interstellar ship and colonize a distant planet."
+        "note": "Another great book from him is Arkwright, which portrays how humans could set up an interstellar ship and colonize a distant planet.",
+        "textSnippet": "Nathan Arkwright is a famous science fiction writer who is convinced that humanity cannot survive on Earth. His Arkwright Foundation dedicates itself to creating a colony in deep space."
     },
     {
         "title": "Roadside Picnic",
@@ -1019,7 +1092,8 @@
         "isbn": "0575070536",
         "rating": 4.21,
         "length": 145,
-        "note": "S.T.A.L.K.E.R. is based on the novella Roadside Picnic, by the Strugatsky brothers, and its film adaptation, Andrei Tarkovsky’s Stalker."
+        "note": "S.T.A.L.K.E.R. is based on the novella Roadside Picnic, by the Strugatsky brothers, and its film adaptation, Andrei Tarkovsky’s Stalker.",
+        "textSnippet": "Red Schuhart is a stalker, one of those strange misfits who are compelled by some unknown force to venture illegally into the Zone and, in spite of the extreme danger, collect the mysterious artefacts that the alien visitors left scattered ..."
     },
     {
         "title": "The Scar",
@@ -1028,7 +1102,8 @@
         "rating": 4.16,
         "length": 578,
         "note": "China Mieville’s Bas Lag is one of my favorite fictional worlds. Unlike traditional nations, Armada is a nation made up of boats tied together. Its nine boroughs are ruled by different factions, all quietly vying for control over Armada itself.",
-        "series": "Bas-Lag #2"
+        "series": "Bas-Lag #2",
+        "textSnippet": "En route to the fledgling colony of New Crobuzon, a ship carrying prisoners, slaves, and a few travelers, each with their own reason for leaving the city, is attacked by pirates, who bring the surviving passengers to a strange floating city ..."
     },
     {
         "title": "Chasm City",
@@ -1036,7 +1111,8 @@
         "isbn": "0441010644",
         "rating": 4.13,
         "length": 694,
-        "note": "If you’re a fan of the Mass Effect universe, you’re a fan of the Revelation Space world, you just don’t know it yet. Everything Mass Effect did, Revelation Space did better, and I say this as a huge fan of both series."
+        "note": "If you’re a fan of the Mass Effect universe, you’re a fan of the Revelation Space world, you just don’t know it yet. Everything Mass Effect did, Revelation Space did better, and I say this as a huge fan of both series.",
+        "textSnippet": "Tanner Mirabel ventures through the dark underside of Chasm City, a once utopian city overrun by a vicious virus known as the Melding Plague, in pursuit of a lowlife postmortal and comes face to face with a centuries-old atrocity that ..."
     },
     {
         "title": "The Passage",
@@ -1045,7 +1121,8 @@
         "rating": 4.04,
         "length": 766,
         "source": "Mrs. Stockman",
-        "series": "Passage #1"
+        "series": "Passage #1",
+        "textSnippet": "A security breach at a secret U.S. government facility unleashes the monstrous product of a chilling military experiment that only six-year-old orphan Amy Harper Bellafonte can stop."
     },
     {
         "title": "Echopraxia",
@@ -1053,7 +1130,8 @@
         "isbn": "076532802X",
         "rating": 3.89,
         "length": 384,
-        "series": "Firefall #2"
+        "series": "Firefall #2",
+        "textSnippet": "A follow-up to the Hugo Award-nominated Blindsight is set in a 22nd-century world transformed by scientific evangelicals, supernatural beings and ghosts, where defunct biologist Daniel Bruks becomes trapped on a spaceship destined to make ..."
     },
     {
         "title": "Transition",
@@ -1062,15 +1140,17 @@
         "rating": 3.85,
         "length": 404,
         "source": "io9",
-        "note": "an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power. https://io9.gizmodo.com/5366356/with-transition-iain-m-banks-reinvents-the-multiverse-novel"
+        "note": "an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power. https://io9.gizmodo.com/5366356/with-transition-iain-m-banks-reinvents-the-multiverse-novel",
+        "textSnippet": "There is a world that hangs suspended between triumph and catastrophe, between the dismantling of the Wall and the fall of the Twin Towers, frozen in the shadow of suicide terrorism and global financial collapse."
     },
     {
         "title": "Charmed Life",
         "author": "Jones, Diana Wynne",
-        "isbn": "000710653X",
+        "isbn": "0007255292",
         "rating": 3.95,
         "length": 252,
-        "series": "Chrestomanci #1"
+        "series": "Chrestomanci #1",
+        "textSnippet": "Glorious new rejacket of a Diana Wynne Jones classic award-winning favourite, featuring Chrestomanci - now a book with extra bits!"
     },
     {
         "title": "The Quantum Thief",
@@ -1079,7 +1159,8 @@
         "rating": 3.84,
         "length": 336,
         "source": "Warren Ellis",
-        "series": "Jean le Flambeur #1"
+        "series": "Jean le Flambeur #1",
+        "textSnippet": ". . The Quantum Thief is a dazzling hard SF novel set in the solar system of the far future - a heist novel peopled by bizarre post-humans but powered by very human motives of betrayal, revenge and jealousy. It is a stunning debut."
     },
     {
         "title": "Babylon's Ashes",
@@ -1087,7 +1168,8 @@
         "isbn": "0356504263",
         "rating": 4.19,
         "length": 538,
-        "series": "Expanse #6"
+        "series": "Expanse #6",
+        "textSnippet": "The sixth book in the New York Times bestselling Expanse series."
     },
     {
         "title": "The Vital Abyss",
@@ -1095,7 +1177,8 @@
         "isbn": "0316217565",
         "rating": 3.85,
         "length": 75,
-        "series": "Expanse #5.5"
+        "series": "Expanse #5.5",
+        "textSnippet": "The only company they have is each other and the Belters who guard them. The only stories they know are the triumphs and crimes that brought them there. The only future they see is an empty life in an enormous room."
     },
     {
         "title": "Nemesis Games",
@@ -1103,7 +1186,8 @@
         "isbn": "0356504220",
         "rating": 4.37,
         "length": 536,
-        "series": "Expanse #5"
+        "series": "Expanse #5",
+        "textSnippet": "And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left."
     },
     {
         "title": "Cibola Burn",
@@ -1111,7 +1195,8 @@
         "isbn": "031621762X",
         "rating": 4.13,
         "length": 581,
-        "series": "Expanse #4"
+        "series": "Expanse #4",
+        "textSnippet": "ENTER A NEW FRONTIER. &quot;An empty apartment, a missing family, that&#39;s creepy. But this is like finding a military base with no one on it. Fighters and tanks idling on the runway with no drivers. This is bad juju."
     },
     {
         "title": "Strange Dogs",
@@ -1119,7 +1204,8 @@
         "isbn": "0316217573",
         "rating": 3.90,
         "length": 112,
-        "series": "Expanse #6.5"
+        "series": "Expanse #6.5",
+        "textSnippet": "A novella set in the hard-scrabble world of the Expanse, Strange Dogs deepens James S. A. Corey&#39;s New York Times bestselling series."
     },
     {
         "title": "Persepolis Rising",
@@ -1127,7 +1213,8 @@
         "isbn": "0316332828",
         "rating": 4.35,
         "length": 608,
-        "series": "Expanse #7"
+        "series": "Expanse #7",
+        "textSnippet": "The seventh novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
     },
     {
         "title": "The Inheritance Trilogy",
@@ -1137,7 +1224,8 @@
         "length": 1442,
         "source": "twitter",
         "note": "WOC author & characters, seduces a god",
-        "series": "Inheritance #1-3.5"
+        "series": "Inheritance #1-3.5",
+        "textSnippet": "In this omnibus edition of N.K. Jemisin&#39;s brilliantly original award-winning fantasy series, a young woman becomes entangled in a power struggle of mythic proportions."
     },
     {
         "title": "Station Eleven",
@@ -1145,7 +1233,8 @@
         "isbn": "0385353308",
         "rating": 4.02,
         "length": 336,
-        "source": "adactio"
+        "source": "adactio",
+        "textSnippet": "The sudden death of a Hollywood actor during a production of King Lear marks the beginning of the world&#39;s dissolution, in a story told at various past and future times from the perspectives of the actor and four of his associates."
     },
     {
         "title": "The Three-Body Problem",
@@ -1154,7 +1243,8 @@
         "rating": 4.03,
         "length": 400,
         "source": "Sara Chipps",
-        "series": "Remembrance of Earth's Past #1"
+        "series": "Remembrance of Earth's Past #1",
+        "textSnippet": "Set against the backdrop of China&#39;s Cultural Revolution, a secret military project&#39;s signal is received by an alien civilization on the brink of destruction, which plans to invade Earth; meanwhile, on Earth, different camps start forming, ..."
     },
     {
         "title": "The Goblin Emperor",
@@ -1163,7 +1253,8 @@
         "rating": 4.04,
         "length": 446,
         "source": "Kara",
-        "note": "Female author"
+        "note": "Female author",
+        "textSnippet": "Reluctantly elevated to the throne when his father and brothers are killed in a suspicious accident, an exiled half-goblin is rapidly overwhelmed by ambitious sycophants, imperial burdens and dangerous plots while searching for friendship ..."
     },
     {
         "title": "Stand on Zanzibar",
@@ -1171,24 +1262,27 @@
         "isbn": "1857988361",
         "rating": 3.97,
         "length": 672,
-        "source": "Warren Ellis"
+        "source": "Warren Ellis",
+        "textSnippet": "In a society populated by mass-marketed psychedelics and eugenics, where everyone was struggling for life, Donald Hogan was a mild-mannered student, a dilettante intellectual - at least that&#39;s what everybody was supposed to think."
     },
     {
         "title": "The Water Knife",
         "author": "Bacigalupi, Paolo",
-        "isbn": "0385352875",
+        "isbn": "0356501744",
         "rating": 3.83,
         "length": 371,
-        "source": "Warren Ellis"
+        "source": "Warren Ellis",
+        "textSnippet": "When rumours of a game-changing water source surface, Las Vegas dispatches elite water knife Angel Velasquez to Phoenix to investigate"
     },
     {
         "title": "Nexus",
         "author": "Naam, Ramez",
-        "isbn": "0857662937",
+        "isbn": "0857665502",
         "rating": 4.05,
         "length": 460,
         "source": "Gabe",
-        "series": "Nexus #1"
+        "series": "Nexus #1",
+        "textSnippet": "Kade Lane is a young scientist of the future who has found a way to make Nexus, a experimental drug that allows humans to connect minds, to be introduced with apps that can expand human capabilities, as police, government forces, and ..."
     },
     {
         "title": "The Windup Girl",
@@ -1197,7 +1291,8 @@
         "rating": 3.74,
         "length": 359,
         "source": "Lev Grossman",
-        "note": "Recommended by Lev Grossman in Time, and Nigel"
+        "note": "Recommended by Lev Grossman in Time, and Nigel",
+        "textSnippet": "Living in a future where food is scarce, Anderson Lake tries to find ways to exploit this need, as he comes into conflict with Jaidee, an official of the Environmental Ministry, and encounters Emiko, a engineered windup girl who has been ..."
     },
     {
         "title": "Red Planet Blues",
@@ -1205,22 +1300,25 @@
         "isbn": "0425256820",
         "rating": 3.50,
         "length": 368,
-        "source": "Gabe"
+        "source": "Gabe",
+        "textSnippet": "Working in New Klondike in the Martian frontier, Alex Lomax discovers clues to who murdered the men that first discovered life on mars decades earlier, and puts himself in mortal danger after also uncovering a treasure trove of rare Martian ..."
     },
     {
         "title": "Pastwatch: The Redemption of Christopher Columbus",
         "author": "Card, Orson Scott",
         "isbn": "0812508645",
         "rating": 3.96,
-        "length": 402
+        "length": 402,
+        "textSnippet": "In one of the most powerful and thought-provoking novels of his remarkable career, Orson Scott Card interweaves a compelling portrait of Christopher Columbus with the story of a future scientist who believes she can alter human history from ..."
     },
     {
         "title": "Seed",
         "author": "Ziegler, Rob",
-        "isbn": "1597803235",
+        "isbn": "1597803251",
         "rating": 3.21,
         "length": 341,
-        "source": "io9"
+        "source": "io9",
+        "textSnippet": "In a dystopian 22nd-century America where Satori, a hyper-intelliigent living city, controls the production of climate-resistant seeds--the only food available to Americans--Secret Service agent Sienna Doss is tasked with finding a rogue ..."
     },
     {
         "title": "The Final Empire",
@@ -1230,7 +1328,8 @@
         "length": 541,
         "source": "Pat Rothfuss",
         "note": "Sanderson has now been added to a very short list. Specifically, the list authors I wish to kill so that I might eat their livers and thereby gain their power.",
-        "series": "Mistborn #1"
+        "series": "Mistborn #1",
+        "textSnippet": "Experiencing an epiphany within the most daunting prison of the monstrous Lord Ruler, half-Skaa Kelsier finds himself taking on the powers of a Mistborn, and teams up with ragged orphan Vin in a desperate plot to save their world."
     },
     {
         "title": "The Red Threads of Fortune",
@@ -1238,6 +1337,7 @@
         "isbn": "0765395398",
         "rating": 4.06,
         "length": 213,
-        "series": "Tensorate #2"
+        "series": "Tensorate #2",
+        "textSnippet": "The Red Threads of Fortune is one of a pair of unique, standalone introductions to JY Yang's Tensorate Series, which Kate Elliott calls 'effortlessly fascinating.'"
     }
 ]
