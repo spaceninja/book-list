@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/main.css">
 <script defer src="js/thenBy.min.js"></script>
-<script defer src="js/listbooks.js"></script>
+<script defer src="js/widont.min.js"></script>
+<script defer src="js/listbooks.min.js"></script>
 </head>
 <body>
 <h1>Book List</h1>
@@ -51,41 +52,31 @@
     </option>
 </select>
 
-<table>
-    <thead>
-        <tr>
-            <th>Title</th>
-            <th>Series</th>
-            <th>Author</th>
-            <th>Rating</th>
-            <th>Pages</th>
-            <th>Source</th>
-            <th>Note</th>
-            <th>Snippet</th>
-        </tr>
-    </thead>
-    <tbody id="booklist-content">
-        <tr>
-            <td colspan="5">
-                loading
-            </td>
-        </tr>
-    </tbody>
-</table>
+<ul class="book-list" id="booklist-content">
+    <li>loading…</li>
+</ul>
 
 <div id="booklist-error"></div>
 
 <template id="book-template">
-    <tr class="book" id="">
-        <td class="book--title"></td>
-        <td class="book--series"></td>
-        <td class="book--author"></td>
-        <td class="book--rating num"></td>
-        <td class="book--length num"></td>
-        <td class="book--source"></td>
-        <td class="book--note"></td>
-        <td class="book--snippet"></td>
-    </tr>
+    <li class="book">
+        <h2>
+            <span class="book--title"></span>
+            <span class="book--series"></span>
+        </h2>
+        <p>by <span class="book--author"></span></p>
+        <p>
+            <span class="book--rating num"></span>,
+            <span class="book--length num"></span>pp
+        </p>
+        <blockquote>
+            <p class="book--snippet"></p>
+        </blockquote>
+        <p class="book--recommendation">
+            <span class="book--source" data-prefix="Recommended by "></span>
+            <q class="book--note"></q>
+        </p>
+    </li>
 </template>
 
 </body>

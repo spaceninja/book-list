@@ -48,12 +48,12 @@ const buildHTML = function buildHTML(bookArray) {
       const t = document.importNode(bookTemplate.content, true);
 
       t.querySelector('.book').id = bookArray[i].isbn;
-      t.querySelector('.book--title').innerHTML = bookArray[i].title;
+      t.querySelector('.book--title').innerHTML = widont(bookArray[i].title);
       t.querySelector('.book--author').innerHTML = bookArray[i].author;
       t.querySelector('.book--rating').innerHTML = bookArray[i].rating;
       t.querySelector('.book--length').innerHTML = bookArray[i].length;
       if (bookArray[i].series) {
-        t.querySelector('.book--series').innerHTML = bookArray[i].series;
+        t.querySelector('.book--series').innerHTML = widont(bookArray[i].series);
       }
       if (bookArray[i].source) {
         t.querySelector('.book--source').innerHTML = bookArray[i].source;
