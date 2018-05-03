@@ -1,11 +1,15 @@
 @import "normalize";
 
-@mixin shadow($level: 1, $background: black) {
-         @if $level == 1 { box-shadow: 0 1px   3px rgba(0,0,0,0.12), 0   1px 2px rgba($background,0.24) }
-    @else if $level == 2 { box-shadow: 0 3px   6px rgba(0,0,0,0.16), 0   3px 6px rgba($background,0.23) }
-    @else if $level == 3 { box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0   6px 6px rgba($background,0.23) }
-    @else if $level == 4 { box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba($background,0.22) }
-    @else if $level == 5 { box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba($background,0.22) }
+@mixin wrap_long_words() {
+    // stylelint-disable order/properties-alphabetical-order
+    word-break: break-word;    // 1
+    word-wrap: break-word;     // 2
+    overflow-wrap: break-word; // 3
+    // stylelint-enable
+}
+
+* {
+    box-sizing: border-box;
 }
 
 html {
@@ -22,6 +26,7 @@ html {
         sans-serif;
     font-size: 12px;
     font-weight: 100;
+    line-height: 1.4;
 
     @media screen and (min-width: 480px) {
         font-size: 14px;
@@ -29,12 +34,20 @@ html {
 }
 
 body {
+    background: #fafafa;
+    color: #4a4a4a;
     padding: 1em;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 h1 {
     font-weight: 400;
-    margin: 0 0 0.25em;
+    margin: 0;
 
     @media screen and (min-width: 768px) {
         font-size: 3em;
@@ -47,13 +60,16 @@ h1 {
     }
 }
 
-blockquote {
-    margin: 0;
+.sort-by {
+    font-size: 1.2em;
 }
 
-.num {
-    font-feature-settings: "tnum";
-    font-variant-numeric: tabular-nums;
+p {
+    margin-top: 0;
+}
+
+blockquote {
+    margin: 0;
 }
 
 .book-list {
@@ -65,26 +81,52 @@ blockquote {
     padding: 0;
 
     @media screen and (min-width: 640px) {
-        grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(33ch, 1fr));
     }
 }
 
 .book {
-    @include shadow(1);
+    background: white;
+    border-radius: 3px;
+    box-shadow:
+        0 1px 3px rgba(0, 0, 0, 0.12),
+        0 1px 2px rgba(0, 0, 0, 0.24);
     margin: 0;
-    padding: 1em;
+    padding: 1em 1em 0.5em;
+    position: relative;
 
-    * {
-        margin: 0;
+    > :first-child {
+        margin-top: 0;
+    }
 
-        + * {
-            margin-top: 0.66em;
-        }
+    > :last-child {
+        margin-bottom: 0;
+    }
+
+    &::before {
+        background: #fafafa;
+        border-bottom-left-radius: 4px;
+        border-top-right-radius: 4px;
+        content: "";
+        display: block;
+        height: 5.25rem;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 4.5rem;
     }
 }
 
+.book--headline {
+    color: #333333;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 0.33em;
+    margin-right: 4rem;
+}
+
 .book--series {
-    font-weight: normal;
+    font-weight: 300;
     opacity: 0.5;
 
     &::before {
@@ -100,6 +142,57 @@ blockquote {
     }
 }
 
+.book--author {
+    line-height: 1.2;
+    margin-right: 4rem;
+    opacity: 0.7;
+
+    &::before {
+        content: attr(data-prefix);
+    }
+}
+
+.book--rating {
+    font-size: 2em;
+    font-weight: 200;
+    line-height: 1;
+    opacity: 0.5;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 1rem;
+    width: 4.5rem;
+}
+
+.book--length {
+    line-height: 1;
+    opacity: 0.5;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 3.5rem;
+    width: 4.5rem;
+
+    &::after {
+        content: attr(data-suffix);
+    }
+}
+
+.book--snippet {
+    @include wrap_long_words();
+}
+
+.book--recommendation {
+    background: #f3f3f3;
+    margin: 0 -0.5em;
+    opacity: 0.7;
+    padding: 0.4em 0.75em;
+
+    &:empty {
+        display: none;
+    }
+}
+
 .book--source {
 
     &::before {
@@ -107,7 +200,7 @@ blockquote {
     }
 
     &::after {
-        content: ".";
+        content: attr(data-suffix);
     }
 
     &:empty {
@@ -116,15 +209,8 @@ blockquote {
 }
 
 .book--note {
+    @include wrap_long_words();
     font-style: italic;
-
-    &:empty {
-        display: none;
-    }
-}
-
-.book--recommendation {
-    opacity: 0.66;
 
     &:empty {
         display: none;

@@ -1,4 +1,4 @@
-/* global firstBy */
+/* global firstBy, widont */
 /* eslint-env browser */
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
@@ -37,6 +37,16 @@ const sortByKeys = function sortByKeys(array, key1, key1Sort, key2, key2Sort) {
   return array.sort(s);
 };
 
+const reverseName = function reverseName(name) {
+  const fullName = name.split(', ');
+  const lastName = fullName[0];
+  const firstName = fullName[fullName.length - 1];
+  if (fullName.length === 1) {
+    return name;
+  }
+  return `${firstName} ${lastName}`;
+};
+
 //
 // Convert book array into HTML
 //
@@ -49,11 +59,14 @@ const buildHTML = function buildHTML(bookArray) {
 
       t.querySelector('.book').id = bookArray[i].isbn;
       t.querySelector('.book--title').innerHTML = widont(bookArray[i].title);
-      t.querySelector('.book--author').innerHTML = bookArray[i].author;
+      t.querySelector('.book--author').innerHTML = reverseName(bookArray[i].author);
       t.querySelector('.book--rating').innerHTML = bookArray[i].rating;
       t.querySelector('.book--length').innerHTML = bookArray[i].length;
       if (bookArray[i].series) {
         t.querySelector('.book--series').innerHTML = widont(bookArray[i].series);
+      }
+      if (bookArray[i].textSnippet) {
+        t.querySelector('.book--snippet').innerHTML = bookArray[i].textSnippet;
       }
       if (bookArray[i].source) {
         t.querySelector('.book--source').innerHTML = bookArray[i].source;
@@ -61,8 +74,11 @@ const buildHTML = function buildHTML(bookArray) {
       if (bookArray[i].note) {
         t.querySelector('.book--note').innerHTML = bookArray[i].note;
       }
-      if (bookArray[i].textSnippet) {
-        t.querySelector('.book--snippet').innerHTML = bookArray[i].textSnippet;
+      if (bookArray[i].source && bookArray[i].note) {
+        t.querySelector('.book--source').setAttribute('data-suffix', ':');
+      }
+      if (!bookArray[i].source && !bookArray[i].note) {
+        t.querySelector('.book--recommendation').style.display = 'none';
       }
 
       booklistContent.appendChild(t);

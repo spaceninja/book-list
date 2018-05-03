@@ -1,83 +1,86 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Book List</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/main.css">
-<script defer src="js/thenBy.min.js"></script>
-<script defer src="js/widont.min.js"></script>
-<script defer src="js/listbooks.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Reading List</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+    <script defer src="js/thenBy.min.js"></script>
+    <script defer src="js/widont.min.js"></script>
+    <script defer src="js/listbooks.min.js"></script>
 </head>
 <body>
-<h1>Book List</h1>
 
-<select id="booklist-sort">
-    <option
-        value="title"
-        data-sort-order="ascending"
-        data-sort-secondary="author"
-        data-sort-secondary-order="ascending">
-        Title
-    </option>
-    <option
-        value="series"
-        data-sort-order="ascending"
-        data-sort-secondary="title"
-        data-sort-secondary-order="ascending">
-        Series
-    </option>
-    <option
-        value="author"
-        data-sort-order="ascending"
-        data-sort-secondary="title"
-        data-sort-secondary-order="ascending">
-        Author
-    </option>
-    <option
-        selected
-        value="rating"
-        data-sort-order="descending"
-        data-sort-secondary="length"
-        data-sort-secondary-order="ascending">
-        Rating
-    </option>
-    <option
-        value="length"
-        data-sort-order="ascending"
-        data-sort-secondary="rating"
-        data-sort-secondary-order="descending">
-        Pages
-    </option>
-</select>
+    <header>
+        <h1>Reading List</h1>
+        <div class="sort-by">
+            <label>Sort by</label>
+            <select id="booklist-sort">
+                <option
+                    value="title"
+                    data-sort-order="ascending"
+                    data-sort-secondary="author"
+                    data-sort-secondary-order="ascending">
+                    Title
+                </option>
+                <option
+                    value="series"
+                    data-sort-order="ascending"
+                    data-sort-secondary="title"
+                    data-sort-secondary-order="ascending">
+                    Series
+                </option>
+                <option
+                    value="author"
+                    data-sort-order="ascending"
+                    data-sort-secondary="title"
+                    data-sort-secondary-order="ascending">
+                    Author
+                </option>
+                <option
+                    selected
+                    value="rating"
+                    data-sort-order="descending"
+                    data-sort-secondary="length"
+                    data-sort-secondary-order="ascending">
+                    Rating
+                </option>
+                <option
+                    value="length"
+                    data-sort-order="ascending"
+                    data-sort-secondary="rating"
+                    data-sort-secondary-order="descending">
+                    Pages
+                </option>
+            </select>
+        </div>
+    </header>
 
-<ul class="book-list" id="booklist-content">
-    <li>loading…</li>
-</ul>
+    <ul class="book-list" id="booklist-content">
+        <li>loading…</li>
+    </ul>
 
-<div id="booklist-error"></div>
+    <div id="booklist-error"></div>
 
-<template id="book-template">
-    <li class="book">
-        <h2>
-            <span class="book--title"></span>
-            <span class="book--series"></span>
-        </h2>
-        <p>by <span class="book--author"></span></p>
-        <p>
-            <span class="book--rating num"></span>,
-            <span class="book--length num"></span>pp
-        </p>
-        <blockquote>
-            <p class="book--snippet"></p>
-        </blockquote>
-        <p class="book--recommendation">
-            <span class="book--source" data-prefix="Recommended by "></span>
-            <q class="book--note"></q>
-        </p>
-    </li>
-</template>
+    <template id="book-template">
+        <li class="book">
+            <h2 class="book--headline">
+                <span class="book--title"></span>
+                <span class="book--series"></span>
+            </h2>
+            <p class="book--author" data-prefix="by "></p>
+            <p class="book--rating num"></p>
+            <p class="book--length num"  data-suffix="p"></p>
+            <blockquote>
+                <p class="book--snippet"></p>
+            </blockquote>
+            <p class="book--recommendation">
+                <span class="book--source" data-prefix="Recommended by "></span>
+                <q class="book--note"></q>
+            </p>
+        </li>
+    </template>
 
 </body>
 </html>
