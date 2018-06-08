@@ -1,13 +1,189 @@
 [
     {
-        "title": "All the Birds in the Sky",
-        "author": "Anders, Charlie Jane",
-        "isbn": "0765379945",
-        "note": "Nebula winner for best novel",
+        "title": "A Conspiracy of Truths",
+        "author": "Rowland, Alexandra",
+        "isbn": "1534412808",
+        "rating": 0,
+        "length": 432,
+        "release": "2018-10-23",
+        "note": "a fantasy of fake news, a wandering storyteller is arrested on charges of not only witchcraft, but a spy. His only chance to save himself—tell a good story, catch and hold their attention, or die.",
+        "textSnippet": "And yet, he has one great power: his stories in the ears of the rulers determined to prosecute him for betraying a nation he knows next to nothing about. The tales he tells will topple the Queens of Nuryevet and just maybe, save his life."
+    },
+    {
+        "title": "The Price You Pay",
+        "author": "Truhen, Aidan",
+        "isbn": "1524733377",
+        "rating": 0,
+        "length": 288,
+        "release": "2018-07-10",
+        "source": "Warren Ellis",
+        "note": "This book is fucking insane.",
+        "textSnippet": "In this audacious, lightning-paced thriller, a smart-mouthed, white-collar drug dealer--a hilariously irreverent antihero--seeks revenge when an unknown enemy takes out a contract on him."
+    },
+    {
+        "title": "Buying Time",
+        "author": "Brown, E.M.",
+        "isbn": "1781085080",
+        "rating": 3.76,
+        "length": 320,
+        "release": "2018-05-18",
         "source": "io9",
-        "rating": 3.57,
+        "note": "A man wakes up and realizes it’s nine months earlier than it was the day before. The trend continues the next day, when he wakes up three years earlier, and on and on until he eventually seems to completely disappear. Where (or when) did he go?",
+        "textSnippet": "She interviews friends, acquaintances, and old lovers – and what she discovers will change not only Ed Richie’s life, but her own… Buying Time is a time-travel novel like no other."
+    },
+    {
+        "title": "The Smoke",
+        "author": "Ings, Simon",
+        "isbn": "057512010X",
+        "rating": 3.85,
+        "length": 300,
+        "release": "2018-05-17",
+        "source": "Warren Ellis",
+        "note": "A world in which World War 2 didn't happen, Gurwitsch's theories are carried by the Jewish Bund to a Russian homeland and developed to the point where the people of the Bund speciate.",
+        "textSnippet": "Simon Ings&#39; The Smoke is about love, loss and loneliness in an incomprehensible world."
+    },
+    {
+        "title": "Artificial Condition",
+        "author": "Wells, Martha",
+        "isbn": "0765397552",
+        "rating": 4.44,
+        "length": 159,
+        "release": "2018-05-08",
+        "series": "Murderbot Diaries #2",
+        "textSnippet": "The follow-up to the hugely popular All Systems Red It has a dark past – one in which a number of humans were killed."
+    },
+    {
+        "title": "Medusa Uploaded",
+        "author": "Devenport, Emily",
+        "isbn": "1250169321",
+        "rating": 4.09,
         "length": 317,
-        "textSnippet": "Childhood friends Patricia Delfine, a witch, and Laurence Armstead, a mad scientist, parted ways under mysterious circumstances during middle school."
+        "release": "2018-05-01",
+        "series": "Medusa Cycle #1",
+        "source": "io9",
+        "note": "After she’s shoved out of an airlock and miraculously survives, a rebellious “worm” takes advantage of being presumed dead to prowl the generation starship she’s on, assassinating the powerful to try and even the stakes for everyone else.",
+        "textSnippet": "Medusa Uploaded by Emily Devenport offers readers a fast-paced science fiction thriller on the limits of power and control, and the knife-edge between killing for revenge or a greater good."
+    },
+    {
+        "title": "Black Helicopters",
+        "author": "Kiernan, Caitlin R.",
+        "isbn": "1250191130",
+        "rating": 3.49,
+        "length": 208,
+        "release": "2018-05-01",
+        "source": "io9",
+        "note": "Expanded version of the author’s World Fantasy Award-nominated Lovecraftian novella. It’s about a secret agent tasked with investigating strange happenings around New England that seem to be foreshadowing a horrific, chaotic invisible war.",
+        "textSnippet": "A dark jewel of a novella, this definitive edition of Caitlín R. Kiernan’s Black Helicopters is the expanded and completed version of the World Fantasy Award-nominated original."
+    },
+    {
+        "title": "From Unseen Fire",
+        "author": "Morris, Cass",
+        "isbn": "0756412242",
+        "rating": 4.09,
+        "length": 400,
+        "release": "2018-04-17",
+        "series": "Aven Cycle #1",
+        "source": "io9",
+        "note": "This historical fantasy debut is set in an alternate version of ancient Rome, as a talented young mage strives to protect her people in a society filled with dangerous secrets and sinister sorcery",
+        "textSnippet": "From Unseen Fire is the first novel in the Aven Cycle, a historical fantasy set in an alternate Rome, by debut author Cass Morris The Dictator is dead; long live the Republic."
+    },
+    {
+        "title": "Blackfish City",
+        "author": "Miller, Sam J.",
+        "isbn": "0062684841",
+        "rating": 3.65,
+        "length": 336,
+        "release": "2018-04-17",
+        "source": "io9",
+        "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale.",
+        "textSnippet": "Blackfish City is a remarkably urgent—and ultimately very hopeful—novel about political corruption, organized crime, technology run amok, the consequences of climate change, gender identity, and the unifying power of human connection."
+    },
+    {
+        "title": "Before Mars",
+        "author": "Newman, Emma",
+        "isbn": "147322389X",
+        "rating": 4.15,
+        "length": 320,
+        "release": "2018-04-17",
+        "source": "io9",
+        "note": "A woman undergoes a long, grueling journey to her new job on Mars, only to have an eerie sense of déjà vu once she arrives.",
+        "series": "Planetfall #3",
+        "textSnippet": "After months of travel, Anna Kubrin finally arrives on Mars for her new job as a geologist and de facto artist-in-residence."
+    },
+    {
+        "title": "Imposter Syndrome",
+        "author": "Baker, Mishell",
+        "isbn": "1481451952",
+        "rating": 4.08,
+        "length": 480,
+        "release": "2018-03-13",
+        "series": "Arcadia Project #3",
+        "textSnippet": "In the third book of the Nebula Award–nominated Arcadia Project series, which New York Times bestselling author Seanan McGuire called “exciting, inventive, and brilliantly plotted,” Millie Roper has to pull off two impossible ..."
+    },
+    {
+        "title": "The Armored Saint",
+        "author": "Cole, Myke",
+        "isbn": "0765395959",
+        "rating": 3.75,
+        "length": 206,
+        "release": "2018-02-20",
+        "source": "io9",
+        "note": "Like everyone in her village, young Heloise fears devils, agents of destruction summoned by the blink of a wizard’s eye. But in truth, she’s actually more scared of the Order—the vicious sect that wanders the country slaughtering anyone who even breathes the word “wizard” or “devil.”",
+        "textSnippet": "Myke Cole, author of the beloved military fantasy Shadow Ops series, debuts a new epic fantasy trilogy with The Armored Saint, a tale of religious tyrants, arcane war-machines, and underground resistance that will enthrall epic fantasy ..."
+    },
+    {
+        "title": "Embers of War",
+        "author": "Powell, Gareth L.",
+        "isbn": "1785655183",
+        "rating": 4.09,
+        "length": 411,
+        "release": "2018-02-20",
+        "source": "io9",
+        "note": "a sentient warship that tries to atone for participating in a genocide by becoming a rescue vessel",
+        "series": "Embers of War #1",
+        "textSnippet": "From BSFA Award winning author Gareth L. Powell comes the first in a new epic sci-fi trilogy exploring the legacies of war The sentient warship Trouble Dog was built for violence, yet following a brutal war, she is disgusted by her role in ..."
+    },
+    {
+        "title": "One Way",
+        "author": "Morden, S.J.",
+        "isbn": "1473222567",
+        "rating": 3.64,
+        "length": 358,
+        "release": "2018-02-15",
+        "source": "io9",
+        "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?",
+        "textSnippet": "A murder mystery set on the frozen red wastes of Mars."
+    },
+    {
+        "title": "Gunpowder Moon",
+        "author": "Pedreira, David",
+        "isbn": "0062676083",
+        "rating": 3.67,
+        "length": 289,
+        "release": "2018-02-13",
+        "source": "io9",
+        "note": "Life on the Moon, circa 2072, is already complicated even before the first lunar murder is committed.",
+        "textSnippet": "Interesting quirks and divided loyalties flesh out this first novel in which sf and mystery intersect in a well-crafted plot."
+    },
+    {
+        "title": "The Book of Phoenix",
+        "author": "Okorafor, Nnedi",
+        "isbn": "0756410193",
+        "rating": 3.89,
+        "length": 232,
+        "series": "Who Fears Death #0.1",
+        "textSnippet": "A fiery spirit dances from the pages of the Great Book. She brings the aroma of scorched sand and ozone. She has a story to tell…. The Book of Phoenix is a unique work of magical futurism."
+    },
+    {
+        "title": "Kushiel's Dart",
+        "author": "Carey, Jacqueline",
+        "isbn": "0330493744",
+        "rating": 4.04,
+        "length": 934,
+        "series": "Phèdre's Trilogy #1",
+        "source": "twitter",
+        "note": "An all time fave of mine: Spies; Court Intrigue; Sacred sex work; Queerness; BDSM; Purple prose; An utterly unforgettable f/f D/s scene",
+        "textSnippet": "Sold into servitude in the Night Court as a child, Phedre no Delaunay is a woman who struggles for honour and duty, whose loyalty to the land she loves will take her to the edge of despair, and beyond."
     },
     {
         "title": "Sleeping Giants",
@@ -67,23 +243,6 @@
         "length": 448,
         "note": "From the author of Ancillary Mercy",
         "textSnippet": "Following her record-breaking debut trilogy, Ann Leckie, winner of the Hugo, Nebula, Arthur C. Clarke and Locus Awards, returns with an enthralling new novel of power, theft, privilege and birthright."
-    },
-    {
-        "title": "Gods, Monsters, and the Lucky Peach",
-        "author": "Robson, Kelly",
-        "isbn": "1250163846",
-        "rating": 3.86,
-        "length": 176,
-        "textSnippet": "From Kelly Robson, Aurora Award winner, Campbell, Nebula, and Theodore Sturgeon finalist, and author of Waters of Versailles Discover a shifting history of adventure as humanity clashes over whether to repair their ruined planet or ..."
-    },
-    {
-        "title": "Binti: The Night Masquerade",
-        "author": "Okorafor, Nnedi",
-        "isbn": "0765393131",
-        "rating": 4.22,
-        "length": 205,
-        "series": "Binti #3",
-        "textSnippet": "Don&#39;t miss this essential concluding volume in the Binti trilogy. The Binti Series Book 1: Binti Book 2: Binti: Home Book 3: Binti: The Night Masquerade"
     },
     {
         "title": "Trigger Warnings",
@@ -205,8 +364,8 @@
         "isbn": "0765336405",
         "rating": 4.14,
         "length": 593,
-        "source": "Verge",
-        "note": "In 2014, Brian Staveley burst onto the scene with The Emperor’​s Blades, an excellent start to a fantasy epic. io9: modern epic fantasy mixed in with a nice dose of Lovecraftian weirdness https://goo.gl​/3NbQD3",
+        "source": "Verge and io9",
+        "note": "An excellent start to a fantasy epic. Modern epic fantasy mixed in with a nice dose of Lovecraftian weirdness",
         "series": "Chronicle of the Unhewn Throne #1",
         "textSnippet": "The children of an assassinated emperor try to stay alive and avenge their father&#39;s death while continuing down their individual life-paths, one in a monastery, another training with elite soldiers, and one appointed a minister determined ..."
     },
@@ -352,8 +511,8 @@
         "isbn": "1785151274",
         "rating": 3.95,
         "length": 560,
-        "source": "Warren Ellis",
-        "note": "'You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.' — Warren Ellis, also by http://aworkinglibrary.com/reading/gnomon/",
+        "source": "A Working Library and Warren Ellis",
+        "note": "You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.",
         "textSnippet": "It is a magnificent achievement ... He&#39;s never written a bad book, but this is the one that&#39;ll see him mentioned in the same breath as William Gibson and David Mitchell ... This book seriously just destroyed me with joy."
     },
     {
@@ -434,15 +593,6 @@
         "rating": 4.10,
         "length": 194,
         "textSnippet": "Through his dreams, George Orr can make alternate realities real"
-    },
-    {
-        "title": "Artificial Condition",
-        "author": "Wells, Martha",
-        "isbn": "0765397552",
-        "rating": 4.44,
-        "length": 159,
-        "series": "Murderbot Diaries #2",
-        "textSnippet": "The follow-up to the hugely popular All Systems Red It has a dark past – one in which a number of humans were killed."
     },
     {
         "title": "Constitution",
@@ -533,36 +683,6 @@
         "textSnippet": "Through the eyes of the varied inhabitants of one building, Kim Stanley Robinson shows us how one of our great cities will change with the rising tides."
     },
     {
-        "title": "From Unseen Fire",
-        "author": "Morris, Cass",
-        "isbn": "0756412242",
-        "rating": 4.33,
-        "length": 400,
-        "source": "io9",
-        "note": "This historical fantasy debut is set in an alternate version of ancient Rome, as a talented young mage strives to protect her people in a society filled with dangerous secrets and sinister sorcery",
-        "textSnippet": "From Unseen Fire is the first novel in the Aven Cycle, a historical fantasy set in an alternate Rome, by debut author Cass Morris The Dictator is dead; long live the Republic."
-    },
-    {
-        "title": "Blackfish City",
-        "author": "Miller, Sam J.",
-        "isbn": "0062684841",
-        "rating": 3.62,
-        "length": 336,
-        "source": "io9",
-        "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale.",
-        "textSnippet": "Blackfish City is a remarkably urgent—and ultimately very hopeful—novel about political corruption, organized crime, technology run amok, the consequences of climate change, gender identity, and the unifying power of human connection."
-    },
-    {
-        "title": "One Way",
-        "author": "Morden, S.J.",
-        "isbn": "1473222567",
-        "rating": 3.67,
-        "length": 358,
-        "source": "io9",
-        "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?",
-        "textSnippet": "A murder mystery set on the frozen red wastes of Mars."
-    },
-    {
         "title": "Nightwise",
         "author": "Belcher, R.S.",
         "isbn": "0765374609",
@@ -582,15 +702,6 @@
         "textSnippet": "Remembering two different pasts that reflect contrasting historical events and relationships with different people, an elderly Patricia Cowan wonders about her identity while gazing at a moon that might house benign or malicious ..."
     },
     {
-        "title": "Imposter Syndrome",
-        "author": "Baker, Mishell",
-        "isbn": "1481451952",
-        "rating": 4.12,
-        "length": 480,
-        "series": "Arcadia Project #3",
-        "textSnippet": "In the third book of the Nebula Award–nominated Arcadia Project series, which New York Times bestselling author Seanan McGuire called “exciting, inventive, and brilliantly plotted,” Millie Roper has to pull off two impossible ..."
-    },
-    {
         "title": "The Book of Joan",
         "author": "Yuknavitch, Lidia",
         "isbn": "0062383272",
@@ -601,23 +712,13 @@
         "textSnippet": "The Book of Joan is an explosive work of fiction that considers what it means to be human, the fluidity of sex and gender, and the urgency of art as a means for survival."
     },
     {
-        "title": "The Smoke",
-        "author": "Ings, Simon",
-        "isbn": "057512010X",
-        "rating": 3.85,
-        "length": 300,
-        "source": "Warren Ellis",
-        "note": "A world in which World War 2 didn't happen, Gurwitsch's theories are carried by the Jewish Bund to a Russian homeland and developed to the point where the people of the Bund speciate.",
-        "textSnippet": "Simon Ings&#39; The Smoke is about love, loss and loneliness in an incomprehensible world."
-    },
-    {
         "title": "After Atlas",
         "author": "Newman, Emma",
         "isbn": "0425282406",
         "rating": 4.17,
         "length": 369,
         "source": "io9",
-        "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
+        "note": "A geologist whose art has captured the imagination of a space-obsessed multibillionaire accepts a new a gig on Mars, partially as a way to escape the postpartum depression that’s been plaguing her back on Earth. But as soon as she arrives, she makes a shocking discovery—and suddenly she’s surrounded by strangers she can’t trust in a space colony that’s millions and millions of miles away from home.",
         "series": "Planetfall #2",
         "textSnippet": "Clarke Award Shortlist Acclaimed author Emma Newman returns to the captivating universe she created in Planetfall with a stunning science fiction mystery where one man&#39;s murder is much more than it seems."
     },
@@ -628,20 +729,8 @@
         "rating": 3.69,
         "length": 336,
         "source": "io9",
-        "note": "https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
         "series": "Planetfall #1",
         "textSnippet": "From the Hugo Award-winning author of Between Two Thorns comes the first novel in a captivating science fiction series where a secret withheld to protect humanity&#39;s future may lead to its undoing."
-    },
-    {
-        "title": "Before Mars",
-        "author": "Newman, Emma",
-        "isbn": "147322389X",
-        "rating": 3.96,
-        "length": 320,
-        "source": "io9",
-        "note": "A woman undergoes a long, grueling journey to her new job on Mars, only to have an eerie sense of déjà vu once she arrives. https://io9.gizmodo.com/a-space-traveler-uncovers-an-impossible-mystery-in-the-1823250042",
-        "series": "Planetfall #3",
-        "textSnippet": "After months of travel, Anna Kubrin finally arrives on Mars for her new job as a geologist and de facto artist-in-residence."
     },
     {
         "title": "Authority",
@@ -662,34 +751,13 @@
         "textSnippet": "In the cold winter of Area X, a new team embarks across the border on a mission to find a member of a previous expedition; and as they press deeper into the unknown the threat to the outside world becomes even more daunting."
     },
     {
-        "title": "Embers of War",
-        "author": "Powell, Gareth L.",
-        "isbn": "1785655183",
-        "rating": 4.16,
-        "length": 411,
-        "source": "io9",
-        "note": "a sentient warship that tries to atone for participating in a genocide by becoming a rescue vessel",
-        "series": "Embers of War #1",
-        "textSnippet": "From BSFA Award winning author Gareth L. Powell comes the first in a new epic sci-fi trilogy exploring the legacies of war The sentient warship Trouble Dog was built for violence, yet following a brutal war, she is disgusted by her role in ..."
-    },
-    {
-        "title": "Gunpowder Moon",
-        "author": "Pedreira, David",
-        "isbn": "0062676083",
-        "rating": 3.77,
-        "length": 289,
-        "source": "io9",
-        "note": "Life on the Moon, circa 2072, is already complicated even before the first lunar murder is committed.",
-        "textSnippet": "“Interesting quirks and divided loyalties flesh out this first novel in which sf and mystery intersect in a well-crafted plot."
-    },
-    {
         "title": "Accelerando",
         "author": "Stross, Charles",
         "isbn": "1841493899",
         "rating": 3.88,
         "length": 415,
         "source": "Warren Ellis",
-        "note": "http://www.warrenellis.com/?p=13972",
+        "note": "I re-read Charles Stross’ ACCELERANDO at least once a year.  More often, I’ll return to just the first three chapters once every few months.  ACCELERANDO is a sprawling (yet massively condensed and concentrated) piece of radical hard sf about the deep computational future.  It’s also about Manfred Macx, “venture altruist,” staying ahead of the memetic curve with an exotic set of information-processing hardware.",
         "textSnippet": "His most ambitious novel to date, ACCELERANDO is a multi-generational saga following a brilliant clan of 21st-century posthumans."
     },
     {
@@ -702,16 +770,6 @@
         "note": "a married couple who commission a highly immersive simulation of what modern South America would be like if Europe had never discovered it, basically South American Wakanda",
         "series": "Otherland #1",
         "textSnippet": "In the near future, a global conspiracy threatens to sacrifice the future of humanity for the promise of a utopia based on virtual reality, in a critically praised novel by the best-selling author of Tailchaser&#39;s Song."
-    },
-    {
-        "title": "The Armored Saint",
-        "author": "Cole, Myke",
-        "isbn": "0765395959",
-        "rating": 3.78,
-        "length": 206,
-        "source": "io9",
-        "note": "A Girl Dares to Question Wizard-Hating Zealots https://io9.gizmodo.com/a-girl-dares-to-question-wizard-hating-zealots-in-the-f-1821964133",
-        "textSnippet": "Myke Cole, author of the beloved military fantasy Shadow Ops series, debuts a new epic fantasy trilogy with The Armored Saint, a tale of religious tyrants, arcane war-machines, and underground resistance that will enthrall epic fantasy ..."
     },
     {
         "title": "My Father, the Pornographer: A Memoir",
@@ -738,6 +796,7 @@
         "isbn": "1781085684",
         "rating": 3.83,
         "length": 200,
+        "release": "2017-11-07",
         "source": "io9",
         "textSnippet": "Scions have no limits Scions do not die And Scions do not disappear Sergeant Ted Regan has a problem."
     },
@@ -808,6 +867,7 @@
         "isbn": "1597809179",
         "rating": 4.17,
         "length": 344,
+        "release": "2017-10-03",
         "source": "io9",
         "series": "Enchanter General #1",
         "textSnippet": "A lowly enchanter finds himself entangled in a plot to assassinate the king in a new historical fantasy series set in twelfth century England."
@@ -876,8 +936,8 @@
         "isbn": "0399158448",
         "rating": 3.94,
         "length": 485,
-        "source": "Mandy Brown",
-        "note": "a curious kind of time travel in which information—but not atoms—flows between a near future and one further away http://aworkinglibrary.com/reading/peripheral/",
+        "source": "A Working Library",
+        "note": "A curious kind of time travel in which information—but not atoms—flows between a near future and one further away.",
         "textSnippet": "Depending on her veteran brother&#39;s benefits in a city where jobs outside the drug trade are rare, Flynne assists her brother&#39;s latest beta-test tech assignment only to uncover an elaborate murder scheme."
     },
     {
@@ -975,7 +1035,7 @@
         "isbn": "0349102155",
         "rating": 3.84,
         "length": 288,
-        "note": "secret culture novel https://www.theguardian.com/books/2014/sep/23/iain-banks-the-bridge-link-mainstream-literature-science-fiction",
+        "note": "The Bridge has been described as a ‘secret Culture novel’, a mystical key to Banks’s literary universe. It blurred the boundaries between genres – and revealed his sense of fun and games",
         "textSnippet": "The man who wakes up in the extraordinary world of a bridge has amnesia, and his doctor doesn&#39;t seem to want to cure him. Does it matter? Exploring the bridge occupies most of his days. But at night there are his dreams."
     },
     {
@@ -1005,7 +1065,7 @@
         "rating": 3.80,
         "length": 384,
         "source": "io9",
-        "textSnippet": "--USA Today Elan Mastai&#39;s acclaimed debut novel is a story of friendship and family, of unexpected journeys and alternate paths, and of love in its multitude of forms."
+        "textSnippet": "Elan Mastai&#39;s acclaimed debut novel is a story of friendship and family, of unexpected journeys and alternate paths, and of love in its multitude of forms."
     },
     {
         "title": "The Stars Are Legion",
@@ -1042,7 +1102,7 @@
         "rating": 3.74,
         "length": 623,
         "source": "Verge & io9",
-        "note": "an ambitious, astonishing, and sublime work, one that both exemplifies and diverges from what one might think of when it comes to epic fantasy. It should rank amongst the genre's best works. https://goo.gl/7xgcr8",
+        "note": "an ambitious, astonishing, and sublime work, one that both exemplifies and diverges from what one might think of when it comes to epic fantasy. It should rank amongst the genre's best works.",
         "series": "Dandelion Dynasty #1",
         "textSnippet": "Becoming the best of friends after a series of adventures fighting against vast conscripted armies, a bandit and a duke&#39;s son become the rival leaders of separate factions with very different ideas about justice and politics."
     },
@@ -1140,7 +1200,7 @@
         "rating": 3.85,
         "length": 404,
         "source": "io9",
-        "note": "an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power. https://io9.gizmodo.com/5366356/with-transition-iain-m-banks-reinvents-the-multiverse-novel",
+        "note": "Iain M. Banks' latest novel Transition, in bookstores this week, will jelly your brains in brilliant weirdness. Banks turns political world-building on its head in this exciting tale of an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power.",
         "textSnippet": "There is a world that hangs suspended between triumph and catastrophe, between the dismantling of the Wall and the fall of the Twin Towers, frozen in the shadow of suicide terrorism and global financial collapse."
     },
     {
@@ -1160,7 +1220,7 @@
         "length": 336,
         "source": "Warren Ellis",
         "series": "Jean le Flambeur #1",
-        "textSnippet": ". . The Quantum Thief is a dazzling hard SF novel set in the solar system of the far future - a heist novel peopled by bizarre post-humans but powered by very human motives of betrayal, revenge and jealousy. It is a stunning debut."
+        "textSnippet": "The Quantum Thief is a dazzling hard SF novel set in the solar system of the far future - a heist novel peopled by bizarre post-humans but powered by very human motives of betrayal, revenge and jealousy. It is a stunning debut."
     },
     {
         "title": "Babylon's Ashes",
