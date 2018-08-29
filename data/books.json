@@ -12,6 +12,29 @@
         "textSnippet": "An epic science fantasy that blends necromantic theory and thrilling swordplay with a wicked, sacrilegious sense of humor; a modern mix of Dune, Riddick, and Gormenghast."
     },
     {
+        "title": "Static Ruin",
+        "author": "White, Corey J",
+        "isbn": "1250195535",
+        "rating": 0,
+        "length": 224,
+        "release": "2018-11-06",
+        "series": "Voidwitch Saga #3",
+        "source": "io9",
+        "note": "Mars Xi is on the run with a hefty price on her head—and her mutant pet cat and a fellow human weapon, a young boy who can’t control his deadly powers, in tow. Can her father, living somewhere on the edge of the galaxy, help make things right?",
+        "textSnippet": "Corey J. White concludes his pulse-pounding space opera in Static Ruin."
+    },
+    {
+        "title": "Thin Air",
+        "author": "Morgan, Richard K",
+        "isbn": "0575075147",
+        "rating": 0,
+        "length": 400,
+        "release": "2018-10-25",
+        "source": "io9",
+        "note": "…on Mars, a planet that’s become overrun with crime and corruption. Professional killer Hakan Veil is more than ready to retire home to Earth—but he’ll need to puzzle his way out of an extremely dangerous mystery first.",
+        "textSnippet": "Richard Morgan has always been one of our most successful SF authors with his fast-moving and brutal storylines, blistering plots and a powerful social conscience behind his work."
+    },
+    {
         "title": "A Conspiracy of Truths",
         "author": "Rowland, Alexandra",
         "isbn": "1534412808",
@@ -22,10 +45,75 @@
         "textSnippet": "And yet, he has one great power: his stories in the ears of the rulers determined to prosecute him for betraying a nation he knows next to nothing about. The tales he tells will topple the Queens of Nuryevet and just maybe, save his life."
     },
     {
+        "title": "Exit Strategy",
+        "author": "Wells, Martha",
+        "isbn": "1250191858",
+        "rating": 0,
+        "length": 176,
+        "release": "2018-10-02",
+        "series": "Murderbot Diaries #4",
+        "textSnippet": "The fourth and final part of the Murderbot Diaries series that began with All Systems Red."
+    },
+    {
+        "title": "Time's Convert",
+        "author": "Harkness, Deborah",
+        "isbn": "0399564519",
+        "rating": 0,
+        "length": 400,
+        "release": "2018-09-18",
+        "series": "All Souls Universe #1",
+        "source": "io9",
+        "note": "A revolutionary war surgeon chooses to become a vampire—and hundreds of years later, meets a young woman in Paris who makes the same choice. They both end up underestimating the challenges that come with being immortal.",
+        "textSnippet": "A passionate love story and a fascinating exploration of the power of tradition and the possibilities for change, Time&#39;s Convert will delight fans of the All Souls trilogy and all readers of magic, the supernatural, and romance."
+    },
+    {
+        "title": "Through Darkest Europe",
+        "author": "Turtledove, Harry",
+        "isbn": "0765379988",
+        "rating": 0,
+        "length": 320,
+        "release": "2018-09-18",
+        "source": "io9",
+        "note": "Alt-history book imagines that the Middle East and North Africa have long been the stable, thriving center of the world’s economy and culture, as unrest and fundamentalist violence causes ongoing turmoil in Europe.",
+        "textSnippet": "From the modern master of alternate history and New York Times bestselling author Harry Turtledove, Through Darkest Europe envisions a world dominated by a prosperous and democratic Middle East—and under threat from the world&#39;s worst…"
+    },
+    {
+        "title": "Stars Uncharted",
+        "author": "Dunstall, S.K.",
+        "isbn": "0399587624",
+        "rating": 4.04,
+        "length": 416,
+        "release": "2018-08-14",
+        "source": "io9",
+        "note": "When a very fortunate cargo pilot discovers an exploration ship filled with sophisticated records of previously unknown worlds, he gathers a ragtag crew for some deep-space treasure hunting.",
+        "textSnippet": "In this rip-roaring space opera, a ragtag band of explorers are out to make the biggest score in the galaxy."
+    },
+    {
+        "title": "Relic",
+        "author": "Foster, Alan Dean",
+        "isbn": "1101967633",
+        "rating": 4.06,
+        "length": 320,
+        "release": "2018-08-14",
+        "source": "io9",
+        "note": "After a virus decimates humanity, the last known man is rescued by an alien race. In exchange for his help as a research subject, the aliens agree to help him find the long-lost planet Earth—where he hopes against hope to find more survivors.",
+        "textSnippet": "The last known human searches the galaxy for companionship in a brilliant standalone novel from the legendary author of the Pip & Flinx series."
+    },
+    {
+        "title": "Rogue Protocol",
+        "author": "Wells, Martha",
+        "isbn": "1250191785",
+        "rating": 4.39,
+        "length": 158,
+        "release": "2018-08-07",
+        "series": "Murderbot Diaries #3",
+        "textSnippet": "Rogue Protocol is the third in the Murderbot Diaries series, starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity."
+    },
+    {
         "title": "The Price You Pay",
         "author": "Truhen, Aidan",
         "isbn": "1524733377",
-        "rating": 0,
+        "rating": 3.91,
         "length": 288,
         "release": "2018-07-10",
         "source": "Warren Ellis",
@@ -36,7 +124,7 @@
         "title": "Buying Time",
         "author": "Brown, E.M.",
         "isbn": "1781085080",
-        "rating": 3.76,
+        "rating": 3.79,
         "length": 320,
         "release": "2018-05-18",
         "source": "io9",
@@ -47,7 +135,7 @@
         "title": "The Smoke",
         "author": "Ings, Simon",
         "isbn": "057512010X",
-        "rating": 3.85,
+        "rating": 3.84,
         "length": 300,
         "release": "2018-05-17",
         "source": "Warren Ellis",
@@ -58,8 +146,9 @@
         "title": "Artificial Condition",
         "author": "Wells, Martha",
         "isbn": "0765397552",
-        "rating": 4.44,
+        "rating": 4.33,
         "length": 159,
+        "purchased": true,
         "release": "2018-05-08",
         "series": "Murderbot Diaries #2",
         "textSnippet": "The follow-up to the hugely popular All Systems Red It has a dark past – one in which a number of humans were killed."
@@ -68,7 +157,7 @@
         "title": "Medusa Uploaded",
         "author": "Devenport, Emily",
         "isbn": "1250169321",
-        "rating": 4.09,
+        "rating": 3.99,
         "length": 317,
         "release": "2018-05-01",
         "series": "Medusa Cycle #1",
@@ -80,7 +169,7 @@
         "title": "Black Helicopters",
         "author": "Kiernan, Caitlin R.",
         "isbn": "1250191130",
-        "rating": 3.49,
+        "rating": 3.46,
         "length": 208,
         "release": "2018-05-01",
         "source": "io9",
@@ -91,7 +180,7 @@
         "title": "From Unseen Fire",
         "author": "Morris, Cass",
         "isbn": "0756412242",
-        "rating": 4.09,
+        "rating": 3.93,
         "length": 400,
         "release": "2018-04-17",
         "series": "Aven Cycle #1",
@@ -103,9 +192,10 @@
         "title": "Blackfish City",
         "author": "Miller, Sam J.",
         "isbn": "0062684841",
-        "rating": 3.65,
+        "rating": 3.60,
         "length": 336,
         "release": "2018-04-17",
+        "purchased": true,
         "source": "io9",
         "note": "Climate change leads to the construction of a floating city in the Arctic Circle but it’s a new kind of Wild West with crime, poverty, corruption, and disease. Hope arrives when a stranger rides into town—not on a horse, but on a killer whale.",
         "textSnippet": "Blackfish City is a remarkably urgent—and ultimately very hopeful—novel about political corruption, organized crime, technology run amok, the consequences of climate change, gender identity, and the unifying power of human connection."
@@ -114,7 +204,7 @@
         "title": "Before Mars",
         "author": "Newman, Emma",
         "isbn": "147322389X",
-        "rating": 4.15,
+        "rating": 4.10,
         "length": 320,
         "release": "2018-04-17",
         "source": "io9",
@@ -126,7 +216,7 @@
         "title": "Imposter Syndrome",
         "author": "Baker, Mishell",
         "isbn": "1481451952",
-        "rating": 4.08,
+        "rating": 4.05,
         "length": 480,
         "release": "2018-03-13",
         "series": "Arcadia Project #3",
@@ -147,7 +237,7 @@
         "title": "Embers of War",
         "author": "Powell, Gareth L.",
         "isbn": "1785655183",
-        "rating": 4.09,
+        "rating": 4.05,
         "length": 411,
         "release": "2018-02-20",
         "source": "io9",
@@ -159,8 +249,9 @@
         "title": "One Way",
         "author": "Morden, S.J.",
         "isbn": "1473222567",
-        "rating": 3.64,
+        "rating": 3.63,
         "length": 358,
+        "purchased": true,
         "release": "2018-02-15",
         "source": "io9",
         "note": "A crew of workers—all ex-cons—constructing a new base on Mars start falling victim to deadly “accidents” that don’t quite add up. Can the remaining astronauts figure out who’s picking them off before they’re all laid to waste?",
@@ -170,7 +261,7 @@
         "title": "Gunpowder Moon",
         "author": "Pedreira, David",
         "isbn": "0062676083",
-        "rating": 3.67,
+        "rating": 3.64,
         "length": 289,
         "release": "2018-02-13",
         "source": "io9",
@@ -180,6 +271,7 @@
     {
         "title": "A Darker Shade of Magic",
         "author": "Schwab, V.E.",
+        "purchased": true,
         "isbn": "0765376458",
         "rating": 4.09,
         "length": 401,
@@ -190,8 +282,19 @@
         "textSnippet": "Serving as an ambassador of his own world while carrying messages to parallel-universe Londons with respective magical abilities and conflicts, Kell hides his secret smuggling activities only to be set up with a forbidden object from a dark…"
     },
     {
+        "title": "A Discovery of Witches",
+        "author": "Harkness, Deborah",
+        "isbn": "0143119680",
+        "rating": 3.99,
+        "length": 579,
+        "release": "2011-02-01",
+        "series": "All Souls Trilogy #1",
+        "textSnippet": "Discovering a magical manuscript in Oxford&#39;s library, scholar Diana Bishop, a descendant of witches who has rejected her heritage, inadvertently unleashes a fantastical underworld of daemons, witches and vampires whose activities center…"
+    },
+    {
         "title": "A Shadow in Summer",
         "author": "Abraham, Daniel",
+        "purchased": true,
         "isbn": "0765313405",
         "rating": 3.59,
         "length": 331,
@@ -215,6 +318,7 @@
         "isbn": "0756410193",
         "rating": 3.89,
         "length": 232,
+        "purchased": true,
         "series": "Who Fears Death #0.1",
         "textSnippet": "A fiery spirit dances from the pages of the Great Book. She brings the aroma of scorched sand and ozone. She has a story to tell…. The Book of Phoenix is a unique work of magical futurism."
     },
@@ -224,6 +328,7 @@
         "isbn": "0330493744",
         "rating": 4.04,
         "length": 934,
+        "purchased": true,
         "series": "Phèdre's Trilogy #1",
         "source": "twitter",
         "note": "An all time fave of mine: Spies; Court Intrigue; Sacred sex work; Queerness; BDSM; Purple prose; An utterly unforgettable f/f D/s scene",
@@ -251,11 +356,22 @@
         "textSnippet": "In these four novels, award-winning author Octavia E. Butler tells the classic story that began her legendary career: a mythic tale of the transformation of civilization."
     },
     {
+        "title": "Wild Seed",
+        "author": "Butler, Octavia E.",
+        "isbn": "0446676977",
+        "note": "everyone recommends Octavia Butler",
+        "rating": 4.21,
+        "length": 320,
+        "series": "Patternmaster #1",
+        "textSnippet": "Doro is an entity who changes bodies like clothes, killing his hosts by reflex -- or design."
+    },
+    {
         "title": "The Wrong Stars",
         "author": "Pratt, Tim",
         "isbn": "0857667092",
         "rating": 3.89,
         "length": 396,
+        "purchased": true,
         "source": "io9",
         "note": "It starts with a deep-space salvage crew discovering a seemingly long-abandoned ship that turns out to have one occupant—who, once revived, warns them of an alien race that mixes advanced technology with pure evil.",
         "textSnippet": "The crew of the freight and salvage ship White Raven encounter a space explorer that claims to have powerful extraterrestrial knowledge, passed down to her by a different alien race than humanity is currently allied with."
@@ -313,6 +429,7 @@
         "isbn": "0765378000",
         "rating": 3.87,
         "length": 432,
+        "purchased": true,
         "source": "io9",
         "series": "Terra Ignota #1",
         "textSnippet": "In a future where convicts like Mycroft Canner must wander the world being useful to all he meets, he encounters Carlyle Foster, a spiritual counselor in a world that has outlawed religion, and a young boy named Bridger with the ability to ..."
@@ -333,6 +450,7 @@
         "isbn": "1504038452",
         "rating": 3.74,
         "length": 320,
+        "purchased": true,
         "series": "Skeen #1",
         "textSnippet": "The first book in a thrilling trilogy featuring the inimitable Skeen, Skeen’s Leap cements Clayton’s well-deserved reputation as one of the premier purveyors of science fantasy, alongside Andre Norton, C. J. Cherryh, and Marion Zimmer ..."
     },
@@ -360,9 +478,21 @@
         "isbn": "0312890176",
         "rating": 4.04,
         "length": 417,
+        "purchased": true,
         "note": "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
         "series": "Book of the New Sun #1-2",
         "textSnippet": "The shadow of the torturer: In a thoroughly decadent world of the future, Severian the torturer is cast out from the torturer&#39;s guild when he falls in love with one of his victims and allows her to die."
+    },
+    {
+        "title": "The Shadow of the Torturer",
+        "author": "Wolfe, Gene",
+        "isbn": "0671540661",
+        "rating": 3.79,
+        "length": 262,
+        "purchased": true,
+        "note": "Gene Wolfe’s enigmatic Shadow of the Torturer is always a treat.",
+        "series": "Book of the New Sun #1",
+        "textSnippet": "In a thoroughly decadent world of the future, Severian the torturer is cast out from the torturer&#39;s guild when he falls in love with one of his victims and allows her to die"
     },
     {
         "title": "Lilith's Brood Bundle",
@@ -375,11 +505,22 @@
         "textSnippet": "But Lilith and all humanity must now share the world with uncanny, unimaginably alien creatures: their own children. This is their story."
     },
     {
+        "title": "Dawn",
+        "author": "Butler, Octavia E.",
+        "isbn": "0446603775",
+        "rating": 4.11,
+        "length": 248,
+        "note": "Recommended to Kara and by many people on Twitter in the wake of the white boy writing about slavery debacle",
+        "series": "Xenogenesis #1",
+        "textSnippet": "Lilith lyapo awoke from a centuries-long sleep to find herself aboard the vast spaceship of the Oankali."
+    },
+    {
         "title": "The Black Tides of Heaven",
         "author": "Yang, J.Y.",
         "isbn": "076539541X",
         "rating": 3.96,
         "length": 240,
+        "purchased": true,
         "series": "Tensorate #1",
         "textSnippet": "Can Akeha find peace without shattering the bond they share with their twin?"
     },
@@ -428,6 +569,7 @@
         "isbn": "1841493341",
         "rating": 3.82,
         "length": 356,
+        "purchased": true,
         "note": "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
         "series": "Eschaton #1",
         "textSnippet": "In the twenty-first century man created the Eschaton, a sentient artificial intelligence."
@@ -448,6 +590,7 @@
         "isbn": "043402080X",
         "rating": 3.91,
         "length": 418,
+        "purchased": true,
         "series": "Magicians #2",
         "textSnippet": "The Magician Kingis a grand voyage into the dark, glittering heart of magic, an extraordinary journey that allows the imagination to run riot and proves Grossman is the modern heir to C.S. Lewis."
     },
@@ -555,6 +698,7 @@
         "isbn": "1785151274",
         "rating": 3.95,
         "length": 560,
+        "purchased": true,
         "source": "A Working Library and Warren Ellis",
         "note": "You want to know how good GNOMON is? I hate him for it. Haaaate. I had a little hategasm just typing those words.",
         "textSnippet": "It is a magnificent achievement ... He&#39;s never written a bad book, but this is the one that&#39;ll see him mentioned in the same breath as William Gibson and David Mitchell ... This book seriously just destroyed me with joy."
@@ -565,6 +709,7 @@
         "isbn": "1328834557",
         "rating": 3.78,
         "length": 256,
+        "purchased": true,
         "textSnippet": "The international team at the Mars Endeavour colony is prepared for every eventuality except one—what happens when disaster strikes Earth?"
     },
     {
@@ -582,6 +727,7 @@
         "isbn": "0446675504",
         "rating": 4.14,
         "length": 356,
+        "purchased": true,
         "series": "Earthseed #1",
         "textSnippet": "Parable of the Sower is a dystopian classic of terror and hope-the story of an African American teenage girl trying to survive in an all-too-real future-from the &quot;grand dame&quot; of science fiction, Octavia E. Butler."
     },
@@ -591,6 +737,7 @@
         "isbn": "1888363819",
         "rating": 4.22,
         "length": 434,
+        "purchased": true,
         "series": "Earthseed #2",
         "textSnippet": "Lauren Olamina&#39;s daughter, Larkin, describes the broken and alienated world of 2032, as war racks the North American continent and an ultra-conservative religious crusader becomes president"
     },
@@ -636,6 +783,7 @@
         "isbn": "0060512741",
         "rating": 4.10,
         "length": 194,
+        "purchased": true,
         "textSnippet": "Through his dreams, George Orr can make alternate realities real"
     },
     {
@@ -664,9 +812,21 @@
         "isbn": "1447237617",
         "rating": 3.88,
         "length": 576,
+        "purchased": true,
         "note": "parallel-universe techno-thriller by Charles Stross",
         "series": "Merchant Princes #1-2",
         "textSnippet": "Believing she has found a career-making story when she stumbles upon a money-laundering scheme, reporter Miriam Beckstein is shocked when she is fired and threatened with death, a situation that turns increasingly bizarre when she learns ..."
+    },
+    {
+        "title": "The Family Trade",
+        "author": "Stross, Charles",
+        "isbn": "1447237617",
+        "rating": 3.51,
+        "length": 308,
+        "purchased": true,
+        "note": "parallel-universe techno-thriller by Charles Stross",
+        "series": "Merchant Princes #1",
+        "textSnippet": "Believing she has found a career-making story when she stumbles upon a money-laundering scheme, reporter Miriam Beckstein is shocked when she is fired and threatened with death, a situation that turns increasingly bizarre when she learns…"
     },
     {
         "title": "Behind the Throne",
@@ -713,6 +873,7 @@
         "isbn": "0765319853",
         "rating": 3.93,
         "length": 387,
+        "purchased": true,
         "series": "Little Brother #1",
         "textSnippet": "After being interrogated for days by the Department of Homeland Security in the aftermath of a major terrorist attack on San Francisco, California, seventeen-year-old Marcus, released into what is now a police state, decides to use his ..."
     },
@@ -741,6 +902,7 @@
         "isbn": "0765332655",
         "rating": 3.76,
         "length": 555,
+        "purchased": true,
         "source": "Steve Cook",
         "note": "a dying woman's memories alternate between two timelines",
         "textSnippet": "Remembering two different pasts that reflect contrasting historical events and relationships with different people, an elderly Patricia Cowan wonders about her identity while gazing at a moon that might house benign or malicious ..."
@@ -812,6 +974,7 @@
         "rating": 4.23,
         "length": 533,
         "source": "io9",
+        "purchased": true,
         "note": "In this debut novel set in and around 18th century Cairo, a faux fortune teller realizes she has actual magic powers, awakened by the arrival of a mysterious djinn warrior who opens up her world for better and worse.",
         "series": "Daevabad #1",
         "textSnippet": "But alongside this new world the old stories linger. Tales of djinn and spirits. Of cities hidden among the swirling sands of the desert, full of enchantment, desire and riches."
@@ -987,6 +1150,17 @@
         "textSnippet": "But he&#39;ll start small for now. He&#39;ll just steal something that no one will miss - at least for a while. Like a king. The Legend of Eli Monpress includes the novels: The Spirit Thief, The Sprit Rebellion, and The Spirit Eater."
     },
     {
+        "title": "The Spirit Thief",
+        "author": "Aaron, Rachel",
+        "isbn": "0316120820",
+        "rating": 3.88,
+        "length": 310,
+        "source": "Chuck",
+        "note": "fun antihero with high charisma, literally convinces the rock wall of his prison cell to set him free",
+        "series": "Legend of Eli Monpress #1",
+        "textSnippet": "Eli Monpress is talented. He's charming. And he's a thief. But not just any thief. He's the greatest thief of the age - and he's also a wizard. And with the help of his partners - a swordsman with the most powerful magic sword in the world but no magical ability of his own, and a demonseed who can step through shadows and punch through walls - he's going to put his plan into effect."
+    },
+    {
         "title": "Tomorrow's Kin",
         "author": "Kress, Nancy",
         "isbn": "0765390310",
@@ -1024,6 +1198,7 @@
         "isbn": "0670015679",
         "rating": 4.16,
         "length": 402,
+        "purchased": true,
         "series": "Magicians #3",
         "textSnippet": "Visiting his magical college after being cast out of the secret land of Fillory, Quentin Coldwater, accompanied by brilliant undergraduate Plum, encounters desperate practitioners of gray magic before discovering a sorcery masterwork that ..."
     },
@@ -1070,6 +1245,7 @@
         "isbn": "1473205786",
         "rating": 3.92,
         "length": 160,
+        "purchased": true,
         "source": "Verge",
         "note": "Can be read in any order",
         "series": "Hainish Cycle #2",
@@ -1081,6 +1257,7 @@
         "isbn": "1504038754",
         "rating": 3.84,
         "length": 482,
+        "purchased": true,
         "source": "io9",
         "textSnippet": "Ten centuries have passed since the last time the Portal of a Thousand Worlds opened, bringing chaos, upheaval, and radical change to the then-ruling dynasty, and now the mystical gateway is rumored to be on the verge of opening once more."
     },
@@ -1178,6 +1355,7 @@
         "isbn": "0575070536",
         "rating": 4.21,
         "length": 145,
+        "purchased": true,
         "note": "S.T.A.L.K.E.R. is based on the novella Roadside Picnic, by the Strugatsky brothers, and its film adaptation, Andrei Tarkovsky’s Stalker.",
         "textSnippet": "Red Schuhart is a stalker, one of those strange misfits who are compelled by some unknown force to venture illegally into the Zone and, in spite of the extreme danger, collect the mysterious artefacts that the alien visitors left scattered ..."
     },
@@ -1244,9 +1422,37 @@
         "isbn": "0575088877",
         "rating": 3.84,
         "length": 336,
+        "purchased": true,
         "source": "Warren Ellis",
         "series": "Jean le Flambeur #1",
         "textSnippet": "The Quantum Thief is a dazzling hard SF novel set in the solar system of the far future - a heist novel peopled by bizarre post-humans but powered by very human motives of betrayal, revenge and jealousy. It is a stunning debut."
+    },
+    {
+        "title": "Tiamat's Wrath",
+        "author": "Corey, James S.A.",
+        "isbn": "0316332879",
+        "rating": 0,
+        "length": 608,
+        "series": "Expanse #8",
+        "textSnippet": "The eighth novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
+    },
+    {
+        "title": "Persepolis Rising",
+        "author": "Corey, James S.A.",
+        "isbn": "0316332828",
+        "rating": 4.35,
+        "length": 608,
+        "series": "Expanse #7",
+        "textSnippet": "The seventh novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
+    },
+    {
+        "title": "Strange Dogs",
+        "author": "Corey, James S.A.",
+        "isbn": "0316217573",
+        "rating": 3.90,
+        "length": 112,
+        "series": "Expanse #6.5",
+        "textSnippet": "A novella set in the hard-scrabble world of the Expanse, Strange Dogs deepens James S. A. Corey&#39;s New York Times bestselling series."
     },
     {
         "title": "Babylon's Ashes",
@@ -1285,24 +1491,6 @@
         "textSnippet": "ENTER A NEW FRONTIER. An empty apartment, a missing family, that&#39;s creepy. But this is like finding a military base with no one on it. Fighters and tanks idling on the runway with no drivers. This is bad juju."
     },
     {
-        "title": "Strange Dogs",
-        "author": "Corey, James S.A.",
-        "isbn": "0316217573",
-        "rating": 3.90,
-        "length": 112,
-        "series": "Expanse #6.5",
-        "textSnippet": "A novella set in the hard-scrabble world of the Expanse, Strange Dogs deepens James S. A. Corey&#39;s New York Times bestselling series."
-    },
-    {
-        "title": "Persepolis Rising",
-        "author": "Corey, James S.A.",
-        "isbn": "0316332828",
-        "rating": 4.35,
-        "length": 608,
-        "series": "Expanse #7",
-        "textSnippet": "The seventh novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
-    },
-    {
         "title": "The Inheritance Trilogy",
         "author": "Jemisin, N.K.",
         "isbn": "0316334006",
@@ -1312,6 +1500,17 @@
         "note": "WOC author & characters, seduces a god",
         "series": "Inheritance #1-3.5",
         "textSnippet": "In this omnibus edition of N.K. Jemisin&#39;s brilliantly original award-winning fantasy series, a young woman becomes entangled in a power struggle of mythic proportions."
+    },
+    {
+        "title": "The Hundred Thousand Kingdoms",
+        "author": "Jemisin, N.K.",
+        "isbn": "0316043923",
+        "rating": 3.82,
+        "length": 427,
+        "source": "twitter",
+        "note": "WOC author & characters, seduces a god",
+        "series": "Inheritance #1",
+        "textSnippet": "There, to her shock, Yeine is named an heiress to the king. But the throne of the Hundred Thousand Kingdoms is not easily won, and Yeine is thrust into a vicious power struggle with cousins she never knew she had."
     },
     {
         "title": "Station Eleven",
@@ -1416,6 +1615,18 @@
         "note": "Sanderson has now been added to a very short list. Specifically, the list authors I wish to kill so that I might eat their livers and thereby gain their power.",
         "series": "Mistborn #1",
         "textSnippet": "Experiencing an epiphany within the most daunting prison of the monstrous Lord Ruler, half-Skaa Kelsier finds himself taking on the powers of a Mistborn, and teams up with ragged orphan Vin in a desperate plot to save their world."
+    },
+    {
+        "title": "The Black Company",
+        "author": "Cook, Glen",
+        "isbn": "0812521390",
+        "rating": 3.96,
+        "length": 319,
+        "purchased": true,
+        "source": "Tor Book of the Month",
+        "note": "A landmark of grimdark fantasy, starting a trend that continues with Game of Thrones today.",
+        "series": "Chronicles of the Black Company #1",
+        "textSnippet": "The tough mercenaries of the Black Company risk their lives and their souls as they set out to find the White Rose, a mystical figure who embodies the very essence of good."
     },
     {
         "title": "The Red Threads of Fortune",
