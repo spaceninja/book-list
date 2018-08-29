@@ -80,6 +80,9 @@ const buildHTML = function buildHTML(bookArray) {
       if (!bookArray[i].source && !bookArray[i].note) {
         t.querySelector('.book--recommendation').style.display = 'none';
       }
+      if (bookArray[i].purchased) {
+        t.querySelector('.book').classList.add('book--purchased');
+      }
 
       booklistContent.appendChild(t);
     }
