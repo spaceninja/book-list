@@ -83,6 +83,9 @@ const buildHTML = function buildHTML(bookArray) {
       if (bookArray[i].purchased) {
         t.querySelector('.book').classList.add('book--purchased');
       }
+      if (bookArray[i].prioritize) {
+        t.querySelector('.book').classList.add('book--prioritized');
+      }
 
       booklistContent.appendChild(t);
     }

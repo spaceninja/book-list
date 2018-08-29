@@ -5,6 +5,7 @@
         "isbn": "0000000000",
         "rating": 0,
         "length": 0,
+        "prioritize": true,
         "release": "2019-09-24",
         "series": "Ninth House #1",
         "source": "Warren Ellis & Charlie Stross",
@@ -17,6 +18,7 @@
         "isbn": "1250195535",
         "rating": 0,
         "length": 224,
+        "prioritize": true,
         "release": "2018-11-06",
         "series": "Voidwitch Saga #3",
         "source": "io9",
@@ -29,6 +31,7 @@
         "isbn": "0575075147",
         "rating": 0,
         "length": 400,
+        "prioritize": true,
         "release": "2018-10-25",
         "source": "io9",
         "note": "…on Mars, a planet that’s become overrun with crime and corruption. Professional killer Hakan Veil is more than ready to retire home to Earth—but he’ll need to puzzle his way out of an extremely dangerous mystery first.",
@@ -50,6 +53,7 @@
         "isbn": "1250191858",
         "rating": 0,
         "length": 176,
+        "prioritize": true,
         "release": "2018-10-02",
         "series": "Murderbot Diaries #4",
         "textSnippet": "The fourth and final part of the Murderbot Diaries series that began with All Systems Red."
@@ -105,6 +109,7 @@
         "isbn": "1250191785",
         "rating": 4.39,
         "length": 158,
+        "prioritize": true,
         "release": "2018-08-07",
         "series": "Murderbot Diaries #3",
         "textSnippet": "Rogue Protocol is the third in the Murderbot Diaries series, starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity."
@@ -149,6 +154,7 @@
         "rating": 4.33,
         "length": 159,
         "purchased": true,
+        "prioritize": true,
         "release": "2018-05-08",
         "series": "Murderbot Diaries #2",
         "textSnippet": "The follow-up to the hugely popular All Systems Red It has a dark past – one in which a number of humans were killed."
@@ -218,6 +224,7 @@
         "isbn": "1481451952",
         "rating": 4.05,
         "length": 480,
+        "prioritize": true,
         "release": "2018-03-13",
         "series": "Arcadia Project #3",
         "textSnippet": "In the third book of the Nebula Award–nominated Arcadia Project series, which New York Times bestselling author Seanan McGuire called “exciting, inventive, and brilliantly plotted,” Millie Roper has to pull off two impossible ..."
@@ -309,6 +316,7 @@
         "isbn": "1780894848",
         "rating": 4.28,
         "length": 427,
+        "prioritize": true,
         "series": "Star Wars: Thrawn #1",
         "textSnippet": "The Sunday Times Bestsller In this definitive novel, readers will follow Thrawn&#39;s rise to power--uncovering the events that created one of the most iconic villains in Star Wars history."
     },
@@ -385,6 +393,7 @@
         "isbn": "0060515228",
         "rating": 4.01,
         "length": 400,
+        "prioritize": true,
         "note": "Contains Sherlock Holmes/Cthulu story",
         "textSnippet": "Such marvelous creations and more—including a short story set in the world of The Matrix, and others set in the worlds of gothic fiction and children&#39;s fiction—can be found in this extraordinary collection, which showcases Gaiman&#39;s ..."
     },
@@ -406,6 +415,7 @@
         "rating": 3.86,
         "length": 448,
         "purchased": true,
+        "prioritize": true,
         "note": "From the author of Ancillary Mercy",
         "textSnippet": "Following her record-breaking debut trilogy, Ann Leckie, winner of the Hugo, Nebula, Arthur C. Clarke and Locus Awards, returns with an enthralling new novel of power, theft, privilege and birthright."
     },
@@ -416,6 +426,7 @@
         "rating": 3.92,
         "length": 371,
         "purchased": true,
+        "prioritize": true,
         "source": "Jen Myers",
         "textSnippet": "Multiple award winning, #1 New York Times bestselling author Neil Gaiman returns to dazzle, captivate, haunt, and entertain with this third collection of short fiction following Smoke and Mirrors and Fragile Things—which includes a never ..."
     },
@@ -480,6 +491,7 @@
         "rating": 4.02,
         "length": 400,
         "purchased": true,
+        "prioritize": true,
         "series": "Girl With All the Gifts #2",
         "textSnippet": "From the author of USA Today bestseller The Girl With All the Gifts, a terrifying new novel set in the same post-apocalyptic world."
     },
@@ -587,6 +599,7 @@
         "rating": 3.82,
         "length": 356,
         "purchased": true,
+        "prioritize": true,
         "note": "A space opera universe I invented circa 1996 and set two novels in—originally to be a series, but, alas, due to internal consistency issues I won't be writing any more of these.",
         "series": "Eschaton #1",
         "textSnippet": "In the twenty-first century man created the Eschaton, a sentient artificial intelligence."
@@ -796,6 +809,7 @@
         "isbn": "0062409166",
         "rating": 3.91,
         "length": 768,
+        "prioritize": true,
         "purchased": true,
         "textSnippet": "Written with the genius, complexity, and innovation that characterize all of Neal Stephenson’s work and steeped with the down-to-earth warmth and humor of Nicole Galland’s storytelling style, this exciting and vividly realized work of ..."
     },
@@ -983,6 +997,7 @@
         "isbn": "1841493899",
         "rating": 3.88,
         "length": 415,
+        "prioritize": true,
         "source": "Warren Ellis",
         "note": "I re-read Charles Stross’ ACCELERANDO at least once a year.  More often, I’ll return to just the first three chapters once every few months.  ACCELERANDO is a sprawling (yet massively condensed and concentrated) piece of radical hard sf about the deep computational future.  It’s also about Manfred Macx, “venture altruist,” staying ahead of the memetic curve with an exotic set of information-processing hardware.",
         "textSnippet": "His most ambitious novel to date, ACCELERANDO is a multi-generational saga following a brilliant clan of 21st-century posthumans."
@@ -1056,6 +1071,7 @@
         "rating": 3.95,
         "length": 386,
         "purchased": true,
+        "prioritize": true,
         "note": "Going to be an HBO series",
         "series": "Who Fears Death #1",
         "textSnippet": "Born into post-apocalyptic Africa to a mother who was raped after the slaughter of her entire tribe, Onyesonwu is tutored by a shaman and discovers that her magical destiny is to end the genocide of her people."
@@ -1107,6 +1123,7 @@
         "isbn": "067078561X",
         "rating": 4.29,
         "length": 496,
+        "prioritize": true,
         "source": "io9",
         "series": "Akata Witch #2",
         "textSnippet": "Now stronger, feistier, and a bit older, Sunny Nwazue, along with her friends from the the Leopard Society, travel through worlds, both visible and invisible, to the mysterious town of Osisi, where they fight in a climactic battle to save ..."
@@ -1117,6 +1134,7 @@
         "isbn": "0670011967",
         "rating": 4.09,
         "length": 349,
+        "prioritize": true,
         "source": "io9",
         "series": "Akata Witch #1",
         "textSnippet": "Twelve-year-old Sunny Nwazue, an American-born albino child of Nigerian parents, moves with her family back to Nigeria, where she learns that she has latent magical powers which she and three similarly gifted friends use to catch a serial ..."
@@ -1276,6 +1294,7 @@
         "isbn": "0349102155",
         "rating": 3.84,
         "length": 288,
+        "prioritize": true,
         "note": "The Bridge has been described as a ‘secret Culture novel’, a mystical key to Banks’s literary universe. It blurred the boundaries between genres – and revealed his sense of fun and games",
         "textSnippet": "The man who wakes up in the extraordinary world of a bridge has amnesia, and his doctor doesn&#39;t seem to want to cure him. Does it matter? Exploring the bridge occupies most of his days. But at night there are his dreams."
     },
@@ -1326,6 +1345,7 @@
         "isbn": "039360909X",
         "rating": 4.09,
         "length": 299,
+        "prioritize": true,
         "textSnippet": "Introducing an instant classic--master storyteller Neil Gaiman presents a dazzling version of the great Norse myths."
     },
     {
@@ -1434,6 +1454,7 @@
         "isbn": "076532802X",
         "rating": 3.89,
         "length": 384,
+        "prioritize": true,
         "series": "Firefall #2",
         "textSnippet": "A follow-up to the Hugo Award-nominated Blindsight is set in a 22nd-century world transformed by scientific evangelicals, supernatural beings and ghosts, where defunct biologist Daniel Bruks becomes trapped on a spaceship destined to make ..."
     },
@@ -1443,6 +1464,7 @@
         "isbn": "0316071986",
         "rating": 3.85,
         "length": 404,
+        "prioritize": true,
         "source": "io9",
         "note": "Iain M. Banks' latest novel Transition, in bookstores this week, will jelly your brains in brilliant weirdness. Banks turns political world-building on its head in this exciting tale of an Earth-based multiverse in turmoil, where dimension-hopping assassins jockey for power.",
         "textSnippet": "There is a world that hangs suspended between triumph and catastrophe, between the dismantling of the Wall and the fall of the Twin Towers, frozen in the shadow of suicide terrorism and global financial collapse."
@@ -1473,6 +1495,7 @@
         "isbn": "0316332879",
         "rating": 0,
         "length": 608,
+        "prioritize": true,
         "series": "Expanse #8",
         "textSnippet": "The eighth novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
     },
@@ -1482,6 +1505,7 @@
         "isbn": "0316332828",
         "rating": 4.35,
         "length": 608,
+        "prioritize": true,
         "series": "Expanse #7",
         "textSnippet": "The seventh novel in James S. A. Corey&#39;s New York Times bestselling Expanse series--now a major television series."
     },
@@ -1491,6 +1515,7 @@
         "isbn": "0316217573",
         "rating": 3.90,
         "length": 112,
+        "prioritize": true,
         "series": "Expanse #6.5",
         "textSnippet": "A novella set in the hard-scrabble world of the Expanse, Strange Dogs deepens James S. A. Corey&#39;s New York Times bestselling series."
     },
@@ -1500,6 +1525,7 @@
         "isbn": "0356504263",
         "rating": 4.19,
         "length": 538,
+        "prioritize": true,
         "series": "Expanse #6",
         "textSnippet": "The sixth book in the New York Times bestselling Expanse series."
     },
@@ -1509,6 +1535,7 @@
         "isbn": "0316217565",
         "rating": 3.85,
         "length": 75,
+        "prioritize": true,
         "series": "Expanse #5.5",
         "textSnippet": "The only company they have is each other and the Belters who guard them. The only stories they know are the triumphs and crimes that brought them there. The only future they see is an empty life in an enormous room."
     },
@@ -1518,6 +1545,7 @@
         "isbn": "0356504220",
         "rating": 4.37,
         "length": 536,
+        "prioritize": true,
         "series": "Expanse #5",
         "textSnippet": "And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left."
     },
@@ -1527,6 +1555,7 @@
         "isbn": "031621762X",
         "rating": 4.13,
         "length": 581,
+        "prioritize": true,
         "series": "Expanse #4",
         "textSnippet": "ENTER A NEW FRONTIER. An empty apartment, a missing family, that&#39;s creepy. But this is like finding a military base with no one on it. Fighters and tanks idling on the runway with no drivers. This is bad juju."
     },
