@@ -1101,8 +1101,9 @@
         "isbn": "1481476874",
         "rating": 3.29,
         "length": 384,
+        "prioritize": true,
         "source": "Verge",
-        "note": "Space pirates! Adda and Iridian are a pair of engineers who hijack a colony ship to join a pirate crew, only to discover that Barbary Station is controlled by an insane AI. This looks like it could be a really exciting space opera adventure.",
+        "note": "Space pirates! Specifically, queer space pirates of colour fighting off a murderous AI. Adda and Iridian are a pair of engineers who hijack a colony ship to join a pirate crew, only to discover that Barbary Station is controlled by an insane AI. This looks like it could be a really exciting space opera adventure.",
         "series": "Shieldrunner Pirates #1",
         "textSnippet": "Desperate for employment, they hijack a colony ship and plan to join a famed pirate crew living in luxury at Barbary Station, an abandoned shipbreaking station in deep space. But when they arrive there, nothing is as expected."
     },
