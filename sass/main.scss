@@ -84,6 +84,9 @@ h1 {
 }
 
 .legend--item {
+    align-items: center;
+    display: flex;
+    line-height: 1;
     margin: 0;
     padding: 0;
 
@@ -97,9 +100,13 @@ h1 {
         content: "";
         display: inline-block;
         height: 0.75em;
-        margin-right: 0.25em;
+        margin-right: 0.33em;
         width: 0.75em;
     }
+}
+
+.legend--checkbox {
+    margin-right: 0.33em;
 }
 
 .legend--purchased {
@@ -173,8 +180,8 @@ blockquote {
     }
 
     &::after {
-        border-top-left-radius: 4px;
         border: 10px solid transparent;
+        border-top-left-radius: 4px;
         content: "";
         height: 0;
         left: 0;

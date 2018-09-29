@@ -3,18 +3,36 @@
 const booklistContent = document.getElementById('booklist-content');
 const booklistError = document.getElementById('booklist-error');
 const booklistSort = document.getElementById('booklist-sort');
+const booklistFilter = document.getElementsByName('filter');
 const bookTemplate = document.getElementById('book-template');
 const xhr = new XMLHttpRequest();
 let books = [];
+let booksBackup = [];
+
+//
+// Format Author Name
+// change from Last, First to First Last
+//
+const reverseName = function reverseName(name) {
+  const fullName = name.split(', ');
+  const lastName = fullName[0];
+  const firstName = fullName[fullName.length - 1];
+  if (fullName.length === 1) {
+    return name;
+  }
+  return `${firstName} ${lastName}`;
+};
 
 //
 // Parse the Book Data
+// apply a few modifications to the data
 //
 const parseBooks = function parseBooks(input) {
   const bookArray = input;
 
   for (let i = 0; i < bookArray.length; i += 1) {
     bookArray[i].rating = bookArray[i].rating.toFixed(1);
+    bookArray[i].displayAuthor = reverseName(bookArray[i].author);
   }
 
   return bookArray;
@@ -37,16 +55,6 @@ const sortByKeys = function sortByKeys(array, key1, key1Sort, key2, key2Sort) {
   return array.sort(s);
 };
 
-const reverseName = function reverseName(name) {
-  const fullName = name.split(', ');
-  const lastName = fullName[0];
-  const firstName = fullName[fullName.length - 1];
-  if (fullName.length === 1) {
-    return name;
-  }
-  return `${firstName} ${lastName}`;
-};
-
 //
 // Convert book array into HTML
 //
@@ -59,7 +67,7 @@ const buildHTML = function buildHTML(bookArray) {
 
       t.querySelector('.book').id = bookArray[i].isbn;
       t.querySelector('.book--title').innerHTML = widont(bookArray[i].title);
-      t.querySelector('.book--author').innerHTML = reverseName(bookArray[i].author);
+      t.querySelector('.book--author').innerHTML = bookArray[i].displayAuthor;
       t.querySelector('.book--rating').innerHTML = bookArray[i].rating;
       t.querySelector('.book--length').innerHTML = bookArray[i].length;
       if (bookArray[i].series) {
@@ -96,11 +104,38 @@ const buildHTML = function buildHTML(bookArray) {
 };
 
 //
-// Sort array by selected option
+// Filter Book List
+// Adds an event listener to each filter checkbox
+// which filters book list by chosen key
+// then re-applies the current sort method
 //
-const sortBy = function sortBy() {
-  const sortOption = this.options[this.selectedIndex];
+booklistFilter.forEach((item) => {
+  item.addEventListener('change', () => {
+    // restore book list to unfiltered
+    books = booksBackup;
 
+    // filter the book list
+    booklistFilter.forEach((checkbox) => {
+      if (checkbox.checked) {
+        books = books.filter(book => book[checkbox.value]);
+      }
+    });
+
+    // sort by current selection
+    booklistSort.dispatchEvent(new Event('change'));
+  });
+});
+
+//
+// Sort Book List
+// Adds event listener to select menu
+// which sorts book list by chosen method
+//
+booklistSort.addEventListener('change', (e) => {
+  // define the sort method
+  const sortOption = e.target.options[e.target.selectedIndex];
+
+  // pass the sort method to sortByKeys
   sortByKeys(
     books,
     sortOption.value,
@@ -109,13 +144,9 @@ const sortBy = function sortBy() {
     sortOption.dataset.sortSecondaryOrder,
   );
 
+  // rebuild the DOM
   buildHTML(books);
-};
-
-//
-// Add event listener to select menu
-//
-booklistSort.addEventListener('change', sortBy);
+});
 
 //
 // Prepare and send the Ajax request, and deal with the response
@@ -125,6 +156,7 @@ xhr.open('GET', 'data/books.json', true);
 xhr.onload = function ajaxOnLoad() {
   if (xhr.status >= 200 && xhr.status < 400) {
     books = parseBooks(JSON.parse(xhr.responseText));
+    booksBackup = books;
     booklistSort.dispatchEvent(new Event('change'));
   } else {
     const error = 'Whoops! Something went wrong. Please try again.';
