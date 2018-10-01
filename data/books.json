@@ -19,6 +19,7 @@
         "rating": 0,
         "length": 0,
         "release": "2019-05-07",
+        "source": "Tor",
         "textSnippet": "Seanan McGuire introduces readers to a world of amoral alchemy, shadowy organizations, and impossible cities in a new standalone fantasy"
     },
     {
@@ -841,6 +842,7 @@
         "rating": 4.10,
         "length": 194,
         "purchased": true,
+        "note": "Recommended by someone… 'favorite by proxy'?",
         "textSnippet": "Through his dreams, George Orr can make alternate realities real"
     },
     {
@@ -1157,6 +1159,7 @@
         "isbn": "1481451219",
         "rating": 3.81,
         "length": 352,
+        "purchased": true,
         "source": "Tor",
         "textSnippet": "“A remarkable writer.” —Neil Gaiman, bestselling author of American Gods An Alex Award Winner There is a dark secret that is hiding at the heart of New York City and diminishing the city’s magicians’ power in this fantasy thriller ..."
     },
